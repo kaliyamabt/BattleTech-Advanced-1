@@ -4531,6 +4531,29 @@
 			"IsCareerStartingDisplayFaction": true,
 			"IsStoryStartingDisplayFaction": false,
 			"HasAIBehaviorVariableScope": false
+		},
+		{
+			"ID": 5175,
+			"Name": "Cameron",
+			"FriendlyName": "Cameron",
+			"Description": "",
+			"FactionDefID": "faction_Cameron",
+			"IsRealFaction": true,
+			"IsGreatHouse": true,
+			"IsClan": false,
+			"IsMercenary": false,
+			"IsPirate": false,
+			"DoesGainReputation": true,
+			"CanAlly": true,
+			"IsProceduralContractFaction": true,
+			"IsPossibleNeutralToAllFaction": true,
+			"IsPossibleHostileToAllFaction": true,
+			"IsPossibleAllyFallbackFaction": false,
+			"IsCareerScoringFaction": false,
+			"IsCareerIgnoredContractTarget": false,
+			"IsCareerStartingDisplayFaction": true,
+			"IsStoryStartingDisplayFaction": false,
+			"HasAIBehaviorVariableScope": false
 		}
 	]
 }
