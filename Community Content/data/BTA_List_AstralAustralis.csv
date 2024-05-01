@@ -21,5 +21,6 @@ mechdef_scorpion_SCP-SB,Mech,0,10
 mechdef_greatturtle_GTR-SB,Mech,0,10
 mechdef_quickdraw_QKD-SB,Mech,0,10
 mechdef_vanquisher_VQR-SB,Mech,0,10
+mechdef_hammerhands_HMH-SB,Mech,0,10
 vehicledef_MANTICORE_BLEEPER,Mech,0,10
 vehicledef_SCHREK_BLEEPER,Mech,0,10
