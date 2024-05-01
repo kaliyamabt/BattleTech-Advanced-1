@@ -1389,7 +1389,7 @@
 			"IsPossibleAllyFallbackFaction": false,
 			"IsCareerScoringFaction": false,
 			"IsCareerIgnoredContractTarget": true,
-			"IsCareerStartingDisplayFaction": true,
+			"IsCareerStartingDisplayFaction": false,
 			"IsStoryStartingDisplayFaction": false,
 			"HasAIBehaviorVariableScope": false
 		},
@@ -1432,8 +1432,8 @@
 			"IsPossibleAllyFallbackFaction": true,
 			"IsCareerScoringFaction": true,
 			"IsCareerIgnoredContractTarget": false,
-			"IsCareerStartingDisplayFaction": true,
-			"IsStoryStartingDisplayFaction": true,
+			"IsCareerStartingDisplayFaction": false,
+			"IsStoryStartingDisplayFaction": false,
 			"HasAIBehaviorVariableScope": false
 		},
 		{
@@ -1518,8 +1518,8 @@
 			"IsPossibleAllyFallbackFaction": true,
 			"IsCareerScoringFaction": true,
 			"IsCareerIgnoredContractTarget": false,
-			"IsCareerStartingDisplayFaction": true,
-			"IsStoryStartingDisplayFaction": true,
+			"IsCareerStartingDisplayFaction": false,
+			"IsStoryStartingDisplayFaction": false,
 			"HasAIBehaviorVariableScope": false
 		},
 		{
@@ -1667,8 +1667,8 @@
 			"IsPossibleAllyFallbackFaction": true,
 			"IsCareerScoringFaction": true,
 			"IsCareerIgnoredContractTarget": false,
-			"IsCareerStartingDisplayFaction": true,
-			"IsStoryStartingDisplayFaction": true,
+			"IsCareerStartingDisplayFaction": false,
+			"IsStoryStartingDisplayFaction": false,
 			"HasAIBehaviorVariableScope": false
 		},
 		{

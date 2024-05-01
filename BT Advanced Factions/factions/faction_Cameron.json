@@ -20,6 +20,7 @@
 		"ClanDiamondShark",
 		"ClanGhostBear",
 		"ClanGoliathScorpion",
+		"ScorpionEmpire",
 		"ClanJadeFalcon",
 		"ClanSnowRaven",
 		"ClanWolf",
@@ -29,7 +30,7 @@
 	],
 	"Presence": 0.1,
 	"factionID": "Cameron",
-	"icon": "uixTxrLogo_Cameron",
+	"icon": "uixTxrLogo_Cameron2",
 	"factionMapBorderOverrideColor": "rgba(0,0,0,1.0)",
 	"factionMapColor": "rgba(125,118,121,0.9)",
 	"DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",
@@ -53,5 +54,5 @@
 	"BadFaithFailureStatements": [
 		"Disappointing show today, Commander. With work like this the Hegemony will never reclaim its rightful place as the leaders of the Inner Sphere, we expect better from you next time."
 	],
-	"Description": "The Terran Hegemony was the first and greatest of the Great Houses but was destroyed in the Amaris Civil War that toppled the Star League. However, thanks to clever maneuvering by ComStar during the Succession Wars and the discovery of surviving members of House Cameron, the Hegemony was reborn in 3036 and reclaimed many of its original worlds. Now, the Hegemony is primed to once again claim a leading role amongst the stars under the watchful eye of Director-General Alexander Cameron and the guiding hand of ComStar."
+	"Description": "The Terran Hegemony was the first and greatest of the Great Houses but was destroyed in the Amaris Civil War that toppled the Star League. However, thanks to clever maneuvering by ComStar during the Succession Wars and the discovery of surviving members of House Cameron, the Hegemony was reborn in 3036 and reclaimed many of its original worlds. Now, the Hegemony is primed to once again claim a leading role amongst the stars under the watchful eye of Director-General Christopher Cameron and the guiding hand of ComStar."
 }
