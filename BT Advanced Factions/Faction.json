@@ -1389,7 +1389,7 @@
 			"IsPossibleAllyFallbackFaction": false,
 			"IsCareerScoringFaction": false,
 			"IsCareerIgnoredContractTarget": true,
-			"IsCareerStartingDisplayFaction": true,
+			"IsCareerStartingDisplayFaction": false,
 			"IsStoryStartingDisplayFaction": false,
 			"HasAIBehaviorVariableScope": false
 		},
@@ -1432,8 +1432,8 @@
 			"IsPossibleAllyFallbackFaction": true,
 			"IsCareerScoringFaction": true,
 			"IsCareerIgnoredContractTarget": false,
-			"IsCareerStartingDisplayFaction": true,
-			"IsStoryStartingDisplayFaction": true,
+			"IsCareerStartingDisplayFaction": false,
+			"IsStoryStartingDisplayFaction": false,
 			"HasAIBehaviorVariableScope": false
 		},
 		{
@@ -1518,8 +1518,8 @@
 			"IsPossibleAllyFallbackFaction": true,
 			"IsCareerScoringFaction": true,
 			"IsCareerIgnoredContractTarget": false,
-			"IsCareerStartingDisplayFaction": true,
-			"IsStoryStartingDisplayFaction": true,
+			"IsCareerStartingDisplayFaction": false,
+			"IsStoryStartingDisplayFaction": false,
 			"HasAIBehaviorVariableScope": false
 		},
 		{
@@ -1667,8 +1667,8 @@
 			"IsPossibleAllyFallbackFaction": true,
 			"IsCareerScoringFaction": true,
 			"IsCareerIgnoredContractTarget": false,
-			"IsCareerStartingDisplayFaction": true,
-			"IsStoryStartingDisplayFaction": true,
+			"IsCareerStartingDisplayFaction": false,
+			"IsStoryStartingDisplayFaction": false,
 			"HasAIBehaviorVariableScope": false
 		},
 		{
@@ -4515,6 +4515,29 @@
 			"FriendlyName": "RimWorldsRepublic",
 			"Description": "",
 			"FactionDefID": "faction_RimWorldsRepublic",
+			"IsRealFaction": true,
+			"IsGreatHouse": true,
+			"IsClan": false,
+			"IsMercenary": false,
+			"IsPirate": false,
+			"DoesGainReputation": true,
+			"CanAlly": true,
+			"IsProceduralContractFaction": true,
+			"IsPossibleNeutralToAllFaction": true,
+			"IsPossibleHostileToAllFaction": true,
+			"IsPossibleAllyFallbackFaction": false,
+			"IsCareerScoringFaction": false,
+			"IsCareerIgnoredContractTarget": false,
+			"IsCareerStartingDisplayFaction": true,
+			"IsStoryStartingDisplayFaction": false,
+			"HasAIBehaviorVariableScope": false
+		},
+		{
+			"ID": 5175,
+			"Name": "Cameron",
+			"FriendlyName": "Cameron",
+			"Description": "",
+			"FactionDefID": "faction_Cameron",
 			"IsRealFaction": true,
 			"IsGreatHouse": true,
 			"IsClan": false,
