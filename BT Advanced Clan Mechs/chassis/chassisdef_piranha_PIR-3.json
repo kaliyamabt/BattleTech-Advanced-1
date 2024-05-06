@@ -240,6 +240,7 @@
 	"ChassisTags": {
 		"items": [
 			"ClanMech",
+			"IgnoreEngineLimit",
 			"LightMech"
 		],
 		"tagSetSourceFile": ""

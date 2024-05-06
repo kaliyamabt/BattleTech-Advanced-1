@@ -353,6 +353,14 @@
 			}
 		},
 		{
+			"Name": "a/a/o/industrial",
+			"DisplayName": "Industrial Tool Ammo",
+			"DefaultCustoms": {
+				"Sorter": 1000,
+				"InventorySorter": "825"
+			}
+		},
+		{
 			"Name": "a/s/a/ams",
 			"DisplayName": "AMS Ammo",
 			"DefaultCustoms": {
