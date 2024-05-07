@@ -1,0 +1,47 @@
+{
+	"ID": "faction_KindraaMickKreese",
+	"Name": "Kindraa Mick-Kreese",
+	"ShortName": "Kindraa Mick-Kreese",
+	"Demonym": "Kindraa Mick-Kreese",
+	"Government": "Kindraa",
+	"Allies": [],
+	"Enemies": [],
+	"Presence": 1.0,
+	"ReputationStatements": [
+		"We've got a need for a mercenary to help us out with a little problem. I hope you're up for the task, Commander.",
+		"We've got a need for a mercenary to help us out with a little problem. I hope you're up for the task, Commander.",
+		"We've got a need for a mercenary to help us out with a little problem. I hope you're up for the task, Commander.",
+		"We've got a need for a mercenary to help us out with a little problem. I hope you're up for the task, Commander.",
+		"We've got a need for a mercenary to help us out with a little problem. I hope you're up for the task, Commander.",
+		"We've got a need for a mercenary to help us out with a little problem. I hope you're up for the task, Commander.",
+		"We've got a need for a mercenary to help us out with a little problem. I hope you're up for the task, Commander."
+	],
+	"MissionSuccessStatements": [
+		"Well done, Commander. We obviously placed our faith in the right mercenary company. We'll let you know if we have any other work for you."
+	],
+	"GoodFaithFailureStatements": [
+		"You win some, you lose some. Sometimes it's in between. I'm disappointed you couldn't complete the contract, but at least you gave it your best shot."
+	],
+	"BadFaithFailureStatements": [
+		"For somebody who came so highly recommended, you let us down pretty hard. Thanks for nothing, I guess."
+	],
+	"DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",
+	"DefaultRepresentativeCastDefId": "castDef_LocalsDefault",
+	"DataManager": null,
+	"factionID": "KindraaMickKreese",
+	"icon": "uixTxrLogo_KindraaMickKreese",
+	"heraldryDefId": "heraldrydef_KindraaMickKreese",
+	"storePanelImage": null,
+	"factionStoreColor": null,
+	"Description": "Clan Fire Mandrill is divided into various sub-groups called Kindraa, of which Kindraa Mick-Kreese is a lesser specimen. Mick-Kreese has long struggled for resources and had to scrape and claw for everything it has, leading to the Kindraa often regarding other Kindraa with contempt and bitterness. Still, they are Clan warriors and thus are a force to be feared in the Inner Sphere.",
+	"StartingReputationValues": [
+		0,
+		0,
+		0
+	],
+	"StartingReputationModes": [
+		"KAMEA_CAMPAIGN",
+		"CAREER",
+		"NONE"
+	]
+}
