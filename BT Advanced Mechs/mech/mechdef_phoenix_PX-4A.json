@@ -26,7 +26,7 @@
 		"UIName": "Phoenix PX-4A",
 		"Id": "mechdef_phoenix_PX-4A",
 		"Name": "Phoenix",
-		"Details": "Long thought lost, the Phoenix has risen from the ashes like its namesake and once again soars under the banner of the Rim Worlds Republic and its newly returned master, Stefan Amaris the Usurper. The PX-4A is one of Amaris's new variants, developed to demonstrate his new weapon technologies, in this case the Atom Smasher/10. Armed with an Atom Smasher/10 as well as a Light Autocannon/5 (with piercing ammunition, naturally), the PX-4A is more than capable of smashing anything it faces into dust.",
+		"Details": "Long thought lost, the Phoenix has risen from the ashes like its namesake and once again soars under the banner of the Rim Worlds Republic. The PX-4A is a new variant, developed to demonstrate the RWR's new weapon technology, in this case the Atom Smasher/10. Armed with an Atom Smasher/10 as well as a Light Autocannon/5 (with piercing ammunition, naturally), the PX-4A is more than capable of smashing anything it faces into dust.",
 		"Icon": "uixTxrIcon_phoenix"
 	},
 	"simGameMechPartCost": 520000,

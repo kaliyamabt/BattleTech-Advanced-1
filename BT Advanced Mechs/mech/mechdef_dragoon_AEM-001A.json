@@ -9,7 +9,7 @@
 			"unit_lance_assassin",
 			"unit_role_brawler",
 			"unit_release",
-			"unit_rarity_6",
+			"unit_rarity_4",
 			"RimWorldsRepublic",
 			"unit_legal"
 		],
@@ -26,7 +26,7 @@
 		"UIName": "Dragoon AEM-001A",
 		"Id": "mechdef_dragoon_AEM-001A",
 		"Name": "Dragoon",
-		"Details": "Designed by the Rim Worlds Republic during the Amaris Civil War, the Dragoon very quickly became a lost BattleMech as the SLDF purged the existing examples and refused to take any on the Exodus. However, with the return of the Usurper himself to the Inner Sphere, the Dragoon quickly returned to relevance as Stefan Amaris assaulted worlds across the IS in a frenzy to reclaim his lost empire. The AEM-001A is armed with twin Death Rays, new superweapons from the mind behind the Amaris Empire. To handle the prodigous waste heat from the weapons, the -001A carries 17 DHS as well as an advanced heat bank and heat exchanger. A specialized targeting computer ensures the Death Rays rarely miss their mark.",
+		"Details": "Designed by the Rim Worlds Republic during the Amaris Civil War, the Dragoon very quickly became a lost BattleMech as the SLDF purged the existing examples and refused to take any on the Exodus. However, the plans for the Dragoon survived and were brought back to the RWR in the wake of the Exodus, where they were kept safe until being put back into production in the 3050s as technology returned. The AEM-001A is an upgraded version of the Dragoon, using two 'Death' Rays as new weapons to fend off Clan Jade Falcon aggression and help secure the RWR's tenuous borders. The -001A carries 17 DHS and a targeting computer to help the rays stay operational.",
 		"Icon": "uixTxrIcon_dragoon"
 	},
 	"simGameMechPartCost": 880000,

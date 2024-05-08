@@ -8,7 +8,7 @@
 		"UIName": "Rampage",
 		"Id": "chassisdef_rampage_RMP-5A",
 		"Name": "Rampage",
-		"Details": "The Rampage was considered a 'lost design' before being rediscovered by the Rim Collection in the 3050s, however now that Stefan Amaris has returned to the Inner Sphere and re-established his realm, the Rim Worlds Republic, the Rampage is once again the symbol of Amaris's military might. The RMP-5A is a bit of a kitchen sink design, harkening back to the Rampages of old. Armed with a LB-10X Autocannon is where the design starts and then it just goes off the rails from there, with a Death Ray, Atom Smasher/10, and twin Meatgrinder MGs to round out the firepower. 15 DHS and an advanced heat bank help contain the Death Ray's heat while 5 total tons of ammo ensure the guns stay in operation as long as possible.",
+		"Details": "The Rampage was considered a 'lost design' before being put back into service by the Rim Worlds Republic during the Succession Wars and the Clan Invasion. With newly developed weapons, the RWR built new Rampage variants in order to protect the realm. The RMP-5A is a bit of a kitchen sink design, harkening back to the Rampages of old. Armed with a LB-10X Autocannon is where the design starts and then it just goes off the rails from there, with a 'Death' Ray, Atom Smasher/10, and twin Shredder MGs to round out the firepower. 15 DHS and an advanced heat bank help contain the ray's heat while 5 total tons of ammo ensure the guns stay in operation as long as possible.",
 		"Icon": "uixTxrIcon_rampage"
 	},
 	"MovementCapDefID": "movedef_battlemaster_BLR-1G",
@@ -249,5 +249,5 @@
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Heavy Brawler & Close Assault",
-	"YangsThoughts": "The Rampage was considered a 'lost design' before being rediscovered by the Rim Collection in the 3050s, however now that Stefan Amaris has returned to the Inner Sphere and re-established his realm, the Rim Worlds Republic, the Rampage is once again the symbol of Amaris's military might. The RMP-5A is a bit of a kitchen sink design, harkening back to the Rampages of old. Armed with a LB-10X Autocannon is where the design starts and then it just goes off the rails from there, with a Death Ray, Atom Smasher/10, and twin Meatgrinder MGs to round out the firepower. 15 DHS and an advanced heat bank help contain the Death Ray's heat while 5 total tons of ammo ensure the guns stay in operation as long as possible."
+	"YangsThoughts": "The Rampage was considered a 'lost design' before being put back into service by the Rim Worlds Republic during the Succession Wars and the Clan Invasion. With newly developed weapons, the RWR built new Rampage variants in order to protect the realm. The RMP-5A is a bit of a kitchen sink design, harkening back to the Rampages of old. Armed with a LB-10X Autocannon is where the design starts and then it just goes off the rails from there, with a 'Death' Ray, Atom Smasher/10, and twin Shredder MGs to round out the firepower. 15 DHS and an advanced heat bank help contain the ray's heat while 5 total tons of ammo ensure the guns stay in operation as long as possible."
 }

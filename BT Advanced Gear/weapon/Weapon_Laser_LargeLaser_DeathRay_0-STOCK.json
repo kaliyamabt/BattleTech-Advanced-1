@@ -5,10 +5,13 @@
 				"CategoryID": "w/e/l/laser"
 			}
 		],
+		"ComponentExplosion": {
+			"ExplosionDamage": 120
+		},
 		"BonusDescriptions": [
 			"WpnAccuracy: +1",
-			"PipsIgnored: 1",
 			"WpnCrits: +25%",
+			"WeaponBoom: 125",
 			"WeaponAttachmentCompatible: Laser Insulator",
 			"WeaponAttachmentCompatible: Laser FCS"
 		]
@@ -29,7 +32,7 @@
 	"Damage": 120,
 	"OverheatedDamageMultiplier": 0,
 	"EvasiveDamageMultiplier": 0,
-	"EvasivePipsIgnored": 1,
+	"EvasivePipsIgnored": 0,
 	"DamageVariance": 0,
 	"HeatDamage": 0,
 	"AccuracyModifier": -1,
@@ -47,12 +50,12 @@
 		"Cost": 1250000,
 		"Rarity": 9,
 		"Purchasable": true,
-		"Manufacturer": "Amaris Empire",
+		"Manufacturer": "Martian Construction, Inc.",
 		"Model": "War of the Worlds",
-		"UIName": "Death Ray",
+		"UIName": "'Death' Ray",
 		"Id": "Weapon_Laser_LargeLaser_DeathRay_0-STOCK",
-		"Name": "Death Ray",
-		"Details": "After his mysterious return to the Inner Sphere, Stefan Amaris the Usurper set out to learn how military technology had advanced in the intervening centuries. Based on the raw power of current Large Laser technology, this is a so-called Death Ray weapon, developed by the Rim Worlds Republic at the order of Stefan Amaris himself. Though heavy and bulky, the Death Ray does tremendous damage to anything it touches. It is also unusually accurate for such a powerful weapon, ensuring it can easily land shots. However, the Death Ray produces prodigous heat and is difficult to use because of it.",
+		"Name": "'Death' Ray",
+		"Details": "The Rim Worlds Republic's manufacturing sector has always been strong. In the wake of the 3050s Clan Invasion that nearly crippled the Republic, President Ivan Helius II ordered the realm's military manufacturers to produce a new crop of weaponry to better defend the realm from further Clan aggression. Included was the so-called 'Death' Ray, a joking name from an engineer on the project that ended up sticking as the real name. This weapon is effectively an overtuned Binary Laser Cannon, multiple Large Laser cores amplified together into a single beam. However, the 'Death' Ray makes incredible waste heat and is also fragile, exploding with force when damaged due to the overcharged components that help produce such large damage output. \n\n <b><color=#099ff2>VOLATILE!</color></b>",
 		"Icon": "uixSvgIcon_weapon_Energy"
 	},
 	"BonusValueA": "",
