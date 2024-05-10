@@ -1,4 +1,11 @@
 {
+	"Custom": {
+		"AssemblyVariant": {
+			"PrefabID": "IcarusII",
+			"Exclude": false,
+			"Include": true
+		}
+	},
 	"FixedEquipment": [
 		{
 			"MountedLocation": "Head",
