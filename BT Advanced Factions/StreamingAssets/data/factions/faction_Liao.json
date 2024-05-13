@@ -9,6 +9,8 @@
 		"LangendorfLancers",
 		"LethalInjection",
 		"OlsonsRangers",
+		"MagistracyOfCanopus",
+		"TaurianConcordat",
 		"Locals"
 	],
 	"Enemies": [
@@ -16,6 +18,7 @@
 		"Steiner",
 		"Kurita",
 		"Davion",
+		"Cameron",
 		"AuriganRestoration",
 		"ComStar",
 		"WordOfBlake",
@@ -23,6 +26,11 @@
 		"ClanWolf",
 		"ClanJadeFalcon",
 		"ClanGhostBear",
+		"ClanNovaCat",
+		"ClanSnowRaven",
+		"ClanGoliathScorpion",
+		"ClanFireMandrill",
+		"ScorpionEmpire",
 		"Locals",
 		"Mercenaries",
 		"Ives",
@@ -31,8 +39,7 @@
 		"StykCommonality",
 		"TerracapConfederation",
 		"FroncReaches",
-		"AuriganDirectorate",
-		"RimWorldsRepublic"
+		"AuriganDirectorate"
 	],
 	"Presence": 1.5,
 	"factionID": "Liao",

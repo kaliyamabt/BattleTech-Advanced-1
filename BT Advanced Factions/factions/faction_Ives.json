@@ -8,6 +8,7 @@
 		"RubinskysLightHorse",
 		"KhorsakovsCossacks",
 		"Davion",
+		"Cameron",
 		"ComStar",
 		"Locals",
 		"Mercenaries"
@@ -19,8 +20,7 @@
 		"Locals",
 		"Mercenaries",
 		"SarnaSupremacy",
-		"AuriganPirates",
-		"RimWorldsRepublic"
+		"AuriganPirates"
 	],
 	"Presence": 0.1,
 	"DefaultCombatLeaderCastDefId": "castDef_Ives",

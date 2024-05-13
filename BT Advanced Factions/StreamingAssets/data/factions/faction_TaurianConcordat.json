@@ -11,12 +11,16 @@
 		"LongwoodsBluecoats",
 		"MagistracyOfCanopus",
 		"Liao",
-		"AuriganRestoration",
 		"Locals"
 	],
 	"Enemies": [
 		"Davion",
+		"Cameron",
+		"ComStar",
+		"WordOfBlake",
+		"AuriganRestoration",
 		"AuriganPirates",
+		"Tortuga",
 		"Mercenaries",
 		"Locals",
 		"SanctuaryAlliance",

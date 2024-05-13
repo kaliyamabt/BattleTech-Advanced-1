@@ -5,7 +5,6 @@
 	"Demonym": "Republican",
 	"Government": "Republic",
 	"Allies": [
-		"Hanse",
 		"TaurianConcordat",
 		"MagistracyOfCanopus",
 		"Outworld",
@@ -14,8 +13,10 @@
 	],
 	"Enemies": [
 		"Steiner",
+		"Cameron",
 		"Kurita",
 		"ComStar",
+		"WordOfBlake",
 		"ClanWolf",
 		"ClanJadeFalcon",
 		"Mercenaries",

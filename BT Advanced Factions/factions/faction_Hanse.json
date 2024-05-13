@@ -17,8 +17,7 @@
 		"ClanGoliathScorpion",
 		"DarkCaste",
 		"Locals",
-		"Mercenaries",
-		"Rim"
+		"Mercenaries"
 	],
 	"Presence": 0.1,
 	"DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",

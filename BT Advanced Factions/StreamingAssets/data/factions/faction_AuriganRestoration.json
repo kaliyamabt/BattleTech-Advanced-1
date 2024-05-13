@@ -5,7 +5,8 @@
 	"Demonym": "Coalition",
 	"Government": "Coalition",
 	"Allies": [
-		"Davion",
+		"Cameron",
+		"ComStar",
 		"MagistracyOfCanopus",
 		"IrukjandiCompany",
 		"AntianLanciarii",
@@ -16,6 +17,8 @@
 	"Enemies": [
 		"AuriganPirates",
 		"Liao",
+		"Davion",
+		"Tortuga",
 		"TaurianConcordat",
 		"Mercenaries",
 		"Locals",
