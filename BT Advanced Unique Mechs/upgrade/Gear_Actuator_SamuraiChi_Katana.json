@@ -3,36 +3,39 @@
 		"Category": [
 			{
 				"CategoryID": "w/s/m/melee"
+			},
+			{
+				"CategoryID": "MeleeWeaponHandRequired"
 			}
 		],
 		"BonusDescriptions": [
 			"IsPhysWeap",
 			"PhysWeapUnsteady",
+			"PunchHitTable",
 			"PhysWeapDamage: 0.5",
 			"PhysWeapStab: 0.5",
-			"PhysWeapAccuracy: +2",
 			"PhysWeapBonusHit: +1"
 		],
 		"Flags": [
 			"default",
-			"no_salvage",
 			"not_broken",
-			"autorepair"
+			"autorepair",
+			"no_salvage"
 		]
 	},
 	"StatName": null,
 	"RelativeModifier": 0,
 	"AbsoluteModifier": 0,
 	"Description": {
-		"Cost": 10000,
+		"Cost": 480000,
 		"Rarity": 99,
 		"Purchasable": false,
-		"Manufacturer": "Shanky",
-		"Model": "Stabbity Stab",
-		"UIName": "ShankBlade",
-		"Id": "Gear_Actuator_Shanky_Shank",
-		"Name": "Shank",
-		"Details": "This is a unique Shank, designed for the Shanky Commando. It cannot be removed or used elsewhere.",
+		"Manufacturer": "Samurai-Chi",
+		"Model": "Katana",
+		"UIName": "Katana",
+		"Id": "Gear_Actuator_SamuraiChi_Katana",
+		"Name": "Katana",
+		"Details": "This is a unique katana, designed for the Samurai-Chi gladiator 'Mech. It cannot be removed or used elsewhere.",
 		"Icon": "broadsword"
 	},
 	"BonusValueA": "",
@@ -41,8 +44,8 @@
 	"ComponentSubType": "NotSet",
 	"PrefabIdentifier": "",
 	"BattleValue": 0,
-	"InventorySize": 3,
-	"Tonnage": 2,
+	"InventorySize": 6,
+	"Tonnage": 4,
 	"AllowedLocations": "Arms",
 	"DisallowedLocations": "All",
 	"CriticalComponent": false,
@@ -124,7 +127,7 @@
 			"statisticData": {
 				"statName": "CBTBE_Physical_Weapon_Location_Table",
 				"operation": "Set",
-				"modValue": "STANDARD",
+				"modValue": "PUNCH",
 				"modType": "System.String"
 			},
 			"nature": "Buff"
@@ -148,9 +151,9 @@
 			},
 			"effectType": "StatisticEffect",
 			"Description": {
-				"Id": "StatusEffect-BladeBaseDamage",
-				"Name": "Shank Base Damage",
-				"Details": "Shanks do 5 damage and stab damage per 10 tons of the mech, have a +2 accuracy on their attacks, and hit +1 times during a physical weapon attack.",
+				"Id": "StatusEffect-KatanaBaseDamage",
+				"Name": "Katana Base Damage",
+				"Details": "Katanas do 5 damage and stab damage per 10 tons of the mech and hit an extra time on each physical weapon attack.",
 				"Icon": "broadsword"
 			},
 			"nature": "Buff",
@@ -180,9 +183,9 @@
 			},
 			"effectType": "StatisticEffect",
 			"Description": {
-				"Id": "StatusEffect-BladeBaseStabDamage",
-				"Name": "Shank Base Stab Damage",
-				"Details": "Shanks do 5 stab damage per 10 tons of the mech.",
+				"Id": "StatusEffect-KatanaBaseStabDamage",
+				"Name": "Katana Base Stab Damage",
+				"Details": "Katanas do 5 stab damage per 10 tons of the mech.",
 				"Icon": "broadsword"
 			},
 			"nature": "Buff",
@@ -212,41 +215,9 @@
 			},
 			"effectType": "StatisticEffect",
 			"Description": {
-				"Id": "StatusEffect-BladeBaseAcc",
-				"Name": "Shank Base Accuracy",
-				"Details": "Shanks gain +2 accuracy on their attacks.",
-				"Icon": "broadsword"
-			},
-			"nature": "Buff",
-			"statisticData": {
-				"statName": "CBTBE_Physical_Weapon_Attack_Mod",
-				"operation": "Int_Add",
-				"modValue": "-2",
-				"modType": "System.Int32"
-			}
-		},
-		{
-			"durationData": {
-				"duration": -1,
-				"stackLimit": -1
-			},
-			"targetingData": {
-				"effectTriggerType": "Passive",
-				"triggerLimit": 0,
-				"extendDurationOnTrigger": 0,
-				"specialRules": "NotSet",
-				"effectTargetType": "Creator",
-				"range": 0,
-				"forcePathRebuild": false,
-				"forceVisRebuild": false,
-				"showInTargetPreview": false,
-				"showInStatusPanel": false
-			},
-			"effectType": "StatisticEffect",
-			"Description": {
-				"Id": "StatusEffect-BladeMultiHit",
-				"Name": "Shank Multiple Hits",
-				"Details": "Shanks stab rapidly during combat, hitting an extra time on each melee attack.",
+				"Id": "StatusEffect-KatanaMultiHit",
+				"Name": "Katana Multiple Hits",
+				"Details": "Katanas swing rapidly during combat, hitting an extra time on each melee attack.",
 				"Icon": "broadsword"
 			},
 			"nature": "Buff",

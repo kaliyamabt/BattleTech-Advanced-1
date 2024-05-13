@@ -68,7 +68,7 @@
 				"Id": "StatusEffect-BlackbeardHook-PhysWeapDamage",
 				"Name": "Hook Physical Weapon Damage",
 				"Details": "Physical weapon attacks deal 30% more damage.",
-				"Icon": "uixSvgIcon_equipment_ActuatorArm"
+				"Icon": "pirate-hook"
 			},
 			"nature": "Buff",
 			"statisticData": {
