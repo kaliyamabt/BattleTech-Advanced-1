@@ -2,14 +2,14 @@
 	"Description": {
 		"Id": "AbilityDefT8Ac",
 		"Name": "FAST FIRE",
-		"Details": "ACTION: Cannot be used if you have moved this turn. Engage in rapid target acquisition, gaining an +4 increase to initiative on your following turn. 5 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 30 Resolve to use!</color></b>",
+		"Details": "ACTION: Cannot be used if you have moved this turn. Engage in rapid target acquisition, gaining an +5 increase to initiative on your following turn. 3 turn cooldown, does not end the turn. <b><color=#099ff2>Costs 30 Resolve to use!</color></b>",
 		"Icon": "arrow-scope"
 	},
 	"DisplayParams": "ShowInMWTRay",
 	"ReqSkill": "Tactics",
 	"ReqSkillLevel": 8,
 	"ActivationTime": "ConsumedByMovement",
-	"ActivationCooldown": 5,
+	"ActivationCooldown": 3,
 	"Targeting": "ActorSelf",
 	"ResolveCost": 30,
 	"EffectData": [
@@ -30,14 +30,14 @@
 			"Description": {
 				"Id": "StatusEffect-FastFireInitGain",
 				"Name": "Fast Fire Initiative Boosted",
-				"Details": "This unit gains +4 initiative on its next turn.",
+				"Details": "This unit gains +5 initiative on its next turn.",
 				"Icon": "arrow-scope"
 			},
 			"nature": "Buff",
 			"statisticData": {
 				"statName": "BaseInitiative",
 				"operation": "Int_Add",
-				"modValue": "-4",
+				"modValue": "-5",
 				"modType": "System.Int32"
 			}
 		}
