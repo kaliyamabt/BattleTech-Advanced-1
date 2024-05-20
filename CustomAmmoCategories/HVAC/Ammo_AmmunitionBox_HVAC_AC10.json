@@ -14,14 +14,14 @@
 		},
 		"BonusDescriptions": [
 				"CostPerShot: 1000",
-				"AmmoCount: 8"
+				"AmmoCount: 10"
 			],
 		"AmmoCost": {
 			"PerUnitCost": 1000
 		}
 	},
 	"AmmoID": "Ammunition_HVAC10",
-	"Capacity": 8,
+	"Capacity": 10,
 	"Description": {
 		"Cost": 60000,
 		"Rarity": 1,

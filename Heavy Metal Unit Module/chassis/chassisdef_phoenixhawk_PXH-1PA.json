@@ -1,4 +1,11 @@
 {
+	"Custom": {
+		"AssemblyVariant": {
+			"PrefabID": "PhoenixHawk",
+			"Exclude": false,
+			"Include": true
+		}
+	},
 	"Description": {
 		"Cost": 4100000,
 		"Rarity": 5,

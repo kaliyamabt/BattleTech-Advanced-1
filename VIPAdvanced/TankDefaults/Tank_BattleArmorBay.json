@@ -5,6 +5,14 @@
 				"no_salvage",
 				"autorepair"
 		],
+		"DecoratorComponent":[
+			{
+				"Text":"BA",               
+				"Color":"#00a2c9",      
+				"Icon":"battle-amor-suit",       
+				"Importance": 1
+			}
+		],
 		"Category": [
 			{
 				"CategoryID": "TankStuff"
