@@ -9,8 +9,7 @@
 			"IsPhysWeap",
 			"PhysWeapUnsteady",
 			"PhysWeapDamage: 1.25",
-			"PhysWeapStab: 1.25",
-			"PhysWeapAccuracy: -2"
+			"PhysWeapStab: 1.25"
 		],
 		"Flags": [
 			"default",
