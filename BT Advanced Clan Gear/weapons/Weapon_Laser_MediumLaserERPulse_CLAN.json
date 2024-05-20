@@ -51,7 +51,7 @@
 	"ImprovedBallistic": true,
 	"ColorSpeedChange": 1,
 	"ColorChangeRule": "Linear",
-	"WeaponEffectID": "WeaponEffect-Weapon_LaserPulse_Medium",
+	"WeaponEffectID": "WeaponEffect-Weapon_LaserER_Medium",
 	"Description": {
 		"Cost": 772000,
 		"Rarity": 10,
@@ -86,6 +86,7 @@
 			"Id": "Pulse",
 			"UIName": "Pulse",
 			"isBaseMode": false,
+			"WeaponEffectID": "WeaponEffect-Weapon_LaserPulse_Medium",
 			"DamagePerShot": 5,
 			"HeatGenerated": -1,
 			"EvasivePipsIgnored": 3,
