@@ -13,6 +13,10 @@
 	"TurretTags": {
 		"items": [
 			"unit_turret",
+			"Cameron",
+			"StarGuardCorps",
+			"ICorps",
+			"IVCorps",
 			"ComStar",
 			"2ndArmyVMu",
 			"11thArmyVEta",
@@ -69,6 +73,7 @@
 			"ClanJadeFalcon",
 			"ClanGhostBear",
 			"ClanDiamondShark",
+			"ClanFireMandrill",
 			"ClanWolf",
 			"ClanSnowRaven",
 			"ScorpionEmpire",

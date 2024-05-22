@@ -1204,6 +1204,20 @@
 					"PROFESSIONAL"
 				]
 			},
+			"MacksMercs": {
+				"MercFactionFallbackTag": "Mercenaries",
+				"AppearanceWeight": 3,
+				"RestrictionIsWhitelist": true,
+				"EmployerRestrictions": [
+					"Davion",
+					"Locals",
+					"Mercenaries"
+				],
+				"UnitRating": 12,
+				"PersonalityAttributes": [
+					"MACKSMERCS"
+				]
+			},
 			"AvantisAngels": {
 				"MercFactionFallbackTag": "Mercenaries",
 				"AppearanceWeight": 5,

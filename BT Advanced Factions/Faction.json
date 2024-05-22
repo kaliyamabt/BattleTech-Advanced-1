@@ -4894,6 +4894,26 @@
 			"IsCareerStartingDisplayFaction": false,
 			"IsStoryStartingDisplayFaction": false,
 			"HasAIBehaviorVariableScope": false
+		},
+		{
+			"ID": 5192,
+			"Name": "MacksMercs",
+			"FriendlyName": "MacksMercs",
+			"Description": "",
+			"FactionDefID": "faction_MacksMercs",
+			"IsRealFaction": true,
+			"IsGreatHouse": false,
+			"IsClan": false,
+			"IsMercenary": true,
+			"IsPirate": false,
+			"DoesGainReputation": false,
+			"CanAlly": false,
+			"IsProceduralContractFaction": false,
+			"IsCareerScoringFaction": false,
+			"IsCareerIgnoredContractTarget": false,
+			"IsCareerStartingDisplayFaction": false,
+			"IsStoryStartingDisplayFaction": false,
+			"HasAIBehaviorVariableScope": false
 		}
 	]
 }

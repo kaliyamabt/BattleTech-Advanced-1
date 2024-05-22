@@ -139,5 +139,21 @@
 			"MaxTimesEncountered": -1,
 			"BribeAcceptanceMultiplier": 0.25
 		}
+	],
+	"MACKSMERCS": [
+		{
+			"Dialogue": [
+				"You have the unfortunate task of takin' on Mack’s Mercs. We don’t play fair and we make sure to spend all of our C-bills on the latest tech. You are advised to withdraw…or become our loot."
+			],
+			"BribeSuccessDialogue": [
+				"...that's a lot of cash, friend. We'll take it, have fun mate."
+			],
+			"BribeFailureDialogue": [
+				"You think we'd take such a pathetic bribe? Your 'Mechs are worth much more than that!"
+			],
+			"MinTimesEncountered": 0,
+			"MaxTimesEncountered": -1,
+			"BribeAcceptanceMultiplier": 0.3
+		}
 	]
 }

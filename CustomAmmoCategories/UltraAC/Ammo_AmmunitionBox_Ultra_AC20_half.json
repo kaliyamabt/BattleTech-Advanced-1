@@ -14,14 +14,14 @@
 		},
 		"BonusDescriptions": [
 				"CostPerShot: 1000",
-				"AmmoCount: 2"
+				"AmmoCount: 5"
 			],
 		"AmmoCost": {
 			"PerUnitCost": 1000
 		}
 	},
 	"AmmoID": "Ammunition_UAC20",
-	"Capacity": 2,
+	"Capacity": 5,
 	"Description": {
 		"Cost": 26400,
 		"Rarity": 1,
@@ -31,7 +31,7 @@
 		"UIName": "Ammo UAC/20 [Half]",
 		"Id": "Ammo_AmmunitionBox_Ultra_AC20_half",
 		"Name": "UAC/20 Ammo",
-		"Details": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. Has 2 shots.",
+		"Details": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E.",
 		"Icon": "uixSvgIcon_ammoBox_Ballistic"
 	},
 	"BonusValueA": "",
