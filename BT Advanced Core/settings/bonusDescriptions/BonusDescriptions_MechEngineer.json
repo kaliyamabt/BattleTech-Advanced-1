@@ -334,13 +334,13 @@
 			"Bonus": "ActivateHeatLevel",
 			"Short": "{0} Heat Activated",
 			"Long": "{0} Heat Activated",
-			"Full": "Activates above {0} Heat"
+			"Full": "Automatically activates above the {0} point on the heat bar."
 		},
 		{
 			"Bonus": "DeActivateHeatLevel",
 			"Short": "{0} Heat Deactivated",
 			"Long": "{0} Heat Deactivated",
-			"Full": "Deactivates below {0} Heat"
+			"Full": "Automatically deactivates below the {0} point on the heat bar"
 		},
 		{
 			"Bonus": "FailChance",
@@ -3903,7 +3903,7 @@
 			"Bonus": "JamExplode",
 			"Short": "JamExplode",
 			"Long": "JamExplode",
-			"Full": "When the weapon jams, it explodes, dealing damage equal to one shot from the weapon."
+			"Full": "When the weapon jams, it explodes, dealing damage to the carrying unit."
 		},
 		{
 			"Bonus": "DestroyOnJam",
@@ -5470,6 +5470,12 @@
 			"Short": "Reverse Scaling",
 			"Long": "Reverse Damage Scaling",
 			"Full": "This weapon has variable damage modes that shift their range bands and increase damage and accuracy the further away the target is. The default mode is medium range, which is reflected in the MechBay. At short range it loses range in each range bracket and does {0} less damage and at a {1} accuracy penalty. At long range it does {2} more damage and has a {3} accuracy bonus."
+		},
+		{
+			"Bonus": "ViralJammer",
+			"Short": "Viral Jammer",
+			"Long": "Viral Jammer",
+			"Full": "The Viral Jammer is a powerful piece of e-war gear. It scrambles all distributed networks in its radius, friendly or enemy, including C3, C3i, and Sanctuary Drone Networks. It also scrambles the Virtual Reality Piloting Pod's controls (again friendly and enemy VRPPs) as well as providing the carrying unit immunity to Sensor Locks."
 		}
 	]
 }

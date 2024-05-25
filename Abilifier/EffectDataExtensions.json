@@ -39,6 +39,36 @@
 			}
 		}
 	},
+	"StatusEffect_ViralJammer-VRPP-Jamming": {
+		"TargetCollectionsForSearch": {
+			"Component": {
+				"MustMatchAll": false,
+				"TargetCollectionTagMatch": [
+					"VRPP"
+				]
+			}
+		}
+	},
+	"StatusEffect_ViralJammer-Allies-VRPP-Jamming": {
+		"TargetCollectionsForSearch": {
+			"Component": {
+				"MustMatchAll": false,
+				"TargetCollectionTagMatch": [
+					"VRPP"
+				]
+			}
+		}
+	},
+	"StatusEffect_ViralJammer-Creator-VRPP-Jamming": {
+		"TargetCollectionsForSearch": {
+			"Component": {
+				"MustMatchAll": false,
+				"TargetCollectionTagMatch": [
+					"VRPP"
+				]
+			}
+		}
+	},
 	"StatusEffect_Weather-VRPP-Jamming": {
 		"TargetCollectionsForSearch": {
 			"Component": {

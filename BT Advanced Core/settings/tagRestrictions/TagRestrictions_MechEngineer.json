@@ -654,6 +654,18 @@
 			"IncompatibleTags": [
 				"ProtoMech"
 			]
+		},
+		{
+			"Tag": "CoolantPod",
+			"IncompatibleTags": [
+				"RadicalHS"
+			]
+		},
+		{
+			"Tag": "RadicalHS",
+			"IncompatibleTags": [
+				"CoolantPod"
+			]
 		}
 	]
 }
