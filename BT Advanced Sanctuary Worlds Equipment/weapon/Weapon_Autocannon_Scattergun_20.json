@@ -54,7 +54,7 @@
 	"AlternateDamageCalc": true,
     "WeaponEffectID": "WeaponEffect-Weapon_LB20X",
     "Description": {
-        "Cost": 252000,
+        "Cost": 500000,
         "Rarity": 0,
         "Purchasable": true,
         "Manufacturer": "Sanctuary Engineering",

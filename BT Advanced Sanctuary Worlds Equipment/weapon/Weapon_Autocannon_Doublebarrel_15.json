@@ -43,7 +43,7 @@
 	"FireDelayMultiplier": 0.2,
     "WeaponEffectID" : "WeaponEffect-Weapon_AC10_Single",
     "Description" : {
-        "Cost" : 240000,
+        "Cost" : 360000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Sanctuary Engineering",
