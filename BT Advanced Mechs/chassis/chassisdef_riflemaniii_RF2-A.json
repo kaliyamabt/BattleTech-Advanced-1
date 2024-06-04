@@ -15,7 +15,7 @@
 		"UIName": "Rifleman III",
 		"Id": "chassisdef_riflemaniii_RF2-A",
 		"Name": "Rifleman III",
-		"Details": "Developed by Stefan Amaris as a wunderwaffen during the Amaris Civil War that destroyed the Star League, the Rifleman III was quickly destroyed and forgotten for centuries. However, in the old RWR, the Rim Collection discovered a hidden bunker with the Rifleman III and plans for its construction in the late 3050s. This is the original model, the RF2-A. Armed with quad Gauss Rifles and a cutting-edge Null Signature System, the RF2-A is a deadly ambush sniper. However, it is slow, fragile, and has limited ammo, making it a niche unit in most situations.",
+		"Details": "Developed by Stefan Amaris as a wunderwaffen during the Amaris Civil War that destroyed the Star League, the Rifleman III was quickly destroyed and forgotten for centuries. However in the 3060s it was discovered that several chassis, along with plentiful parts, had been secreted away in a bunker in the Rim Worlds Republic itself and so the design came back into service for the RWR. This is the original model, the RF2-A. Armed with quad Gauss Rifles and a cutting-edge Null Signature System, the RF2-A is a deadly ambush sniper. However, it is slow, fragile, and has limited ammo, making it a niche unit in most situations.",
 		"Icon": "uixTxrIcon_riflemaniii"
 	},
 	"MovementCapDefID": "movedef_emperor_EMP-6A",
@@ -233,7 +233,7 @@
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Ambush Sniper",
-	"YangsThoughts": "Developed by Stefan Amaris as a wunderwaffen during the Amaris Civil War that destroyed the Star League, the Rifleman III was quickly destroyed and forgotten for centuries. However, in the old RWR, the Rim Collection discovered a hidden bunker with the Rifleman III and plans for its construction in the late 3050s. This is the original model, the RF2-A. Armed with quad Gauss Rifles and a cutting-edge Null Signature System, the RF2-A is a deadly ambush sniper. However, it is slow, fragile, and has limited ammo, making it a niche unit in most situations.",
+	"YangsThoughts": "Developed by Stefan Amaris as a wunderwaffen during the Amaris Civil War that destroyed the Star League, the Rifleman III was quickly destroyed and forgotten for centuries. However in the 3060s it was discovered that several chassis, along with plentiful parts, had been secreted away in a bunker in the Rim Worlds Republic itself and so the design came back into service for the RWR. This is the original model, the RF2-A. Armed with quad Gauss Rifles and a cutting-edge Null Signature System, the RF2-A is a deadly ambush sniper. However, it is slow, fragile, and has limited ammo, making it a niche unit in most situations.",
 	"FixedEquipment": [
 		{
 			"MountedLocation": "Head",

@@ -29,7 +29,7 @@
 		"UIName": "Jackrabbit JKR-9R",
 		"Id": "mechdef_jackrabbit_JKR-9R",
 		"Name": "Jackrabbit",
-		"Details": "Originally developed for the SLDF, the Jackrabbit was ultimately co-opted by Stefan Amaris after he overthrew the Star League. Given the mech's poor reputation, it was a favored target during the civil war for the SLDF. Those that survived the war were left to ComStar's supplies, where they fared poorly at Tukayyid. Eventually, the Jackrabbit found its way into the Word of Blake Militia, as well as the Rim Collection's burgeoning military. The JKR-9R, also dubbed the Joker, swapped the -8T's AC/2 for a Large Laser, a heat sink, and another ton of armor, making it far superior to the original.",
+		"Details": "Originally developed for the SLDF, the Jackrabbit was ultimately co-opted by Stefan Amaris after he overthrew the Star League. Given the mech's poor reputation, it was a favored target during the civil war for the SLDF. Those that survived the war were left to the remnants of the Rim Worlds Republic's military where they were mothballed unless absolutely necessary, such as when the Clans invaded in 3049 which necessitated pulling the Jackrabbits out of retirement. The JKR-9R, also dubbed the Joker, swapped the -8T's AC/2 for a Large Laser, a heat sink, and another ton of armor, making it far superior to the original.",
 		"Icon": "uixTxrIcon_jackrabbit"
 	},
 	"simGameMechPartCost": 250000,

@@ -15,7 +15,7 @@
 		"UIName": "Rifleman III",
 		"Id": "chassisdef_riflemaniii_RF2-M",
 		"Name": "Rifleman III",
-		"Details": "Developed by Stefan Amaris as a wunderwaffen during the Amaris Civil War that destroyed the Star League, the Rifleman III was quickly destroyed and forgotten for centuries. However, the Rifleman III's plans were smuggled off Terra back to the RWR, which eventually had the industrial capacity to produce it in the late 3050s. This variant, the RF2-M, is armed with two of the newly developed weapons known as the Mercy (essentially a rotary rocket-propelled 'Mech-scale grenade launcher weapon). The Mercies lay down extreme weapons fire such that no backup weapons were deemed necessary. 14 DHS as well as an advanced heat exchanger and heat bank try in vain to keep it all cold while a 270-rated XL engine provides motive force to the design.",
+		"Details": "Developed by Stefan Amaris as a wunderwaffen during the Amaris Civil War that destroyed the Star League, the Rifleman III was quickly destroyed and forgotten for centuries. However in the 3060s it was discovered that several chassis, along with plentiful parts, had been secreted away in a bunker in the Rim Worlds Republic itself and so the design came back into service for the RWR. This variant, the RF2-M, is armed with two of the newly developed weapons known as the Mercy (essentially a rotary rocket-propelled 'Mech-scale grenade launcher weapon). The Mercies lay down extreme weapons fire such that no backup weapons were deemed necessary. 14 DHS as well as an advanced heat exchanger and heat bank try in vain to keep it all cold while a 270-rated XL engine provides motive force to the design.",
 		"Icon": "uixTxrIcon_riflemaniii"
 	},
 	"MovementCapDefID": "movedef_emperor_EMP-6A",
@@ -241,7 +241,7 @@
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Ambush Sniper",
-	"YangsThoughts": "Developed by Stefan Amaris as a wunderwaffen during the Amaris Civil War that destroyed the Star League, the Rifleman III was quickly destroyed and forgotten for centuries. However, the Rifleman III's plans were smuggled off Terra back to the RWR, which eventually had the industrial capacity to produce it in the late 3050s. This variant, the RF2-M, is armed with two of the newly developed weapons known as the Mercy (essentially a rotary rocket-propelled 'Mech-scale grenade launcher weapon). The Mercies lay down extreme weapons fire such that no backup weapons were deemed necessary. 14 DHS as well as an advanced heat exchanger and heat bank try in vain to keep it all cold while a 270-rated XL engine provides motive force to the design.",
+	"YangsThoughts": "Developed by Stefan Amaris as a wunderwaffen during the Amaris Civil War that destroyed the Star League, the Rifleman III was quickly destroyed and forgotten for centuries. However in the 3060s it was discovered that several chassis, along with plentiful parts, had been secreted away in a bunker in the Rim Worlds Republic itself and so the design came back into service for the RWR. This variant, the RF2-M, is armed with two of the newly developed weapons known as the Mercy (essentially a rotary rocket-propelled 'Mech-scale grenade launcher weapon). The Mercies lay down extreme weapons fire such that no backup weapons were deemed necessary. 14 DHS as well as an advanced heat exchanger and heat bank try in vain to keep it all cold while a 270-rated XL engine provides motive force to the design.",
 	"FixedEquipment": [
 		{
 			"MountedLocation": "Head",
