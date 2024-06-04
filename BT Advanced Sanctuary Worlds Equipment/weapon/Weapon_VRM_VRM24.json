@@ -57,7 +57,7 @@
 	"ColorChangeRule": "Linear",
     "WeaponEffectID" : "WeaponEffect-Weapon_LRM20",
     "Description" : {
-        "Cost" : 480000,
+        "Cost" : 640000,
         "Rarity" : 0,
         "Purchasable" : true,
         "Manufacturer" : "Sanctuary Manufacturing",
