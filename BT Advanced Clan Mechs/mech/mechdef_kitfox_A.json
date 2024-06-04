@@ -76,7 +76,7 @@
 			"DamageLevel": "Functional",
 			"Location": "RightTorso",
 			"CurrentArmor": 40,
-			"CurrentRearArmor": 203
+			"CurrentRearArmor": 20,
 			"CurrentInternalStructure": 35,
 			"AssignedArmor": 40,
 			"AssignedRearArmor": 20
