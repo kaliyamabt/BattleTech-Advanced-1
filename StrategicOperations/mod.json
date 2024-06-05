@@ -469,14 +469,14 @@
 						"Description": {
 							"Id": "BA_CarrierCruise",
 							"Name": "Carrier Slowdown",
-							"Details": "This vehicle is 35% slower thanks to the BA it is carrying weighing it down.",
+							"Details": "This vehicle is 25% slower thanks to the BA it is carrying weighing it down.",
 							"Icon": "cargo-crate"
 						},
 						"nature": "Buff",
 						"statisticData": {
 							"statName": "CruiseSpeed",
 							"operation": "Float_Multiply",
-							"modValue": "0.65",
+							"modValue": "0.75",
 							"modType": "System.Single"
 						}
 					},
@@ -498,7 +498,7 @@
 						"statisticData": {
 							"statName": "FlankSpeed",
 							"operation": "Float_Multiply",
-							"modValue": "0.65",
+							"modValue": "0.75",
 							"modType": "System.Single"
 						}
 					}
