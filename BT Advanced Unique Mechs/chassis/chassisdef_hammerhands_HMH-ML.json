@@ -219,8 +219,6 @@
 	"VariantName": "HMH-ML",
 	"ChassisTags": {
 		"items": [
-			"ArmLimitLowerRight",
-			"ArmLimitLowerLeft",
 			"HeroMech",
 			"HeavyMech"
 		],
@@ -231,7 +229,7 @@
 	"FixedEquipment": [
 		{
 			"MountedLocation": "LeftArm",
-			"ComponentDefID": "Gear_Quirk_BarrelFist_Hammerhands",
+			"ComponentDefID": "Gear_Quirk_BarrelFist_Hammerhands_Hero",
 			"SimGameUID": "",
 			"ComponentDefType": "Upgrade",
 			"HardpointSlot": -1,
@@ -253,7 +251,7 @@
 		},
 		{
 			"MountedLocation": "RightArm",
-			"ComponentDefID": "Gear_Quirk_BarrelFist_Hammerhands",
+			"ComponentDefID": "Gear_Quirk_BarrelFist_Hammerhands_Hero",
 			"SimGameUID": "",
 			"ComponentDefType": "Upgrade",
 			"HardpointSlot": -1,
