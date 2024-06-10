@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_Voight",
 		"Name": "Voight",
-		"Details": "An early colony in the Sanctuary Worlds, Voight actually pre-dates the founding of the Jacobson Haven and was a candidate for its capital once. However, Capone won out as the capital world, leaving Voight to stew in resentment ever since. Today, Voight is an electronics manufacturing center and is well defending by the Haven family militias.",
+		"Details": "An early colony in the Sanctuary Worlds, Voight actually pre-dates the founding of the Jacobson Haven and was a candidate for its capital once. However, Capone won out as the capital world, leaving Voight to stew in resentment ever since. Today, Voight is an electronics manufacturing center and is well defended by the Haven family militias.",
 		"Icon": ""
 	},
 	"Position": {
@@ -151,6 +151,7 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
+		"AuriganPirates",
 		"JacobsonHaven"
 	],
 	"contractTargetIDs": [
