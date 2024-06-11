@@ -15,7 +15,7 @@
 		"UIName": "Royal Highlander",
 		"Id": "chassisdef_highlander_HGN-732b_fixed",
 		"Name": "Royal Highlander",
-		"Details": "The Highlander 732B is an ancient model from the Star League days! Its Gauss Rifle was a terrifying weapon that gave it a huge punch at almost any range, but you can't find those anymore. And of course, it still has the jump capability it's always been known for.",
+		"Details": "<b><color=#099ff2>THIS MECH IS BUGGED AND WILL NOT WORK CORRECTLY, DO NOT USE IT</color></b>\n\n The Highlander 732B is an ancient model from the Star League days! Its Gauss Rifle was a terrifying weapon that gave it a huge punch at almost any range, but you can't find those anymore. And of course, it still has the jump capability it's always been known for.",
 		"Icon": "uixTxrIcon_highlander"
 	},
 	"MovementCapDefID": "movedef_highlander_HGN-733",
@@ -218,14 +218,13 @@
 	"VariantName": "HGN-732B",
 	"ChassisTags": {
 		"items": [
-			"RoyalMech",
 			"ArmLimitLowerRight",
 			"AssaultMech"
 		],
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Juggernaut & Heavy Cavalry",
-	"YangsThoughts": "The Highlander 732B is an ancient model from the Star League days! Its Gauss Rifle was a terrifying weapon that gave it a huge punch at almost any range, but you can't find those anymore. And of course, it still has the jump capability it's always been known for.",
+	"YangsThoughts": "<b><color=#099ff2>THIS MECH IS BUGGED AND WILL NOT WORK CORRECTLY, DO NOT USE IT</color></b>\n\n The Highlander 732B is an ancient model from the Star League days! Its Gauss Rifle was a terrifying weapon that gave it a huge punch at almost any range, but you can't find those anymore. And of course, it still has the jump capability it's always been known for.",
 	"FixedEquipment": [
 		{
 			"MountedLocation": "Head",
