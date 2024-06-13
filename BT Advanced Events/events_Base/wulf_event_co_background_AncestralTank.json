@@ -448,6 +448,80 @@
 							"ForceEvents": null,
 							"TemporaryResult": false,
 							"ResultDuration": 0
+						},
+						{
+							"Scope": "Company",
+							"Requirements": {
+								"Scope": "Commander",
+								"RequirementTags": {
+									"tagSetSourceFile": "",
+									"items": [
+										"commander_ancestry_rwr"
+									]
+								},
+								"ExclusionTags": {
+									"tagSetSourceFile": "",
+									"items": []
+								},
+								"RequirementComparisons": []
+							},
+							"AddedTags": {
+								"items": [],
+								"tagSetSourceFile": ""
+							},
+							"RemovedTags": {
+								"items": [],
+								"tagSetSourceFile": ""
+							},
+							"Stats": null,
+							"Actions": [
+								{
+									"Type": "Mech_AddRoster",
+									"value": "vehicledef_GOBLIN",
+									"valueConstant": null,
+									"additionalValues": null
+								}
+							],
+							"ForceEvents": null,
+							"TemporaryResult": false,
+							"ResultDuration": 0
+						},
+						{
+							"Scope": "Company",
+							"Requirements": {
+								"Scope": "Commander",
+								"RequirementTags": {
+									"tagSetSourceFile": "",
+									"items": [
+										"commander_ancestry_cameron"
+									]
+								},
+								"ExclusionTags": {
+									"tagSetSourceFile": "",
+									"items": []
+								},
+								"RequirementComparisons": []
+							},
+							"AddedTags": {
+								"items": [],
+								"tagSetSourceFile": ""
+							},
+							"RemovedTags": {
+								"items": [],
+								"tagSetSourceFile": ""
+							},
+							"Stats": null,
+							"Actions": [
+								{
+									"Type": "Mech_AddRoster",
+									"value": "vehicledef_BALLISTA",
+									"valueConstant": null,
+									"additionalValues": null
+								}
+							],
+							"ForceEvents": null,
+							"TemporaryResult": false,
+							"ResultDuration": 0
 						}
 					]
 				}
