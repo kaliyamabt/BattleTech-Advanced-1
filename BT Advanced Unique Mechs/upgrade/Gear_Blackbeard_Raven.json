@@ -24,7 +24,7 @@
 			"Sensors: +30%",
 			"Sight: +30%",
 			"ProbeBubble: 350",
-			"Tacticon: +1"
+			"Initiative: +1"
 		],
 		"ActivatableComponent": {
 			"ButtonName": "The Raven",
