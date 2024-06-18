@@ -16,10 +16,7 @@
 			"not_broken",
 			"no_salvage",
 			"autorepair"
-		],
-		"AnimatorReplacer":{
-			"AnimationSource":"chrPrfMech_hatchetmanBase-001"
-		}
+		]
 	},
 	"weaponCategoryID": "MeleeWeapon",
 	"Type": "MachineGun",

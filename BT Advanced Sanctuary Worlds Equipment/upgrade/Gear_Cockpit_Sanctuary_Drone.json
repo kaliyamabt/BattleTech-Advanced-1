@@ -6,6 +6,9 @@
 			},
 			{
 				"CategoryID": "Quirk"
+			},
+			{
+				"CategoryID": "DroneNetwork"
 			}
 		],
 		"WorkOrderCosts": {

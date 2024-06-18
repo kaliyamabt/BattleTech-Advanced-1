@@ -139,6 +139,20 @@
 				"InventorySorter": "6",
 				"Sorter": 1000
 			}
+		},
+		{
+			"Name": "DroneNetwork",
+			"displayName": "Sanctuary Drone",
+			"BaseLimits": [
+				{
+				  "Min": 0,
+				  "Max": 1
+				}
+			],
+			"DefaultCustoms": {
+				"InventorySorter": "7",
+				"Sorter": 1000
+			}
 		}
 	]
 }

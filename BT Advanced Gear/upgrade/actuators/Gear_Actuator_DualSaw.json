@@ -23,10 +23,7 @@
 		"Flags": [
 			"no_salvage",
 			"not_broken"
-		],
-		"AnimatorReplacer":{
-			"AnimationSource":"chrPrfMech_hatchetmanBase-001"
-		}
+		]
 	},
 	"StatName": null,
 	"RelativeModifier": 0,
