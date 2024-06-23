@@ -105,7 +105,7 @@
 		"UIName": "Ebon Jaguar",
 		"Id": "chassisdef_ebonjaguar_C",
 		"Name": "Ebon Jaguar",
-		"Details": "Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien. By Operation BULLDOG the Cauldron-Born made up a large proportion of the heavy 'Mechs of the rebuilding Smoke Jaguars, and following their Annihilation the design proliferated through the remaining Clans. The Cauldron-Born C is a missile boat and much easier on the heat curve than the other variants. Its primary weapons are a pair of LRM-15s and 25mm Ultra Autocannon/2s. Backing these up for short range work are a pair of SRM-6s.",
+		"Details": "Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien. By Operation BULLDOG the Ebon Jaguar made up a large proportion of the heavy 'Mechs of the rebuilding Smoke Jaguars, and following their Annihilation the design proliferated through the remaining Clans. The Ebon Jaguar C is a missile boat and much easier on the heat curve than the other variants. Its primary weapons are a pair of LRM-15s and 25mm Ultra Autocannon/2s. Backing these up for short range work are a pair of SRM-6s.",
 		"Icon": "uixTxrIcon_ebonjaguar"
 	},
 	"MovementCapDefID": "movedef_ebonjaguar",
@@ -309,7 +309,7 @@
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Heavy Cavalry",
-	"YangsThoughts": "Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien. By Operation BULLDOG the Cauldron-Born made up a large proportion of the heavy 'Mechs of the rebuilding Smoke Jaguars, and following their Annihilation the design proliferated through the remaining Clans. The Cauldron-Born C is a missile boat and much easier on the heat curve than the other variants. Its primary weapons are a pair of LRM-15s and 25mm Ultra Autocannon/2s. Backing these up for short range work are a pair of SRM-6s.",
+	"YangsThoughts": "Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien. By Operation BULLDOG the Ebon Jaguar made up a large proportion of the heavy 'Mechs of the rebuilding Smoke Jaguars, and following their Annihilation the design proliferated through the remaining Clans. The Ebon Jaguar C is a missile boat and much easier on the heat curve than the other variants. Its primary weapons are a pair of LRM-15s and 25mm Ultra Autocannon/2s. Backing these up for short range work are a pair of SRM-6s.",
 	"CustomParts": {
 		"CustomParts": []
 	}
