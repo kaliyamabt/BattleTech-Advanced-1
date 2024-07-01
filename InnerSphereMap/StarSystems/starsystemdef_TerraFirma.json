@@ -27,7 +27,7 @@
 			"planet_industry_agriculture",
 			"planet_industry_manufacturing",
 			"planet_other_hub",
-			"planet_faction_terracapconfederation"
+			"planet_faction_cameron"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -51,7 +51,7 @@
 	},
 	"FuelingStation": true,
 	"JumpDistance": 6,
-	"ownerID": "TerracapConfederation",
+	"ownerID": "Cameron",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -138,10 +138,13 @@
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
 		"itemCollection_shop_chemicalsProgression",
-		"itemCollection_shop_miningProgression"
+		"itemCollection_shop_miningProgression",
+		"itemCollection_major_Cameron"
 	],
-	"factionShopOwnerID": "Locals",
-	"FactionShopItems": [],
+	"factionShopOwnerID": "Cameron",
+	"FactionShopItems": [
+		"itemCollection_faction_Cameron"
+	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_TerraFirma",
 	"StartingSystemModes": [
@@ -153,14 +156,16 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Locals",
-		"TerracapConfederation"
+		"Cameron",
+		"ComStar",
+		"Locals"
 	],
 	"contractTargetIDs": [
-		"Liao",
-		"Davion",
+		"Steiner",
 		"Marik",
-		"WordOfBlake",
+		"Kurita",
+		"Davion",
+		"Liao",
 		"Locals",
 		"Mercenaries",
 		"AuriganPirates"

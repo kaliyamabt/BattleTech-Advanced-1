@@ -19,14 +19,14 @@
 			"planet_other_storms",
 			"planet_feature_moon03",
 			"planet_other_moon",
-			"planet_pop_none",
+			"planet_pop_small",
 			"planet_civ_innersphere",
 			"planet_industry_poor",
 			"planet_other_comstar",
 			"planet_other_starleague",
 			"planet_other_ruins",
 			"planet_factory",
-			"planet_faction_wordofblake"
+			"planet_faction_cameron"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -44,7 +44,7 @@
 	},
 	"FuelingStation": false,
 	"JumpDistance": 15,
-	"ownerID": "WordOfBlake",
+	"ownerID": "Cameron",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -130,11 +130,11 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_WordOfBlake"
+		"itemCollection_major_Cameron"
 	],
-	"factionShopOwnerID": "WordOfBlake",
+	"factionShopOwnerID": "Cameron",
 	"FactionShopItems": [
-		"itemCollection_faction_WoB"
+		"itemCollection_faction_Cameron"
 	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_Bryant",
@@ -147,16 +147,18 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"WordOfBlake",
+		"Cameron",
+		"ComStar",
 		"Locals"
 	],
 	"contractTargetIDs": [
 		"Steiner",
+		"Marik",
+		"Kurita",
 		"Davion",
 		"Liao",
-		"Kurita",
-		"ComStar",
+		"Locals",
 		"Mercenaries",
-		"Rasalhague"
+		"AuriganPirates"
 	]
 }

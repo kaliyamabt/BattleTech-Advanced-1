@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "background_ancestry_RWR",
 		"Name": "Rim Worlds Republic",
-		"Details": "The [[DM.Factions[faction_RimWorldsRepublic],Rim Worlds Republic]] was your home, learning the values of fierce indepdencent, individual skill, and personal reliance.",
+		"Details": "The [[DM.Factions[faction_RimWorldsRepublic],Rim Worlds Republic]] was your home, learning the values of fierce independence, individual skill, and personal reliance.",
 		"Icon": "uixTxrLogo_RimWorldsRepublic",
 		"Cost": 0,
 		"Rarity": 0,
@@ -47,7 +47,7 @@
 			{
 				"typeString": "System.Int32",
 				"name": "Guts",
-				"value": 4,
+				"value": 3,
 				"valueConstant": ""
 			},
 			{

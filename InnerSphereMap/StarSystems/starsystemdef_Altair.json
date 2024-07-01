@@ -27,7 +27,7 @@
 			"planet_industry_agriculture",
 			"planet_industry_research",
 			"planet_industry_manufacturing",
-			"planet_faction_kurita"
+			"planet_faction_cameron"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -46,7 +46,7 @@
 	},
 	"FuelingStation": true,
 	"JumpDistance": 13,
-	"ownerID": "Kurita",
+	"ownerID": "Cameron",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -132,13 +132,13 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_Kurita",
+		"itemCollection_major_Cameron",
 		"itemCollection_shop_chemicalsProgression",
 		"itemCollection_shop_miningProgression"
 	],
-	"factionShopOwnerID": "Kurita",
+	"factionShopOwnerID": "Cameron",
 	"FactionShopItems": [
-		"itemCollection_faction_Kurita"
+		"itemCollection_faction_Cameron"
 	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_Altair",
@@ -151,16 +151,17 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Kurita",
+		"Cameron",
+		"ComStar",
 		"Locals"
 	],
 	"contractTargetIDs": [
 		"Steiner",
+		"Marik",
+		"Kurita",
 		"Davion",
-		"ComStar",
-		"WordOfBlake",
-		"Outworld",
-		"Rasalhague",
+		"Liao",
+		"Locals",
 		"Mercenaries",
 		"AuriganPirates"
 	]

@@ -22,7 +22,7 @@
 			"planet_other_megacity",
 			"planet_civ_innersphere",
 			"planet_industry_mining",
-			"planet_faction_liao"
+			"planet_faction_cameron"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -41,7 +41,7 @@
 	},
 	"FuelingStation": false,
 	"JumpDistance": 47,
-	"ownerID": "Liao",
+	"ownerID": "Cameron",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -127,13 +127,13 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_Liao",
+		"itemCollection_major_Cameron",
 		"itemCollection_shop_chemicalsProgression",
 		"itemCollection_shop_miningProgression"
 	],
-	"factionShopOwnerID": "Liao",
+	"factionShopOwnerID": "Cameron",
 	"FactionShopItems": [
-		"itemCollection_faction_Liao"
+		"itemCollection_faction_Cameron"
 	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_Sirius",
@@ -146,18 +146,17 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Liao",
+		"Cameron",
+		"ComStar",
 		"Locals"
 	],
 	"contractTargetIDs": [
+		"Steiner",
 		"Marik",
+		"Kurita",
 		"Davion",
-		"AuriganRestoration",
-		"ComStar",
-		"WordOfBlake",
-		"Ives",
-		"MagistracyOfCanopus",
-		"TaurianConcordat",
+		"Liao",
+		"Locals",
 		"Mercenaries",
 		"AuriganPirates"
 	]

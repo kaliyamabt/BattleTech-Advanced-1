@@ -17,7 +17,7 @@
 			"planet_climate_ice",
 			"planet_pop_none",
 			"planet_civ_primitive",
-			"planet_faction_nofaction",
+			"planet_faction_rimworldsrepublic",
 			"planet_other_empty"
 		],
 		"tagSetSourceFile": ""
@@ -36,7 +36,7 @@
 	},
 	"FuelingStation": false,
 	"JumpDistance": 13,
-	"ownerID": "NoFaction",
+	"ownerID": "RimWorldsRepublic",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -122,13 +122,13 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_TaurianConcordat",
+		"itemCollection_major_RimWorldsRepublic",
 		"itemCollection_shop_chemicalsProgression",
 		"itemCollection_shop_miningProgression"
 	],
-	"factionShopOwnerID": "NoFaction",
+	"factionShopOwnerID": "RimWorldsRepublic",
 	"FactionShopItems": [
-		"itemCollection_faction_TaurianConcordat"
+		"itemCollection_faction_RimWorldsRepublic"
 	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_Zanbasa",
@@ -140,6 +140,18 @@
 	"DefaultDifficulty": 1,
 	"DifficultyList": [],
 	"DifficultyModes": [],
-	"contractEmployerIDs": [],
-	"contractTargetIDs": []
+	"contractEmployerIDs": [
+		"RimWorldsRepublic",
+		"Locals"
+	],
+	"contractTargetIDs": [
+		"Hanse",
+		"DarkCaste",
+		"AuriganPirates",
+		"Steiner",
+		"ClanWolf",
+		"ClanJadeFalcon",
+		"Mercenaries",
+		"Locals"
+	]
 }

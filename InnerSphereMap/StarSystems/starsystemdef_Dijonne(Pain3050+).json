@@ -20,7 +20,7 @@
 			"planet_industry_poor",
 			"planet_other_pirate",
 			"planet_other_ruins",
-			"planet_faction_locals"
+			"planet_faction_rimworldsrepublic"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -38,7 +38,7 @@
 	},
 	"FuelingStation": false,
 	"JumpDistance": 7,
-	"ownerID": "Locals",
+	"ownerID": "RimWorldsRepublic",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -123,9 +123,15 @@
 	"RoninHiringChance": 0,
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
-	"SystemShopItems": [],
-	"factionShopOwnerID": "Locals",
-	"FactionShopItems": [],
+	"SystemShopItems": [
+		"itemCollection_major_RimWorldsRepublic",
+		"itemCollection_shop_chemicalsProgression",
+		"itemCollection_shop_miningProgression"
+	],
+	"factionShopOwnerID": "RimWorldsRepublic",
+	"FactionShopItems": [
+		"itemCollection_faction_RimWorldsRepublic"
+	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_Dijonne(Pain3050+)",
 	"StartingSystemModes": [
@@ -137,13 +143,17 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"AuriganPirates",
+		"RimWorldsRepublic",
 		"Locals"
 	],
 	"contractTargetIDs": [
-		"Steiner",
-		"Chainelane",
 		"Hanse",
-		"AuriganPirates"
+		"DarkCaste",
+		"AuriganPirates",
+		"Steiner",
+		"ClanWolf",
+		"ClanJadeFalcon",
+		"Mercenaries",
+		"Locals"
 	]
 }

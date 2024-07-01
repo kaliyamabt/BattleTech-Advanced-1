@@ -21,7 +21,7 @@
 			"planet_pop_none",
 			"planet_civ_primitive",
 			"planet_industry_poor",
-			"planet_faction_chainelane",
+			"planet_faction_rimworldsrepublic",
 			"planet_hanseatic_raids"
 		],
 		"tagSetSourceFile": ""
@@ -42,7 +42,7 @@
 	},
 	"FuelingStation": false,
 	"JumpDistance": 40,
-	"ownerID": "Chainelane",
+	"ownerID": "RimWorldsRepublic",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -128,13 +128,13 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_Chainelane",
+		"itemCollection_major_RimWorldsRepublic",
 		"itemCollection_shop_industrial",
 		"itemCollection_shop_research"
 	],
-	"factionShopOwnerID": "Chainelane",
+	"factionShopOwnerID": "RimWorldsRepublic",
 	"FactionShopItems": [
-		"itemCollection_faction_Chainelane"
+		"itemCollection_faction_RimWorldsRepublic"
 	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_Syrstart",
@@ -147,16 +147,16 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Chainelane",
-		"AuriganPirates",
+		"RimWorldsRepublic",
 		"Locals"
 	],
 	"contractTargetIDs": [
 		"Hanse",
-		"JarnFolk",
 		"DarkCaste",
 		"AuriganPirates",
-		"Chainelane",
+		"Steiner",
+		"ClanWolf",
+		"ClanJadeFalcon",
 		"Mercenaries",
 		"Locals"
 	]

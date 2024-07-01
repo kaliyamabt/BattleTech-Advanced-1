@@ -32,5 +32,5 @@
 	"factionID": "ClanDiamondShark",
 	"icon": "uixTxrLogo_ClanDiamondShark",
 	"factionMapBorderOverrideColor": "rgba(0,0,0,1.0)",
-	"factionMapColor": "rgba(0,255,255,1.0)"
+	"factionMapColor": "rgba(220,20,60,1.0)"
 }

@@ -21,7 +21,7 @@
 			"planet_industry_poor",
 			"planet_industry_agriculture",
 			"planet_other_comstar",
-			"planet_faction_rim"
+			"planet_faction_nofaction"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -39,7 +39,7 @@
 	},
 	"FuelingStation": true,
 	"JumpDistance": 6,
-	"ownerID": "Rim",
+	"ownerID": "NoFaction",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -125,11 +125,11 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_Rim"
+		"itemCollection_major_TaurianConcordat"
 	],
-	"factionShopOwnerID": "Rim",
+	"factionShopOwnerID": "NoFaction",
 	"FactionShopItems": [
-		"itemCollection_faction_Rim"
+		"itemCollection_faction_TaurianConcordat"
 	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_Waypoint",
@@ -141,19 +141,6 @@
 	"DefaultDifficulty": 1,
 	"DifficultyList": [],
 	"DifficultyModes": [],
-	"contractEmployerIDs": [
-		"Rim",
-		"Locals"
-	],
-	"contractTargetIDs": [
-		"Locals",
-		"Steiner",
-		"Marik",
-		"ComStar",
-		"Marian",
-		"Circinus",
-		"Hanse",
-		"Mercenaries",
-		"AuriganPirates"
-	]
+	"contractEmployerIDs": [],
+	"contractTargetIDs": []
 }

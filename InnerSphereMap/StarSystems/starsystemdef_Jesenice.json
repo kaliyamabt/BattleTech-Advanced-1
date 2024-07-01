@@ -22,7 +22,7 @@
 			"planet_industry_recreation",
 			"planet_industry_agriculture",
 			"planet_industry_aquaculture",
-			"planet_faction_steiner"
+			"planet_faction_rimworldsrepublic"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -46,7 +46,7 @@
 	},
 	"FuelingStation": false,
 	"JumpDistance": 8,
-	"ownerID": "Steiner",
+	"ownerID": "RimWorldsRepublic",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -132,13 +132,13 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_Steiner",
+		"itemCollection_major_RimWorldsRepublic",
 		"itemCollection_shop_chemicalsProgression",
 		"itemCollection_shop_miningProgression"
 	],
-	"factionShopOwnerID": "Steiner",
+	"factionShopOwnerID": "RimWorldsRepublic",
 	"FactionShopItems": [
-		"itemCollection_faction_Steiner"
+		"itemCollection_faction_RimWorldsRepublic"
 	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_Jesenice",
@@ -151,20 +151,17 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Steiner",
+		"RimWorldsRepublic",
 		"Locals"
 	],
 	"contractTargetIDs": [
-		"Marik",
-		"Kurita",
-		"ComStar",
-		"WordOfBlake",
-		"Circinus",
-		"Rasalhague",
 		"Hanse",
-		"Rim",
+		"DarkCaste",
 		"AuriganPirates",
+		"Steiner",
+		"ClanWolf",
+		"ClanJadeFalcon",
 		"Mercenaries",
-		"ClanNovaCat"
+		"Locals"
 	]
 }
