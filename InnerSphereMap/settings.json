@@ -46,10 +46,6 @@
 			"logoImage": "draconisLogo"
 		},
 		{
-			"factionName": "Cameron",
-			"logoImage": "CameronLogo"
-		},
-		{
 			"factionName": "Circinus",
 			"logoImage": "circinusLogo"
 		},
@@ -66,14 +62,6 @@
 			"logoImage": "ClanNovaCatLogo"
 		},
 		{
-			"factionName": "Ives",
-			"logoImage": "stivesLogo"
-		},
-		{
-			"factionName": "Lothian",
-			"logoImage": "lothianLogo"
-		},
-		{
 			"factionName": "Illyrian",
 			"logoImage": "illyrianLogo"
 		},
@@ -84,18 +72,6 @@
 		{
 			"factionName": "Outworld",
 			"logoImage": "outworldsLogo"
-		},
-		{
-			"factionName": "AuriganDirectorate",
-			"logoImage": "directorateLogo"
-		},
-		{
-			"factionName": "Axumite",
-			"logoImage": "AxumiteLogo"
-		},
-		{
-			"factionName": "Castile",
-			"logoImage": "CastileLogo"
 		},
 		{
 			"factionName": "WordOfBlake",
@@ -110,10 +86,6 @@
 			"logoImage": "DelphiLogo"
 		},
 		{
-			"factionName": "Elysia",
-			"logoImage": "ElysiaLogo"
-		},
-		{
 			"factionName": "Hanse",
 			"logoImage": "HanseLogo"
 		},
@@ -124,10 +96,6 @@
 		{
 			"factionName": "Tortuga",
 			"logoImage": "TortugaLogo"
-		},
-		{
-			"factionName": "Valkyrate",
-			"logoImage": "ValkyrateLogo"
 		},
 		{
 			"factionName": "ClanWolf",
@@ -150,14 +118,6 @@
 			"logoImage": "ClanSnowRavenLogo"
 		},
 		{
-			"factionName": "ClanFireMandrill",
-			"logoImage": "ClanFireMandrillLogo"
-		},
-		{
-			"factionName": "Rim",
-			"logoImage": "RimCollectionLogo"
-		},
-		{
 			"factionName": "RimWorldsRepublic",
 			"logoImage": "RimWorldsRepublicLogo"
 		},
@@ -178,6 +138,10 @@
 			"logoImage": "JacobsonHavenLogo"
 		},
 		{
+			"factionName": "Cameron",
+			"logoImage": "TerranHegemonyLogo"
+		},
+		{
 			"factionName": "SanctuaryAlliance",
 			"logoImage": "SanctuaryAllianceLogo"
 		},
@@ -188,6 +152,22 @@
 		{
 			"factionName": "MallardRepublic",
 			"logoImage": "MallardRepublicLogo"
+		},
+		{
+			"factionName": "AuriganDirectorate",
+			"logoImage": "directorateLogo"
+		},
+		{
+			"factionName": "Rim",
+			"logoImage": "RimCollectionLogo"
+		},
+		{
+			"factionName": "Lothian",
+			"logoImage": "lothianLogo"
+		},
+		{
+			"factionName": "Castile",
+			"logoImage": "CastileLogo"
 		}
 	]
 }
