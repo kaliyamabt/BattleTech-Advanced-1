@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_Fadiffolu",
 		"Name": "Fadiffolu",
-		"Details": "A FWL system that was settled during the Age of War by refugees fleeing the conflict with the CCAF. As such, it always wasn't entirely behind the martial laws of the \"Free\" Worlds League.  ",
+		"Details": "A FWL system that was settled during the Age of War by refugees fleeing the conflict with the CCAF. As such, it always wasn't entirely behind the martial laws of the \"Free\" Worlds League. Fadiffolu joined the Word of Blake Protectorate in the late 3050s.",
 		"Icon": ""
 	},
 	"Position": {
@@ -26,7 +26,7 @@
 			"planet_industry_agriculture",
 			"planet_other_alienvegetation",
 			"planet_other_blackmarket",
-			"planet_faction_marik"
+			"planet_faction_wordofblake"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -43,7 +43,7 @@
 	},
 	"FuelingStation": false,
 	"JumpDistance": 12,
-	"ownerID": "Marik",
+	"ownerID": "WordOfBlake",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -129,13 +129,13 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_Marik",
+		"itemCollection_major_WordOfBlake",
 		"itemCollection_shop_chemicalsProgression",
 		"itemCollection_shop_miningProgression"
 	],
-	"factionShopOwnerID": "Marik",
+	"factionShopOwnerID": "WordOfBlake",
 	"FactionShopItems": [
-		"itemCollection_faction_Marik"
+		"itemCollection_faction_WoB"
 	],
 	"BlackMarketShopItems": [
 		"itemCollection_faction_AuriganPirates"
@@ -150,18 +150,16 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Marik",
 		"WordOfBlake",
 		"Locals"
 	],
 	"contractTargetIDs": [
 		"Steiner",
+		"Cameron",
 		"Liao",
-		"ComStar",
 		"MagistracyOfCanopus",
-		"Marian",
-		"Circinus",
+		"ComStar",
 		"Mercenaries",
-		"AuriganPirates"
+		"Rasalhague"
 	]
 }

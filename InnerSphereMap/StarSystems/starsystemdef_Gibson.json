@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_Gibson",
 		"Name": "Gibson",
-		"Details": "Gibson is the home of Gibson Federated Battlemechs and Brigadier Corporations. Together these are the two largest producers of Battlemechs and Warships in the Free Worlds League. Ownership over the Gibson system was given to the Word of Blake in the 3060s as a gift from the Captain-General of the FWL.",
+		"Details": "Gibson is the home of Gibson Federated Battlemechs and Brigadier Corporations. Together these are the two largest producers of Battlemechs and Warships in the Free Worlds League. Ownership over the Gibson system was given to the Word of Blake in the 3050s as a gift from the Captain-General of the FWL. Gibson now serves as the capital of the Word of Blake Protectorate in the FWL.",
 		"Icon": ""
 	},
 	"Position": {
@@ -19,6 +19,7 @@
 			"planet_other_moon",
 			"planet_pop_large",
 			"planet_civ_innersphere",
+			"planet_other_capital",
 			"planet_industry_rich",
 			"planet_industry_mining",
 			"planet_industry_agriculture",
@@ -146,7 +147,7 @@
 		"CAREER",
 		"NONE"
 	],
-	"DefaultDifficulty": 9,
+	"DefaultDifficulty": 10,
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
@@ -155,9 +156,9 @@
 	],
 	"contractTargetIDs": [
 		"Steiner",
-		"Davion",
+		"Cameron",
 		"Liao",
-		"Kurita",
+		"MagistracyOfCanopus",
 		"ComStar",
 		"Mercenaries",
 		"Rasalhague"
