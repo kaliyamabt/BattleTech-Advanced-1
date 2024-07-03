@@ -23,7 +23,7 @@
 		"default_mech_tank_slot",
 		"default_tank_mech_slot",
 		"default_tank_mech_slot",
-		"default_ba_slot",
-		"default_ba_slot"
+		"default_vehicle_slot",
+		"default_vehicle_slot"
 	]
 }
