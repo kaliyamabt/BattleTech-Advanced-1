@@ -20,9 +20,9 @@
 	},
 	"MovementCapDefID": "movedef_stonerhino_300",
 	"PathingCapDefID": "pathingdef_assault",
-	"HardpointDataDefID": "hardpointdatadef_stonerhino",
-	"PrefabIdentifier": "chrprfmech_stonerhinobase-001",
-	"PrefabBase": "stonerhino",
+	"HardpointDataDefID": "hardpointdatadef_mwostonerhino",
+	"PrefabIdentifier": "chrprfmech_mwostonerhinobase-001",
+	"PrefabBase": "mwostonerhino",
 	"Tonnage": 100,
 	"InitialTonnage": 10,
 	"weightClass": "ASSAULT",
@@ -238,7 +238,6 @@
 			"ClanMech",
 			"ArmLimitLowerRight",
 			"ArmLimitLowerLeft",
-			"mr-resize-0.8-0.8-0.8",
 			"AssaultMech"
 		],
 		"tagSetSourceFile": ""
