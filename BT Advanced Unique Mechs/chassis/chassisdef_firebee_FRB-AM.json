@@ -1,4 +1,11 @@
 {
+	"Custom": {
+		"AssemblyVariant": {
+			"PrefabID": "Firebee",
+			"Exclude": false,
+			"Include": true
+		}
+	},
 	"Description": {
 		"Cost": 2556000,
 		"Rarity": 2,
@@ -13,9 +20,9 @@
 	},
 	"MovementCapDefID": "movedef_firebee_FRB-2E",
 	"PathingCapDefID": "pathingdef_light",
-	"HardpointDataDefID": "hardpointdatadef_firebee",
-	"PrefabIdentifier": "chrprfmech_firebeebase-001",
-	"PrefabBase": "firebee",
+	"HardpointDataDefID": "hardpointdatadef_firebeev2",
+	"PrefabIdentifier": "chrprfmech_firebeev2base-001",
+	"PrefabBase": "firebeev2",
 	"Tonnage": 35,
 	"InitialTonnage": 3.5,
 	"weightClass": "LIGHT",
