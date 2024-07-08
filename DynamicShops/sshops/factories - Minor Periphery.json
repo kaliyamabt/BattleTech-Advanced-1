@@ -55,12 +55,6 @@
 	},
 	{
 		"conditions": {
-			"tag": "planet_name_otisberg"
-		},
-		"items": "BTA_List_Otisberg"
-	},
-	{
-		"conditions": {
 			"tag": "planet_name_navarre"
 		},
 		"items": "BTA_List_Navarre"
@@ -94,18 +88,6 @@
 			"tag": "planet_name_braunschweig"
 		},
 		"items": "BTA_List_Braunschweig"
-	},
-	{
-		"conditions": {
-			"tag": "planet_name_ingvolstand"
-		},
-		"items": "BTA_List_Ingvolstand"
-	},
-	{
-		"conditions": {
-			"tag": "planet_name_rondane"
-		},
-		"items": "BTA_List_Rondane"
 	},
 	{
 		"conditions": {
