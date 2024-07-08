@@ -22,7 +22,6 @@
 			"planet_industry_mining",
 			"planet_industry_agriculture",
 			"planet_other_comstar",
-			"planet_factory",
 			"planet_faction_nofaction"
 		],
 		"tagSetSourceFile": ""

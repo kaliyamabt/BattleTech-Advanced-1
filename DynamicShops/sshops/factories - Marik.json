@@ -95,6 +95,12 @@
 	},
 	{
 		"conditions": {
+			"tag": "planet_name_molokai"
+		},
+		"items": "BTA_List_Molokai"
+	},
+	{
+		"conditions": {
 			"tag": "planet_name_oliver"
 		},
 		"items": "BTA_List_Oliver"
