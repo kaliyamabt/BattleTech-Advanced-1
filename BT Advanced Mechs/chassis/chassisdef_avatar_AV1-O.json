@@ -19,6 +19,15 @@
 			"prefabName": null
 		},
 		{
+			"MountedLocation": "CenterTorso",
+			"ComponentDefID": "emod_armorslots_standard",
+			"ComponentDefType": "Upgrade",
+			"HardpointSlot": -1,
+			"DamageLevel": "Functional",
+			"prefabName": "",
+			"hasPrefabName": true
+		},
+		{
 			"ComponentDefID": "Weapon_Laser_MediumLaser_0-STOCK",
 			"ComponentDefType": "Weapon",
 			"DamageLevel": "Functional",
