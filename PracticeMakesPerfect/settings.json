@@ -61,6 +61,7 @@
 		"ClanWolf",
 		"ClanNovaCat",
 		"ClanSnowRaven",
+		"ClanFireMandrill",
 		"DarkCaste",
 		"Delphi",
 		"Hanse",
@@ -83,7 +84,8 @@
 		"CalderonProtectorate",
 		"ClanGoliathScorpion",
 		"ScorpionEmpire",
-		"RimWorldsRepublic"
+		"RimWorldsRepublic",
+		"Cameron"
 	],
 	"WhiteListMissions": [
 		"SimpleBattle",
@@ -176,12 +178,13 @@
 			"applyToFaction": [
 				"Liao"
 			],
-			"description": "Nobody likes Capellans. Gain reputation with the other four Great Houses when taking contracts against the Capellan Confederation.",
+			"description": "Nobody likes Capellans. Gain reputation with the other five Great Houses when taking contracts against the Capellan Confederation.",
 			"repMod": {
 				"Kurita": 2,
 				"Davion": 2,
 				"Steiner": 2,
-				"Marik": 2
+				"Marik": 2,
+				"Cameron": 2
 			},
 			"effectDataJO": []
 		},
@@ -193,7 +196,7 @@
 			"applyToFaction": [
 				"ComStar"
 			],
-			"description": "Nobody likes paying their HPG bills. Gain reputation with all five Great Houses when taking contracts against ComStar.",
+			"description": "Nobody likes paying their HPG bills. Gain reputation with all non-Cameron Great Houses when taking contracts against ComStar.",
 			"repMod": {
 				"Kurita": 2,
 				"Davion": 2,
@@ -453,6 +456,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -526,6 +530,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -599,6 +604,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -672,6 +678,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -745,6 +752,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -818,6 +826,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -891,6 +900,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -1069,12 +1079,14 @@
 			"applyToFaction": [
 				"WordOfBlake"
 			],
-			"description": "The Word of Blake is weird and worships toasters, screw those guys. Gain reputation with four of the Great Houses when taking contracts against The Word of Blake (House Marik likes them).",
+			"description": "The Word of Blake is weird and worships toasters, screw those guys. Gain reputation with five of the Great Houses as well as ComStar when taking contracts against The Word of Blake (House Marik likes them).",
 			"repMod": {
 				"Kurita": 2,
 				"Davion": 2,
 				"Steiner": 2,
-				"Liao": 2
+				"Liao": 2,
+				"Cameron": 2,
+				"ComStar": 2
 			},
 			"effectDataJO": []
 		},
@@ -1230,7 +1242,7 @@
 			"applyToFaction": [
 				"Cameron"
 			],
-			"description": "The Terran Hegemony is back and Everyone Disliked That. Gain bonus reputation with all five Great Houses for bullying their ancient, reborn, rival.",
+			"description": "The Terran Hegemony is back and Everyone Disliked That. Gain bonus reputation with the other five Great Houses for bullying their ancient, reborn, rival.",
 			"repMod": {
 				"Kurita": 2,
 				"Davion": 2,
