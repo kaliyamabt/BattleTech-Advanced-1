@@ -12,10 +12,10 @@
 		"Purchasable": true,
 		"Manufacturer": "",
 		"Model": "",
-		"UIName": "Archangel",
-		"Id": "chassisdef_archangel_C-ANG-RAPTUS",
-		"Name": "Archangel",
-		"Details": "This mech is a mystery. It is not listed on any recorded mech registry and is visually unique. It's not clear where it came from or what it is, only that it uses cutting-edge technology and is very dangerous. Named the Archangel according to captured Word of Blake MechWarriors, the Archangel seems to be an assault-weight armor brick capable of shrugging off absurd levels of damage. The Raptus config is a fearsome brawler, carrying an Ultra Autocannon/20 and twin SRM-4s for close range, while a Heavy PPC puts down fire at longer distances. 5 total tons of ammo are protected by CASE II.",
+		"UIName": "Broadsword",
+		"Id": "chassisdef_archangel_C-ANG-BROADSWORD",
+		"Name": "Broadsword",
+		"Details": "While the standard Archangel is already mysterious, this one, the so-called Broadsword, is even more so. Rumor has it that the pilot is an ex-member of the Word of Blake who stole away with the 'Mech and came to Solaris VII to make their fortune. The Broadsword is armed with a trio of powerful Snub-Nose PPCs to smash opponents to pieces as well as paired SRM-6s for extra punch. Of course, the design's name comes from the Retractable Blade in the left arm, which can easily slice apart anything that Broadsword can catch (a task made easier thanks to a Supercharger).",
 		"Icon": "uixTxrIcon_archangel"
 	},
 	"MovementCapDefID": "movedef_mackie-9H",
@@ -72,16 +72,8 @@
 			"Location": "LeftArm",
 			"Hardpoints": [
 				{
-					"WeaponMountID": "Ballistic",
-					"Omni": true
-				},
-				{
-					"WeaponMountID": "Ballistic",
-					"Omni": true
-				},
-				{
-					"WeaponMountID": "Ballistic",
-					"Omni": true
+					"WeaponMountID": "MeleeWeapon",
+					"Omni": false
 				}
 			],
 			"Tonnage": 0,
@@ -93,6 +85,10 @@
 		{
 			"Location": "LeftTorso",
 			"Hardpoints": [
+				{
+					"WeaponMountID": "Ballistic",
+					"Omni": true
+				},
 				{
 					"WeaponMountID": "Ballistic",
 					"Omni": true
@@ -110,6 +106,10 @@
 				{
 					"WeaponMountID": "Energy",
 					"Omni": true
+				},
+				{
+					"WeaponMountID": "Ballistic",
+					"Omni": true
 				}
 			],
 			"Tonnage": 0,
@@ -124,6 +124,10 @@
 				{
 					"WeaponMountID": "Ballistic",
 					"Omni": true
+				},
+				{
+					"WeaponMountID": "Ballistic",
+					"Omni": true
 				}
 			],
 			"Tonnage": 0,
@@ -135,10 +139,6 @@
 		{
 			"Location": "RightArm",
 			"Hardpoints": [
-				{
-					"WeaponMountID": "Ballistic",
-					"Omni": true
-				},
 				{
 					"WeaponMountID": "Ballistic",
 					"Omni": true
@@ -217,18 +217,18 @@
 			"z": 0.5
 		}
 	],
-	"VariantName": "C-ANG-RAPTUS",
+	"VariantName": "C-ANG-BROADSWORD",
 	"ChassisTags": {
 		"items": [
 			"OmniMech",
 			"ArmLimitLowerRight",
-			"ArmLimitLowerLeft",
-			"AssaultMech"
+			"AssaultMech",
+			"HeroMech"
 		],
 		"tagSetSourceFile": ""
 	},
-	"StockRole": "Indestructible Zombie",
-	"YangsThoughts": "This mech is a mystery. It is not listed on any recorded mech registry and is visually unique. It's not clear where it came from or what it is, only that it uses cutting-edge technology and is very dangerous. Named the Archangel according to captured Word of Blake MechWarriors, the Archangel seems to be an assault-weight armor brick capable of shrugging off absurd levels of damage. The Raptus config is a fearsome brawler, carrying an Ultra Autocannon/20 and twin SRM-4s for close range, while a Heavy PPC puts down fire at longer distances. 5 total tons of ammo are protected by CASE II.",
+	"StockRole": "Gladiator",
+	"YangsThoughts": "While the standard Archangel is already mysterious, this one, the so-called Broadsword, is even more so. Rumor has it that the pilot is an ex-member of the Word of Blake who stole away with the 'Mech and came to Solaris VII to make their fortune. The Broadsword is armed with a trio of powerful Snub-Nose PPCs to smash opponents to pieces as well as paired SRM-6s for extra punch. Of course, the design's name comes from the Retractable Blade in the left arm, which can easily slice apart anything that Broadsword can catch (a task made easier thanks to a Supercharger).",
 	"FixedEquipment": [
 		{
 			"MountedLocation": "CenterTorso",
@@ -321,6 +321,39 @@
 			"ComponentDefID": "Gear_C3i",
 			"SimGameUID": "",
 			"ComponentDefType": "Upgrade",
+			"HardpointSlot": 0,
+			"GUID": null,
+			"DamageLevel": "Functional",
+			"prefabName": null,
+			"hasPrefabName": false
+		},
+		{
+			"MountedLocation": "LeftArm",
+			"ComponentDefID": "emod_arm_part_lower",
+			"SimGameUID": "",
+			"ComponentDefType": "Upgrade",
+			"HardpointSlot": 0,
+			"GUID": null,
+			"DamageLevel": "Functional",
+			"prefabName": null,
+			"hasPrefabName": false
+		},
+		{
+			"MountedLocation": "LeftArm",
+			"ComponentDefID": "emod_arm_part_hand",
+			"SimGameUID": "",
+			"ComponentDefType": "Upgrade",
+			"HardpointSlot": 0,
+			"GUID": null,
+			"DamageLevel": "Functional",
+			"prefabName": null,
+			"hasPrefabName": false
+		},
+		{
+			"MountedLocation": "LeftArm",
+			"ComponentDefID": "Weapon_Archangel_RetractableBlade",
+			"SimGameUID": "",
+			"ComponentDefType": "Weapon",
 			"HardpointSlot": 0,
 			"GUID": null,
 			"DamageLevel": "Functional",

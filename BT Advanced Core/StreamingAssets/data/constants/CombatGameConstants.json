@@ -361,7 +361,7 @@
 		"DFAExecutionHeight": 25.0,
 		"DefaultFallRate" : -9.8,
 		"ExperimentalFlag": true,
-		"ExperimentalGridDistance": 30.0,
+		"ExperimentalGridDistance": 28.0,
 		"ExperimentalHexRadius": 4,
 		"MaxMeleeVerticalOffset": 8.0,
 		"NumMeleeDestinationChoices": 3,
