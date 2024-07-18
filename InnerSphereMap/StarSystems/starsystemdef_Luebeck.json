@@ -1,8 +1,8 @@
 {
 	"Description": {
 		"Id": "starsystemdef_Luebeck",
-		"Name": "Luebeck",
-		"Details": "Luebeck is one of the worlds that forms part ofthe Hanseatic League. There are two worlds in this system, Quarantine, and Luebeck - Quarantine is used as a customs holding point before allowing access to Luebeck.",
+		"Name": "Lübeck",
+		"Details": "Lübeck is one of the worlds that forms part ofthe Hanseatic League. There are two worlds in this system, Quarantine, and Lübeck - Quarantine is used as a customs holding point before allowing access to Lübeck.",
 		"Icon": ""
 	},
 	"Position": {
@@ -12,7 +12,7 @@
 	},
 	"Tags": {
 		"items": [
-			"planet_name_lübeck",
+			"planet_name_luebeck",
 			"planet_size_medium",
 			"planet_climate_arid",
 			"planet_pop_medium",
