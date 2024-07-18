@@ -1387,7 +1387,7 @@
 			{
 				"PrefabIdentifier": "UAC5",
 				"HardpointCandidates": {
-					"uac5": 0.8,
+					"uac5": 1.0,
 					"uac10": 0.8,
 					"uac2": 0.8,
 					"lbx5": 0.9,
@@ -1398,7 +1398,7 @@
 					"ac2": 0.7,
 					"lbx2": 0.7,
 					"rac5": 0.8,
-					"ac10": 1.0,
+					"ac10": 0.6,
 					"lbx10": 0.8,
 					"rac10": 0.8,
 					"uac20": 0.6,
