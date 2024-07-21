@@ -6,9 +6,9 @@
 		"Manufacturer": "",
 		"Model": "",
 		"UIName": "Osiris",
-		"Id": "chassisdef_osiris_OSR-4C",
+		"Id": "chassisdef_osiris_OSR-5C",
 		"Name": "Osiris",
-		"Details": "During the FCCW, the Capellan Confederation salvaged a number of Osirises from the Federated Suns. Unsure of what to do with the mech, the Capellans settled on making it into a stealthy raider. Equipped with the Confederation's new Stealth Armor and a bevy of lasers and missiles, the Osiris-4C quickly established itself as capable, if unexceptional. It is often seen alongside the Confederation's Raven-4L stealth mechs working in effective wolfpacks.",
+		"Details": "During the FCCW, the Capellan Confederation salvaged a number of Osirises from the Federated Suns. Unsure of what to do with the mech, the Capellans settled on making it into a stealthy raider. Equipped with the Confederation's new Stealth Armor and a bevy of lasers and missiles, the Osiris-5C quickly established itself as capable, if unexceptional. It is often seen alongside the Confederation's Raven-4L stealth mechs working in effective wolfpacks.",
 		"Icon": "uixTxrIcon_osiris"
 	},
 	"MovementCapDefID": "movedef_osiris_OSR-3D",
@@ -196,7 +196,7 @@
 			"z": 0.5
 		}
 	],
-	"VariantName": "OSR-4C",
+	"VariantName": "OSR-5C",
 	"ChassisTags": {
 		"items": [
 			"ArmLimitUpperRight",
@@ -206,7 +206,7 @@
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Stealth Hit and Run Mech",
-	"YangsThoughts": "During the FCCW, the Capellan Confederation salvaged a number of Osirises from the Federated Suns. Unsure of what to do with the mech, the Capellans settled on making it into a stealthy raider. Equipped with the Confederation's new Stealth Armor and a bevy of lasers and missiles, the Osiris-4C quickly established itself as capable, if unexceptional. It is often seen alongside the Confederation's Raven-4L stealth mechs working in effective wolfpacks.",
+	"YangsThoughts": "During the FCCW, the Capellan Confederation salvaged a number of Osirises from the Federated Suns. Unsure of what to do with the mech, the Capellans settled on making it into a stealthy raider. Equipped with the Confederation's new Stealth Armor and a bevy of lasers and missiles, the Osiris-5C quickly established itself as capable, if unexceptional. It is often seen alongside the Confederation's Raven-4L stealth mechs working in effective wolfpacks.",
 	"FixedEquipment": [
 		{
 			"MountedLocation": "Head",
