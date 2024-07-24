@@ -322,7 +322,7 @@
 		"items": [
 			"OmniMech",
 			"ArmLimitUpperRight",
-			"ArmLimitUpperRight",
+			"ArmLimitUpperLeft",
 			"HeavyMech"
 		],
 		"tagSetSourceFile": ""
