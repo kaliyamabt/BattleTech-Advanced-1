@@ -79,7 +79,7 @@
 			"Description": {
 				"Id": "WeaponEffect-AmbassadorShutdown",
 				"Name": "Will of the Star League!",
-				"Details": "This unit has been hit commanded by the Will of the Star League, it has a high chance to shut down. It also suffers a penalty to accuracy and to movement speed.",
+				"Details": "This unit has been commanded by the Will of the Star League, it has a high chance to shut down. It also suffers a penalty to accuracy and to movement speed.",
 				"Icon": "magnet-blast"
 			},
 			"statisticData": {

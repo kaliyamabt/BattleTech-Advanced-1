@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "AbilityDefT10T",
 		"Name": "COMMAND AND CONTROL",
-		"Details": "PASSIVE: Using special on-board command and control electronics, this unit serves as a lance master, gaining +1 initiative, +10% sensor and sight range, and +1 resolve generation, all for itself in combat.",
+		"Details": "PASSIVE: Using special on-board command and control electronics, this unit serves as a company master, gaining +1 initiative, +10% sensor and sight range, and +1 resolve generation, all for itself in combat.",
 		"Icon": "corporal"
 	},
 	"DisplayParams": "ShowInMWTRay",

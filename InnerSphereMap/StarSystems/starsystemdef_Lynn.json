@@ -132,7 +132,9 @@
 	"FactionShopItems": [
 		"itemCollection_faction_Hanse"
 	],
-	"BlackMarketShopItems": null,
+	"BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
 	"CoreSystemID": "starsystemdef_Lynn",
 	"StartingSystemModes": [
 		"KAMEA_CAMPAIGN",
