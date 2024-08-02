@@ -35,7 +35,7 @@
 					"Description": {
 						"Id": "continue1",
 						"Name": "MercNews Broadcast",
-						"Details": "One of the most powerful and enduring Periphery states outside the [[DM.Factions[faction_MagistracyOfCanopus],Magistracy of Canopus]] and [[DM.Factions[faction_TaurianConcordat],Taurian Concordat]], the [[DM.Factions[faction_Marian],Marian Hegemony]] is an expansionist monarchy loosely based on an obscure ancient Terran empire, long lost to the mists of time. Like many Periphery states, both location and temperament limit the Hegemony's interactions with the Inner Sphere powers to the occasional border raid of the [[DM.Factions[faction_Marik],Free Worlds League]] and [[DM.Factions[faction_MagistracyOfCanopus],Magistracy of Canopus]].",
+						"Details": "One of the most powerful and enduring Periphery states outside the [[DM.Factions[faction_MagistracyOfCanopus],Magistracy of Canopus]], [[DM.Factions[faction_TaurianConcordat],Taurian Concordat]], and [[DM.Factions[faction_RimWorldsRepublic],Rim Worlds Republic]], the [[DM.Factions[faction_Marian],Marian Hegemony]] is an expansionist monarchy loosely based on an obscure ancient Terran empire, long lost to the mists of time. Like many Periphery states, both location and temperament limit the Hegemony's interactions with the Inner Sphere powers to the occasional border raid of the [[DM.Factions[faction_Marik],Free Worlds League]] and [[DM.Factions[faction_MagistracyOfCanopus],Magistracy of Canopus]].",
 						"Icon": ""
 					},
 					"Weight": 100,

@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "3063-02-14",
 		"Name": "MercNews Broadcast",
-	"Details": "SANCTUARY ALLIANCE RAIDS AURIGAN COALITION!\r\n\n\nCoromodir, [[DM.Factions[faction_AuriganRestoration],Aurigan Coalition]]: In an unexpected move, Aurigan Coalition officials report that Sanctuary Alliance units have been seen raiding several of their worlds along the Taurian border. The Alliance units are making no efforts to conceal their presence nor are they looking to seize control over the area. In fact, in an unusual move, their units seem to be uncoordinated and acting somewhat erratically, attacking targets seemingly at random and simply burning and destroying as they go. The [[DM.BaseDescriptionDefs[LoreACM],Aurigan Coalition Military]] has been scrambled and [[DM.BaseDescriptionDefs[LoreKameaArano],High Lady Kamea Arano]] has issued a call for peace with the Sanctuary Alliance.",
+		"Details": "SANCTUARY ALLIANCE RAIDS AURIGAN COALITION!\r\n\n\nCoromodir, [[DM.Factions[faction_AuriganRestoration],Aurigan Coalition]]: In an unexpected move, Aurigan Coalition officials report that Sanctuary Alliance units have been seen raiding several of their worlds along the Taurian border. The Alliance units are making no efforts to conceal their presence nor are they looking to seize control over the area. In fact, in an unusual move, their units seem to be uncoordinated and acting somewhat erratically, attacking targets seemingly at random and simply burning and destroying as they go. The [[DM.BaseDescriptionDefs[LoreACM],Aurigan Coalition Military]] has been scrambled and [[DM.BaseDescriptionDefs[LoreKameaArano],High Lady Kamea Arano]] has issued a call for peace with the Sanctuary Alliance.",
 		"Icon": "uixTxrSpot_ComputerScreen.png"
 	},
 	"Scope": "Company",
