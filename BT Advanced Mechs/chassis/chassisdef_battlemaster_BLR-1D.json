@@ -1,4 +1,11 @@
 {
+	"Custom": {
+		"AssemblyVariant": {
+			"PrefabID": "BattleMaster",
+			"Exclude": false,
+			"Include": true
+		}
+	},
 	"Description": {
 		"Cost": 11284900,
 		"Rarity": 4,
@@ -13,9 +20,9 @@
 	},
 	"MovementCapDefID": "movedef_battlemaster_BLR-1G",
 	"PathingCapDefID": "pathingdef_assault",
-	"HardpointDataDefID": "hardpointdatadef_battlemaster",
-	"PrefabIdentifier": "chrPrfMech_battlemasterBase-001",
-	"PrefabBase": "battlemaster",
+	"HardpointDataDefID": "hardpointdatadef_bigfoot",
+	"PrefabIdentifier": "chrprfmech_bigfootbase-001",
+	"PrefabBase": "bigfoot",
 	"Tonnage": 85,
 	"InitialTonnage": 8.5,
 	"weightClass": "ASSAULT",
