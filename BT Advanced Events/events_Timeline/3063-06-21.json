@@ -35,7 +35,7 @@
 					"Description": {
 						"Id": "continue1",
 						"Name": "MercNews Broadcast",
-						"Details": "ERIDANI CIVIL WAR HEATS UP\r\n\n\nThe long-running civil war on Epsilon Eridani has entered another phase with the planet's Palatine of Duvic hiring of the [[DM.BaseDescriptionDefs[LoreKingstonK],Kingston's Killers]] and [[DM.BaseDescriptionDefs[LoreThe48th],The 48th]] mercenary companies.  While both units are small, they threaten to tip the balance in favour of the Palatine over their the County Shu planetary militia opponents.\r\n\n\nBRUTAL FIVE SIDED FIGHTING ON CAPH\r\n\n\nThe collapse of the planet's goverment in the wake of [[DM.BaseDescriptionDefs[LoreOpGuerrero],Operation GUERRERO]] has left factions obstensibly representing each of the Great Houses and the Word of Blake battling for control of the planet.  Identified units embroiled in this conflict include [[DM.BaseDescriptionDefs[LoreGustafsonGren],Gustafson's Grenadiers]], the Denebola [[DM.BaseDescriptionDefs[LoreSMM],SMM]], [[DM.Factions[faction_LindonsBattalion],Lindon's Battalion]], the [[DM.BaseDescriptionDefs[LoreStealthyTigers],Stealthy Tigers]] and the [[DM.Factions[faction_AlwaysFaithful],Always Faithful]].\r\n\n\nAttack and defence contracts for these [[DM.BaseDescriptionDefs[LoreChaosMarch],Chaos March]] battlefields are available via the MRBC database.",
+						"Details": "BRUTAL FIGHTING ON CAPH\r\n\n\nThanks to Word of Blake machinations, the government of Caph has collapsed, despite support from the [[DM.Factions[faction_Cameron],Terran Hegemony]] (the world's ostensible rulers). Into this unexpected chaos, several mercenary commands under the employment of various other Great Houses have begun to battle for control of the world. To add to the chaos, the Hegemony has hired a unit of their own, the [[DM.BaseDescriptionDefs[LoreRedfieldRen],Redfield Renegades]], to assist in keeping the world stable and under their control. Identified units embroiled in this conflict include [[DM.BaseDescriptionDefs[LoreGustafsonGren],Gustafson's Grenadiers]], the Denebola [[DM.BaseDescriptionDefs[LoreSMM],SMM]], [[DM.Factions[faction_LindonsBattalion],Lindon's Battalion]], the [[DM.BaseDescriptionDefs[LoreStealthyTigers],Stealthy Tigers]] and the [[DM.Factions[faction_AlwaysFaithful],Always Faithful]].\r\n\n\nAttack and defence contracts for this battlefield is available via the MRBC database.",
 						"Icon": ""
 					},
 					"Weight": 100,
@@ -45,19 +45,19 @@
 							"Requirements": null,
 							"AddedTags": {
 								"items": [
-							"WIIC_give_starsystemdef_Carver(Liberty3063+)_to_Steiner",
-							"WIIC_give_starsystemdef_Caph_to_WordOfBlake",
-							"WIIC_give_starsystemdef_EpsilonEridani_to_Locals",
-							"WIIC_Liao_attacks_starsystemdef_Carver(Liberty3063+)",
-							"WIIC_LindonsBattalion_attacks_starsystemdef_Caph",
-							"WIIC_WordOfBlake_attacks_starsystemdef_EpsilonEridani",
-							"WIIC_set_starsystemdef_Carver(Liberty3063+)_defender_strength_15",
-							"WIIC_set_starsystemdef_Carver(Liberty3063+)_attacker_strength_10",
-							"WIIC_set_starsystemdef_Caph_defender_strength_15",
-							"WIIC_set_starsystemdef_Caph_attacker_strength_15",
-							"WIIC_set_starsystemdef_EpsilonEridani_defender_strength_15",
-							"WIIC_set_starsystemdef_EpsilonEridani_attacker_strength_25",
-							"WIIC_give_starsystemdef_Caph_to_Kurita_on_attacker_win"
+									"WIIC_give_starsystemdef_Caph_to_Cameron",
+									"WIIC_give_starsystemdef_Capolla_to_Cameron",
+									"WIIC_give_starsystemdef_Zurich_to_Liao",
+									"WIIC_LindonsBattalion_attacks_starsystemdef_Caph",
+									"WIIC_Locals_attacks_starsystemdef_Capolla",
+									"WIIC_Locals_attacks_starsystemdef_Zurich",
+									"WIIC_set_starsystemdef_Caph_defender_strength_20",
+									"WIIC_set_starsystemdef_Caph_attacker_strength_10",
+									"WIIC_set_starsystemdef_Capolla_defender_strength_15",
+									"WIIC_set_starsystemdef_Capolla_attacker_strength_15",
+									"WIIC_set_starsystemdef_Zurich_defender_strength_15",
+									"WIIC_set_starsystemdef_Zurich_attacker_strength_15",
+									"WIIC_give_starsystemdef_Caph_to_Locals_on_attacker_win"
 								],
 								"tagSetSourceFile": ""
 							},

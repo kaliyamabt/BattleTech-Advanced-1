@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "3063-08-21",
 		"Name": "MercNews Broadcast",
-		"Details": "MRBC SPOTLIGHT: REBELLION ON CARVER V!\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]: After both pro-[[DM.BaseDescriptionDefs[LoreKatherineSteiner],Katrina]] and pro-[[DM.BaseDescriptionDefs[LoreVictorSD],Victor]] forces called in reinforcements, fighting is at an all time high on [[DM.BaseDescriptionDefs[LoreCarverV],Carver V]]. Refugees gather in makeshift camps as tanks and BattleMechs roam the countryside, attacking and counterattacking in an attempt to wrest control of the planet.\r\n\n\nNew reports, however, confirm that a revolt is underway on the planet. Civilians, some say in the thousands, have banded together to stop the destruction of their planet.  Rallying under an ex-civil engineer, and styling themselves the Partisans, they seek to create a world free of [[DM.BaseDescriptionDefs[LoreGreatHouses],Great House]] control. More importantly, sources from the [[DM.BaseDescriptionDefs[LoreVictorSD],Victor]] camp have indicated they would support an independent world the Partisans now call Liberty.  Meanwhile, all sides are calling for reinforcements.",
+		"Details": "MRBC SPOTLIGHT: HELL ON HECHNAR!\r\n\n\nHechnar, [[DM.Factions[faction_Cameron],Terran Hegemony]]: Hecnar, a recently resettled world within the borders of the Terran Hegemony, has come into the spotlight recently as it is suffering a plague of piracy. Pirates, from unknown sources, have been raiding the world incessantly for months and have pushed the local THAF defenders to the breaking point. In response to this unending tide of pirate attacks, the Hegemony has put out the call for any mercenaries willing to defend the world and wipe out the pirates once and for all. Several mercenary commands have flocked to the Hegemony's banner, including the famous [[DM.BaseDescriptionDefs[LoreLCG],Lexington Combat Group]]. Civilians, some say in the hundreds, have been flocking to the mercenaries banners, asking only for a chance to defend their home and hearth.",
 		"Icon": "uixTxrSpot_ComputerScreen.png"
 	},
 	"Scope": "Company",
@@ -45,11 +45,11 @@
 							"Requirements": null,
 							"AddedTags": {
 								"items": [
-									"WIIC_give_starsystemdef_Carver(Liberty3063+)_to_Steiner",
+									"WIIC_give_starsystemdef_Hechnar_to_Cameron",
 									"WIIC_give_starsystemdef_Saiph_to_SaiphTriumvirate",
 									"WIIC_give_starsystemdef_NewCanton_to_SaiphTriumvirate",
 									"WIIC_give_starsystemdef_TallTrees_to_SaiphTriumvirate",
-									"WIIC_Locals_attacks_starsystemdef_Carver(Liberty3063+)",
+									"WIIC_AuriganPirates_raids_starsystemdef_Hechnar",
 									"WIIC_1stMcCarronsArmoredCavalry_attacks_starsystemdef_Saiph",
 									"WIIC_Liao_attacks_starsystemdef_NewCanton",
 									"WIIC_Liao_attacks_starsystemdef_TallTrees",
@@ -60,8 +60,8 @@
 									"WIIC_set_starsystemdef_TallTrees_defender_strength_15",
 									"WIIC_set_starsystemdef_TallTrees_attacker_strength_15",
 									"WIIC_give_starsystemdef_Saiph_to_Liao_on_attacker_win",
-									"WIIC_set_starsystemdef_Carver(Liberty3063+)_defender_strength_15",
-									"WIIC_set_starsystemdef_Carver(Liberty3063+)_attacker_strength_25"
+									"WIIC_set_starsystemdef_Hechnar_defender_strength_25",
+									"WIIC_set_starsystemdef_Hechnar_attacker_strength_20"
 								],
 								"tagSetSourceFile": ""
 							},
