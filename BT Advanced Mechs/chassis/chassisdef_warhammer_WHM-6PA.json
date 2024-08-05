@@ -23,6 +23,13 @@
 			"hasPrefabName": true
 		}
 	],
+	"Custom": {
+		"AssemblyVariant": {
+			"PrefabID": "Warhammer",
+			"Exclude": false,
+			"Include": true
+		}
+	},
 	"Description": {
 		"Cost": 7116210,
 		"Rarity": 3,
