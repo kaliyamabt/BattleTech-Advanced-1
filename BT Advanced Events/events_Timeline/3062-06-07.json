@@ -67,11 +67,11 @@
 									"WIIC_set_starsystemdef_Atria_defender_strength_10",
 									"WIIC_set_starsystemdef_Atria_attacker_strength_25",
 									"WIIC_set_starsystemdef_Sabik_defender_strength_20",
-									"WIIC_set_starsystemdef_Sabik_attacker_strength_30"
+									"WIIC_set_starsystemdef_Sabik_attacker_strength_30",
 									"WIIC_set_starsystemdef_Moore_defender_strength_10",
 									"WIIC_set_starsystemdef_Moore_attacker_strength_25",
 									"WIIC_set_starsystemdef_Lambrecht_defender_strength_15",
-									"WIIC_set_starsystemdef_Lambrecht_attacker_strength_30",
+									"WIIC_set_starsystemdef_Lambrecht_attacker_strength_30"
 								],
 								"tagSetSourceFile": ""
 							},
