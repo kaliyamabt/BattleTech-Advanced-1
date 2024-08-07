@@ -212,8 +212,7 @@
 			},
 			{
 				"MapId": "mapMultiPurp_metroGreen_uTech",
-				"ContractTypeName": "CaptureBase",
-				"IncreaseBoundarySizeByPercentage": 0.2
+				"IncreaseBoundarySizeByPercentage": 0.3
 			},
 			{
 				"MapId": "mapGeneral_lushIsthmus_vJung",
