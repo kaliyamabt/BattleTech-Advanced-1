@@ -6,16 +6,16 @@
 			}
 		],
 		"BonusDescriptions": [
-				"VSPL",
-				"VariableShortMax: 90",
-				"VariableMedMin: 60",
-				"VariableMedMax: 150",
-				"VariableLongMin: 150",
-				"VariableLongMax: 270",
-				"PipsIgnored: 1",
-				"WeaponAttachmentCompatible: Laser Insulator",
-				"WeaponAttachmentCompatible: Laser FCS"
-			]
+			"VSPL",
+			"VariableShortMax: 90",
+			"VariableMedMin: 90",
+			"VariableMedMax: 150",
+			"VariableLongMin: 150",
+			"VariableLongMax: 270",
+			"PipsIgnored: 1",
+			"WeaponAttachmentCompatible: Laser Insulator",
+			"WeaponAttachmentCompatible: Laser FCS"
+		]
 	},
 	"Category": "Energy",
 	"Type": "Laser",
@@ -87,7 +87,7 @@
 			"UIName": "Medium",
 			"isBaseMode": true,
 			"forbiddenRangeEnable": true,
-			"ForbiddenRange": 55
+			"ForbiddenRange": 85
 		},
 		{
 			"Id": "long",

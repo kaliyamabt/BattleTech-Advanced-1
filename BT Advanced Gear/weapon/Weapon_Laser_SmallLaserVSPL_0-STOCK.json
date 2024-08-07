@@ -6,17 +6,17 @@
 			}
 		],
 		"BonusDescriptions": [
-				"VSPL",
-				"VariableShortMax: 60",
-				"VariableMedMin: 60",
-				"VariableMedMax: 120",
-				"VariableLongMin: 120",
-				"VariableLongMax: 180",
-				"PipsIgnored: 4",
-				"AntiBA: 100%",
-				"WeaponAttachmentCompatible: Laser Insulator",
-				"WeaponAttachmentCompatible: Laser FCS"
-			]
+			"VSPL",
+			"VariableShortMax: 60",
+			"VariableMedMin: 60",
+			"VariableMedMax: 120",
+			"VariableLongMin: 120",
+			"VariableLongMax: 180",
+			"PipsIgnored: 4",
+			"AntiBA: 100%",
+			"WeaponAttachmentCompatible: Laser Insulator",
+			"WeaponAttachmentCompatible: Laser FCS"
+		]
 	},
 	"Category": "AntiPersonnel",
 	"Type": "Laser",
