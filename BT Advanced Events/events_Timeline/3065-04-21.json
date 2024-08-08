@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "3065-04-21",
 		"Name": "MercNews Broadcast",
-		"Details": "[[DM.BaseDescriptionDefs[LoreChaosMarch],CHAOS MARCH]]: SIX-SIDED WAR RAGES ON ELGIN\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]:  Nine years After the unmasking of the CO of the [[DM.BaseDescriptionDefs[LoreRepublican],Fifth Tikonov Republican Guard]] as a [[DM.BaseDescriptionDefs[LoreMaskirovka],Maskirovka]] spy and the subsequent collapse of the Fifth, a six-sided fight still rages on the planet.  Various Barons and their supporting forces are vying for overall control of the planet, while the pro-Fedcom remnants of the Fifth preserve a foothold on the planet.  Minor mercenary and support forces include the Greyton Regulars, the Blue Guard, Haman Hussars, Kpay Lancers and the Second Daman Rangers.  All Barons and the Fifth have contracts listed on the MRBC database.",
+		"Details": "CHAOS OF WAR ON ELGIN\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreTerranHegemony],Terran Hegemony]]:  Elgin is a pastoral world, beautiful and gentle, but has become a battlefield. After willingly joining the Terran Hegemony in the late 3030s, Elgin has slowly developed a pro-[[DM.Factions[faction_Marik],FWL]] sentiment among the populace, many of whom wished that the Hegemony would be more of a benefit than it seemingly has been (the reality of the details of the Hegemony's rulership is, apparently, irrelevant). After years of growing discontent, the [[DM.BaseDescriptionDefs[LoreDiemofElgin],Diem of Elgin]], Jeffery Ling, has formented an open revolt against the Cameron family and has declared his intention to join the Free Worlds League. [[DM.Factions[faction_Cameron],House Cameron]] has responded with force, sending the 9th Cameron Cavaliers to Elgin to put down Diem Ling's revolt and bring peace back to the world.",
 		"Icon": "uixTxrSpot_ComputerScreen.png"
 	},
 	"Scope": "Company",
@@ -48,12 +48,11 @@
 									"WIIC_give_starsystemdef_Zurich_to_Davion",
 									"WIIC_give_starsystemdef_Elgin_to_Locals",
 									"WIIC_Liao_attacks_starsystemdef_Zurich",
-									"WIIC_Davion_attacks_starsystemdef_Elgin",
+									"WIIC_Cameron_attacks_starsystemdef_Elgin",
 									"WIIC_set_starsystemdef_Zurich_defender_strength_30",
 									"WIIC_set_starsystemdef_Zurich_attacker_strength_15",
 									"WIIC_set_starsystemdef_Elgin_defender_strength_20",
-									"WIIC_set_starsystemdef_Elgin_attacker_strength_20",
-									"WIIC_give_starsystemdef_Elgin_to_Locals_on_attacker_win"
+									"WIIC_set_starsystemdef_Elgin_attacker_strength_30"
 								],
 								"tagSetSourceFile": ""
 							},

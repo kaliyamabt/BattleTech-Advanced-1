@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "3065-12-21",
 		"Name": "MercNews Broadcast",
-		"Details": "ANOTHER WAVE OF GUERILLA ATTACKS ON FLETCHER\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]:  In a now familiar pattern, [[DM.BaseDescriptionDefs[LoreHouseLiao],House Liao]] has sent another round of mercenaries to support the efforts of Fletcher's [[DM.BaseDescriptionDefs[LoreXinSheng],Xin Sheng]] guerillas against the pro-Fedcom planetary militia.  Elements of the [[DM.BaseDescriptionDefs[LoreBroadstreetBs],Broadstreet Bullies]] and [[DM.Factions[faction_LethalInjection],Lethal Injection]] have been sighted on the planet sporting Liao colours. The planetary militia themselves, while holding their own, are also posting contracts for mercenaries to assist in the defence of their world.",
+		"Details": "ANOTHER WAVE OF GUERILLA ATTACKS ON FLETCHER\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreTerranHegemony],Terran Hegemony]]:  In a now familiar pattern, [[DM.BaseDescriptionDefs[LoreHouseLiao],House Liao]] has sent another round of mercenaries to support the efforts of Fletcher's [[DM.BaseDescriptionDefs[LoreXinSheng],Xin Sheng]] guerillas against the pro-Cameron planetary militia.  Elements of the [[DM.BaseDescriptionDefs[LoreBroadstreetBs],Broadstreet Bullies]] and [[DM.Factions[faction_LethalInjection],Lethal Injection]] have been sighted on the planet sporting Liao colours. The planetary militia themselves, while holding their own, are also posting contracts for mercenaries to assist in the defence of their world.",
 		"Icon": "uixTxrSpot_ComputerScreen.png"
 	},
 	"Scope": "Company",
@@ -35,7 +35,7 @@
 					"Description": {
 						"Id": "continue1",
 						"Name": "MercNews Broadcast",
-						"Details": "CAPH CITIZENS INVITE [[DM.Factions[faction_WordOfBlake],WORD OF BLAKE]] TO PACIFY PLANET\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]:  Encouraged by the Word of Blake's intervention and treatment of other [[DM.BaseDescriptionDefs[LoreChaosMarch],Chaos March]] worlds, prominent citizen groups on Caph have requested the Word of Blake to settle the various conflicts on Caph.  While many in the Inner Sphere view the Word of Blake as techno-religious fanatics, the average Caphian has begun to see the Word of Blake as a sensible and justifiable alternative to the Great Houses, particularly as Houses [[DM.BaseDescriptionDefs[LoreHouseLiao],House Liao]] and [[DM.Factions[faction_Steiner],Steiner]]-[[DM.BaseDescriptionDefs[LoreHouseDavion],Davion]] have been blamed for the near-constant warfare since [[DM.BaseDescriptionDefs[LoreOpGuerrero],Operation GUERRERO]].\r\n\n\nAlready Blakist forces, led by mercenaries [[DM.Factions[faction_SimonsonsCutthroats],Simonson's Cutthroats]] and [[DM.BaseDescriptionDefs[LoreCarsonsR],Carson's Renegades]], have secured landing zones on world and are moving on to seize Caph's main cities and spacesports.  In response, the planet's [[DM.BaseDescriptionDefs[LoreLoyalist],Loyalist]] and [[DM.BaseDescriptionDefs[LoreAllied],Allied]] factions have formed a temporary truce to repel the Blakist threat.  Units including the [[DM.BaseDescriptionDefs[LoreSMM],Denebola SMM]], [[DM.BaseDescriptionDefs[LoreGustafsonGren],Gustafson's Grenadiers]] and the [[DM.BaseDescriptionDefs[LoreDevilsAdv],Devil's Advocates]] mercenary command stand ready to repel the Blakist advance.",
+						"Details": "DENEB ALGEDI CITIZENS CALL FOR AID AGAINST KURIAN INVASION\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]: In an unexpected move, House Kurita has made a move against the Hegemony on Deneb Algedi. In a statement, Coordinator [[DM.BaseDescriptionDefs[LoreTedKurita],Theodore Kurita]] announced \"The people of Deneb Algedi have long suffered under the yoke of House Cameron and are crying out for freedom. The Draconis Combine will grant them their wish, do not attempt to stand against us.\" Reports indicate that the Coordinator has sent the [[DM.BaseDescriptionDefs[LoreALAG],Amphigean Light Assault Group]] to conquer the world. The Hegemony has responded to the Combine's assault, ordering the [[DM.BaseDescriptionDefs[LoreLCG],Lexington Combat Group]] mercenary unit into action to hold the planet. At first glance, it looks as if the two Great Houses are evenly matched on Deneb Algedi, but only time will tell who comes out as the victor. Both sides of the conflict have open contracts for mercenary assistance on-world.",
 						"Icon": ""
 					},
 					"Weight": 100,
@@ -45,16 +45,15 @@
 							"Requirements": null,
 							"AddedTags": {
 								"items": [
-									"WIIC_give_starsystemdef_Fletcher(CC)_to_Locals",
-									"WIIC_give_starsystemdef_Caph_to_Davion",
+									"WIIC_give_starsystemdef_Fletcher(CC)_to_Cameron",
+									"WIIC_give_starsystemdef_DenebAlgedi_to_Cameron",
 									"WIIC_LethalInjection_attacks_starsystemdef_Fletcher(CC)",
-									"WIIC_SimonsonsCutthroats_attacks_starsystemdef_Caph",
-									"WIIC_set_starsystemdef_Fletcher(CC)_defender_strength_15",
+									"WIIC_Kurita_attacks_starsystemdef_DenebAlgedi",
+									"WIIC_set_starsystemdef_Fletcher(CC)_defender_strength_25",
 									"WIIC_set_starsystemdef_Fletcher(CC)_attacker_strength_15",
-									"WIIC_set_starsystemdef_Caph_defender_strength_20",
+									"WIIC_set_starsystemdef_Caph_defender_strength_25",
 									"WIIC_set_starsystemdef_Caph_attacker_strength_30",
-									"WIIC_give_starsystemdef_Fletcher(CC)_to_Liao_on_attacker_win",
-									"WIIC_give_starsystemdef_Caph_to_WordOfBlake_on_attacker_win"
+									"WIIC_give_starsystemdef_Fletcher(CC)_to_Liao_on_attacker_win"
 								],
 								"tagSetSourceFile": ""
 							},
