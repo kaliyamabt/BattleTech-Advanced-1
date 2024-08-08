@@ -34,8 +34,8 @@
 				{
 					"Description": {
 						"Id": "continue1",
-						"Name": "MercNews Broadcast",
-						"Details": "FURTHER FIGHTING ON SHERATAN\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]:  After years of effort, the [[DM.BaseDescriptionDefs[LoreAMC],AMC]]-aligned mercenaries [[DM.Factions[faction_GrimDetermination],Grim Determination]] have consolidated central government control over much of the planet.  The [[DM.BaseDescriptionDefs[LoreSheratanKnights],Sheratan Knights]], while wary of mercenaries due to their experience with the [[DM.Factions[faction_FistOfMokal],Fist of Mokal's]] excesses, have grown into Sheratan's planetary militia and continue to anchor Grim Determination's operations to pacify the planet's various barons, pirate groups, and remaining [[DM.BaseDescriptionDefs[LoreXinSheng],Liao]] guerillas.\r\n\n\nA new challenge however is close at hand.  Grim Determination's operations have been edging closer to the positions of the [[DM.Factions[faction_WordOfBlake],Word of Blake's]] Fifth Division who are obstensibly guarding Sheratan's [[DM.BaseDescriptionDefs[LoreHPG],HPG]] station, but are suspected of conducting their own operations and stirring conflict on the planet.  As the AMC and Word of Blake are aligning themselves against each other throughout the [[DM.BaseDescriptionDefs[LoreChaosMarch],Chaos March]], open conflict between the two on Sheratan seems likely.",
+						"Name": "MercNews Broadcast",						
+						"Details": "FURTHER FIGHTING ON SHERATAN\r\n\n\nSheratan, [[DM.BaseDescriptionDefs[LoreTerranHegemony],Terran Hegemony]]:  After years of effort, the [[DM.BaseDescriptionDefs[LoreAMC],AMC]]-aligned mercenaries [[DM.Factions[faction_GrimDetermination],Grim Determination]] have consolidated central government control over much of the planet.  The [[DM.BaseDescriptionDefs[LoreSheratanKnights],Sheratan Knights]], while canny, have mostly been defeated by Grim Determination after years on conflict. However, the hunt for their backers began in earnest after it was discovered that the Sheratan Knights may have been supplied by elements of the [[DM.Factions[faction_WordOfBlake],Word of Blake]]. As Grim Determination are aligned with the AMC and the AMC is explictly opposed to Word of Blake interference in the affairs of sovereign worlds, conflict appears inevitable as the mercenaries begin to root out Blakist agitators amongst the population of Sheratan. As the Word of Blake stirs conflict throughout the Hegemony's border worlds, the AMC stands ready to stand against them wherever they must.",
 						"Icon": ""
 					},
 					"Weight": 100,
@@ -45,13 +45,13 @@
 							"Requirements": null,
 							"AddedTags": {
 								"items": [
-									"WIIC_give_starsystemdef_Sheratan_to_WordOfBlake",
+									"WIIC_give_starsystemdef_Sheratan_to_Cameron",
 									"WIIC_give_starsystemdef_Sarna_to_Liao",
 									"WIIC_give_starsystemdef_Kaifeng_to_Liao",
 									"WIIC_give_starsystemdef_Sakhalin(CC)_to_Liao",
-									"WIIC_GrimDetermination_attacks_starsystemdef_Sheratan",
-									"WIIC_set_starsystemdef_Sheratan_defender_strength_15",
-									"WIIC_set_starsystemdef_Sheratan_attacker_strength_30",
+									"WIIC_WordOfBlake_attacks_starsystemdef_Sheratan",
+									"WIIC_set_starsystemdef_Sheratan_defender_strength_35",
+									"WIIC_set_starsystemdef_Sheratan_attacker_strength_25",
 									"WIIC_give_starsystemdef_Sheratan_to_Locals_on_attacker_win"
 								],
 								"tagSetSourceFile": ""
