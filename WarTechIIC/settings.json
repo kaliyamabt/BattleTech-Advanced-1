@@ -53,6 +53,7 @@
 	"distanceFactor": 85,
 	"aggression": {
 		"ClanNovaCat": 1.5,
+		"ClanFireMandrill": 1.75,
 		"Ives": 2.0
 	},
 	"hatred": {
@@ -153,6 +154,8 @@
 		"Outworld": 19,
 		"Ives": 21,
 		"WordOfBlake": 25,
+		"RimWorldsRepublic": 26,
+		"Cameron": 21,
 		"Illyrian": 20
 	},
 	"addStrengthTags": {
@@ -165,6 +168,7 @@
 		"ClanWolf",
 		"ClanJadeFalcon",
 		"ClanGhostBear",
+		"ClanFireMandrill",
 		"ClanDiamondShark",
 		"SanctuaryAlliance",
 		"AuriganDirectorate"
