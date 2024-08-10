@@ -13,7 +13,8 @@
 				"PhysWeapUnsteady",
 				"PhysWeapDamage: 1",
 				"PhysWeapStab: 0.5",
-				"PhysWeapAccuracy: +1"
+				"PhysWeapAccuracy: +1",
+				"WordsWords: Leave This Weapon Disabled!!"
 			],
 		"Flags": [
 			"default",
@@ -32,8 +33,8 @@
 		0,
 		0
 	],
-	"AmmoCategory": "NotSet",
-	"StartingAmmoCapacity": 0,
+	"AmmoCategory": "Flamer",
+	"StartingAmmoCapacity": 1,
 	"HeatGenerated": 0,
 	"Damage": 0,
 	"OverheatedDamageMultiplier": 0,
