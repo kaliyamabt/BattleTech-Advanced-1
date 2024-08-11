@@ -15,8 +15,8 @@
 				"CBillCost": "0"
 			},
 			"Install": {
-				"TechCost": "1",
-				"CBillCost": "1 * [[Chassis.Tonnage]] * [[Chassis.Tonnage]] / 40"
+				"TechCost": "16 * [[Chassis.Tonnage]] * [[Chassis.Tonnage]] / 40",
+				"CBillCost": "2000000 * [[Chassis.Tonnage]] * [[Chassis.Tonnage]] / 40"
 			}
 		},
 		"Flags": [
@@ -45,7 +45,7 @@
 		}
 	},
 	"Description": {
-		"Cost": 1000000,
+		"Cost": 20000000,
 		"Rarity": 0,
 		"Purchasable": false,
 		"Manufacturer": "St. Ives",
