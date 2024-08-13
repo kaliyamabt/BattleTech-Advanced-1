@@ -16,13 +16,17 @@
 			},
 			{
 				"CategoryID": "NoTTS"
+			},
+			{
+				"CategoryID": "NoArtemis"
 			}
 		],
 		"BonusDescriptions": [
 			"WeaponAttachmentTargets: LRM-type Weapons",
 			"WeaponAttachmentModifiesModes",
-			"WeaponAttachmentPipsIgnored: +1",
-			"WeaponAttachmentAccuracy: +1"
+			"WeaponAttachmentAccuracy: +1",
+			"WeaponAttachmentIDFAccuracy: +2.",
+			"WordsWords: Incompatible with Artemis IV."
 		],
 		"RGBColor": "#5C6670"
 	},
@@ -38,7 +42,7 @@
 		"UIName": "LRM FCS",
 		"Id": "Gear_Attachment_LRMFCS",
 		"Name": "LRM FCS Attachment",
-		"Details": "This Fire Control System is designed for LRM-type weapons, such as Standard and Streak LRMs, standard MRMs, ATMs, and VRMs, and strongly improves their accuracy in battle at the cost of weight and space. Generally however, this is considered a resonable tradeoff for the benefits such fire control systems provide.",
+		"Details": "This Fire Control System is designed for LRM-type weapons, such as Standard and Streak LRMs, standard MRMs, ATMs, and VRMs, and improves their accuracy in battle at the cost of weight and space. Generally however, this is considered a resonable tradeoff for the benefits such fire control systems provide.",
 		"Icon": "WeaponAttachment"
 	},
 	"BonusValueA": "",
@@ -52,7 +56,38 @@
 	"AllowedLocations": "All",
 	"DisallowedLocations": "All",
 	"CriticalComponent": false,
-	"statusEffects": null,
+	"statusEffects": [
+		{
+			"durationData": {
+				"duration": -1,
+				"stackLimit": 1
+			},
+			"targetingData": {
+				"effectTriggerType": "Passive",
+				"effectTargetType": "Creator",
+				"showInStatusPanel": false
+			},
+			"effectType": "StatisticEffect",
+			"Description": {
+				"Id": "Gear_Attachment_LRMFCS_IndirectBonus",
+				"Name": "Missile IDF Accuracy Increased",
+				"Details": "Missile IDF attacks gain +2 accuracy.",
+				"Icon": "WeaponAttachment"
+			},
+			"nature": "Buff",
+			"statisticData": {
+				"statName" : "ToHitIndirectModifier",
+				"operation" : "Float_Add",
+				"modValue" : "-2.0",
+				"modType" : "System.Single"
+				"targetAmmoCategory": "NotSet",
+				"targetCollection": "Weapon",
+				"targetWeaponCategory": "Missile",
+				"targetWeaponSubType": "NotSet",
+				"targetWeaponType": "LRM"
+			}
+		}
+	],
 	"ComponentTags": {
 		"items": [
 			"component_type_stock",

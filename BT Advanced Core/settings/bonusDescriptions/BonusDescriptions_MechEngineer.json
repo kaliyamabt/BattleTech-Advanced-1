@@ -5280,6 +5280,12 @@
 			"Full": "This weapon attachment adds a {0} accuracy bonus to the attached weapon."
 		},
 		{
+			"Bonus": "WeaponAttachmentIDFAccuracy",
+			"Short": "Weapon Attachment IDF Accuracy",
+			"Long": "Weapon Attachment Indirect Fire Accuracy",
+			"Full": "This weapon attachment adds a {0} accuracy bonus to the attached weapon when used for indirect fire only."
+		},
+		{
 			"Bonus": "WeaponAttachmentDamageMissile",
 			"Short": "Weapon Attachment Damage",
 			"Long": "Weapon Attachment Damage",
