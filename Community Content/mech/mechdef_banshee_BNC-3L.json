@@ -31,7 +31,7 @@
 		"UIName": "Banshee BNC-3L",
 		"Id": "mechdef_banshee_BNC-3L",
 		"Name": "Banshee",
-		"Details": "A Capellan variant of the Banshee, the 3L is an unusual design. It exceeds the original's speed with a supercharger, and its armnament has been replaced by a Heavy Plasma Rifle and 8 Flamers that incinerate infantry, fortifications and mechs alike. Most uniquely, it features specially reinforced hand acutators that prove crushing in melee, powered by Triple Strength Myomer. The 3L is a dangerous oppnent that should be treated with caution. It has found limited accceptance with the Trinity Alliance.  \n\n <b><color=#e51717>COMMUNITY CONTENT</color></b>",
+		"Details": "A Capellan variant of the Banshee, the 3L is an unusual design. It exceeds the originals speed with a supercharger, and its armament has been replaced by a Heavy Plasma Rifle and 8 Flamers that incinerate infantry, fortifications and mechs alike. Most uniquely, it features specially reinforced hand acutators that prove crushing in melee, powered by Triple Strength Myomer. The 3L is a dangerous oppnent that should be treated with caution. It has found limited accceptance with the Trinity Alliance.  \n\n <b><color=#e51717>COMMUNITY CONTENT</color></b>",
 		"Icon": "uixTxrIcon_banshee"
 	},
 	"simGameMechPartCost": 1170000,
@@ -537,7 +537,7 @@
 			"DamageLevel": "Functional",
 			"prefabName": null,
 			"hasPrefabName": false
-		}
+		},
 		{
 			"MountedLocation": "CenterTorso",
 			"ComponentDefID": "Gear_TSM",
