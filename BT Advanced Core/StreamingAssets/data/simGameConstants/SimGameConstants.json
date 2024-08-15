@@ -44,7 +44,7 @@
 		"ContractNegotiableReputationAddition": 5
 	},
 	"Story": {
-		"CampaignStartDate": "3062-01-01T05:00:00Z",
+		"CampaignStartDate": "3061-01-01T05:00:00Z",
 		"MaxMechWarriorsPerPod": 12,
 		"FriendlyMaxContractDifficulty": 6,
 		"HonoredMaxContractDifficulty": 6,
