@@ -27,7 +27,7 @@
 	"Type": "MachineGun",
 	"WeaponSubType": "MachineGun",
 	"MinRange": 0,
-	"MaxRange": 0,
+	"MaxRange": 30,
 	"RangeSplit": [
 		0,
 		0,
