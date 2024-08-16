@@ -195,6 +195,7 @@
 	"ChassisTags": {
 		"items": [
 			"mr-resize-1.05-1.05-1.05",
+			"AncestralMech",
 			"LightMech"
 		],
 		"tagSetSourceFile": ""

@@ -26,7 +26,12 @@
 	},
 	"SupportedBiomes": [
 		"highlandsSpring",
-		"highlandsFall"
+		"highlandsFall",
+		"lowlandsSpring",
+		"lowlandsFall",
+		"badlandsParched",
+		"lowlandsCoastal",
+		"jungleTropical"
 	],
 	"MapRequiredTags": {
 		"items": [],

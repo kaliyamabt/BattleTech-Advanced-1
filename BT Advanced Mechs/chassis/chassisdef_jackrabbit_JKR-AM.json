@@ -196,6 +196,7 @@
 			"OmniMech",
 			"ArmLimitLowerRight",
 			"ArmLimitLowerLeft",
+			"AncestralMech",
 			"LightMech"
 		],
 		"tagSetSourceFile": ""
