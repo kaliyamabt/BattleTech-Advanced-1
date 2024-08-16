@@ -4528,11 +4528,11 @@
 			"IsProceduralContractFaction": true,
 			"IsPossibleNeutralToAllFaction": true,
 			"IsPossibleHostileToAllFaction": true,
-			"IsPossibleAllyFallbackFaction": false,
-			"IsCareerScoringFaction": false,
+			"IsPossibleAllyFallbackFaction": true,
+			"IsCareerScoringFaction": true,
 			"IsCareerIgnoredContractTarget": false,
 			"IsCareerStartingDisplayFaction": true,
-			"IsStoryStartingDisplayFaction": false,
+			"IsStoryStartingDisplayFaction": true,
 			"HasAIBehaviorVariableScope": false
 		},
 		{
