@@ -21,7 +21,7 @@
 		"UIName": "HISC Viral Jammer",
 		"Id": "Gear_Viral_Jammer",
 		"Name": "HISC Viral Jammer",
-		"Details": "The Viral Jammer is the ultimate in battlefield control electronics. The Jammer prevents all distributed networks from operating while in its area of effect. This effect is caused by the Viral Jammer's intense and extreme amount of junk code that it inflicts on all nearby 'Mechs. Unfortunately, the Viral Jammer is not discriminating in its targets and affects allies as well as enemies, meaning no distributed network can operate within its radius, not even friendly ones. Still, the power to break enemy networks is considered worth the trade-off and the Hegemony put the equipment into limited production, mostly on their more advance scout units.",
+		"Details": "The Viral Jammer is the ultimate in battlefield control electronics. The Jammer prevents all distributed networks from operating while in its area of effect. This effect is caused by the Viral Jammer's intense and extreme amount of junk code that it inflicts on all nearby 'Mechs. Unfortunately, the Viral Jammer is not discriminating in its targets and affects allies as well as enemies, meaning no distributed network can operate within its radius, not even friendly ones. Still, the power to break enemy networks is considered worth the trade-off and the Hegemony put the equipment into limited production, mostly on more advanced scout units.",
 		"Icon": "circuitry"
 	},
 	"BonusValueA": "",

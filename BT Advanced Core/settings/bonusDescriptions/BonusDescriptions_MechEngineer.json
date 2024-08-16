@@ -5481,7 +5481,7 @@
 			"Bonus": "ViralJammer",
 			"Short": "Viral Jammer",
 			"Long": "Viral Jammer",
-			"Full": "The Viral Jammer is a powerful piece of e-war gear. It scrambles all distributed networks in its radius, friendly or enemy, including C3, C3i, and Sanctuary Drone Networks. It also scrambles the Virtual Reality Piloting Pod's controls (again friendly and enemy VRPPs) as well as providing the carrying unit immunity to Sensor Locks."
+			"Full": "The Viral Jammer is a powerful piece of e-war gear. It scrambles all distributed networks in its radius, friendly or enemy, including C3, C3i, and Sanctuary Drone Networks. It also scrambles the Virtual Reality Piloting Pod's controls (both friendly and enemy VRPPs) as well as providing the carrying unit immunity to Sensor Locks."
 		}
 	]
 }
