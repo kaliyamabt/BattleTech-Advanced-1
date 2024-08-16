@@ -8,7 +8,7 @@
 		"UIName": "King Crab",
 		"Id": "chassisdef_kingcrab_KGC-011",
 		"Name": "King Crab",
-		"Details": "The rebirth of the Terran Hegemony brought with it a need for a restarted military sector among the core worlds of the Inner Sphere. To meet the new Hegemony's demand for material, the various corporations of the Inner Sphere got right to work on new variants for the Hegemony's war machine. One such design is the KGC-011, a heavy-duty juggernaut up to the task of crushing all who would oppose the Hegemony. Armed with twin Silver Bullet Gauss Rifles as well as a Large X-Pulse Large and two MML-7s, no enemy is safe from the -011. Thick armor and an Angel ECM keeps it well defended in combat.",
+		"Details": "The rebirth of the Terran Hegemony brought with it a need for a restarted military sector among the core worlds of the Inner Sphere. To meet the new Hegemony's demand for material, the various corporations of the Inner Sphere got right to work on new variants for the Hegemony's war machine. One such design is the KGC-011, a heavy-duty juggernaut up to the task of crushing all who would oppose the Hegemony. Armed with twin Silver Bullet Gauss Rifles as well as a Large X-Pulse and two MML-7s, no enemy is safe from the -011. Thick armor and an Angel ECM keep it well defended in combat.",
 		"Icon": "uixTxrIcon_kingcrab"
 	},
 	"MovementCapDefID": "movedef_kingcrab_KGC-0000",
@@ -228,7 +228,7 @@
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Heavy Juggernaut",
-	"YangsThoughts": "The rebirth of the Terran Hegemony brought with it a need for a restarted military sector among the core worlds of the Inner Sphere. To meet the new Hegemony's demand for material, the various corporations of the Inner Sphere got right to work on new variants for the Hegemony's war machine. One such design is the KGC-011, a heavy-duty juggernaut up to the task of crushing all who would oppose the Hegemony. Armed with twin Silver Bullet Gauss Rifles as well as a Large X-Pulse Large and two MML-7s, no enemy is safe from the -011. Thick armor and an Angel ECM keeps it well defended in combat.",
+	"YangsThoughts": "The rebirth of the Terran Hegemony brought with it a need for a restarted military sector among the core worlds of the Inner Sphere. To meet the new Hegemony's demand for material, the various corporations of the Inner Sphere got right to work on new variants for the Hegemony's war machine. One such design is the KGC-011, a heavy-duty juggernaut up to the task of crushing all who would oppose the Hegemony. Armed with twin Silver Bullet Gauss Rifles as well as a Large X-Pulse and two MML-7s, no enemy is safe from the -011. Thick armor and an Angel ECM keep it well defended in combat.",
 	"FixedEquipment": [
 		{
 			"MountedLocation": "Head",

@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_Tatopani",
 		"Name": "Tatopani",
-		"Details": "The Tatopani system was settled during the Star League era at some point after the end of the Reunification War but was destroyed in the Second Succession War.",
+		"Details": "Tatopani was settled by the Rim Worlds Republic during the Star League era but was eventually abandoned due to contractions during the Succession Wars. Tatopani was not very hospitable even by Periphery standards and never boasted a large population, its abandonment was predictable as the RWR contracted.",
 		"Icon": ""
 	},
 	"Position": {
@@ -17,16 +17,16 @@
 			"planet_climate_desert",
 			"planet_feature_moon02",
 			"planet_other_moon",
-			"planet_pop_none",
-			"planet_civ_primitive",
+			"planet_pop_small",
+			"planet_civ_periphery",
 			"planet_industry_poor",
 			"planet_other_ruins",
-			"planet_faction_nofaction",
-			"planet_other_empty"
+			"planet_faction_nofaction"
 		],
 		"tagSetSourceFile": ""
 	},
 	"SupportedBiomes": [
+		"badlandsParched",
 		"desertParched"
 	],
 	"MapRequiredTags": {
@@ -140,7 +140,7 @@
 		"CAREER",
 		"NONE"
 	],
-	"DefaultDifficulty": 4,
+	"DefaultDifficulty": 6,
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [],
