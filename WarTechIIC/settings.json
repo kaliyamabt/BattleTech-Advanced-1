@@ -132,7 +132,7 @@
 	"maxCountdown": 45,
 	"defaultAttackStrength": 20,
 	"defaultDefenseStrength": 15,
-	"strengthVariation": 10,
+	"strengthVariation": 6,
 	"attackStrength": {
 		"ClanWolf": 22,
 		"ClanJadeFalcon": 23,
@@ -142,7 +142,7 @@
 		"Circinus": 21,
 		"WordOfBlake": 25,
 		"SanctuaryAlliance": 21,
-		"Cameron": 35
+		"Cameron": 30
 	},
 	"defenseStrength": {
 		"JarnFolk": 20,
@@ -156,7 +156,7 @@
 		"Ives": 21,
 		"WordOfBlake": 25,
 		"RimWorldsRepublic": 26,
-		"Cameron": 40,
+		"Cameron": 36,
 		"Illyrian": 20
 	},
 	"addStrengthTags": {
