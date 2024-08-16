@@ -13,14 +13,14 @@
 	],
 	"Enemies": [
 		"Steiner",
-		"Cameron",
-		"Kurita",
-		"ComStar",
 		"WordOfBlake",
+		"Hanse",
+		"DarkCaste",
 		"ClanWolf",
 		"ClanJadeFalcon",
 		"ClanFireMandrill",
 		"Mercenaries",
+		"AuriganPirates",
 		"Locals"
 	],
 	"Presence": 0.1,
