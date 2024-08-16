@@ -18,9 +18,10 @@
 			"planet_other_taintedair",
 			"planet_feature_moon01",
 			"planet_other_moon",
-			"planet_pop_none",
-			"planet_civ_primitive",
+			"planet_pop_small",
+			"planet_civ_periphery",
 			"planet_industry_poor",
+			"planet_other_blackmarket",
 			"planet_faction_rimworldsrepublic",
 			"planet_hanseatic_raids"
 		],

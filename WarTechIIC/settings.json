@@ -155,7 +155,7 @@
 		"Ives": 21,
 		"WordOfBlake": 25,
 		"RimWorldsRepublic": 26,
-		"Cameron": 21,
+		"Cameron": 24,
 		"Illyrian": 20
 	},
 	"addStrengthTags": {
@@ -168,7 +168,6 @@
 		"ClanWolf",
 		"ClanJadeFalcon",
 		"ClanGhostBear",
-		"ClanFireMandrill",
 		"ClanDiamondShark",
 		"SanctuaryAlliance",
 		"AuriganDirectorate"

@@ -20,11 +20,10 @@
 			"planet_feature_asteroids",
 			"planet_feature_moon02",
 			"planet_other_moon",
-			"planet_pop_none",
-			"planet_civ_primitive",
+			"planet_pop_small",
+			"planet_civ_periphery",
 			"planet_industry_poor",
-			"planet_faction_rimworldsrepublic",
-			"planet_other_empty"
+			"planet_faction_rimworldsrepublic"
 		],
 		"tagSetSourceFile": ""
 	},

@@ -15,12 +15,11 @@
 			"planet_name_zertarum",
 			"planet_size_small",
 			"planet_climate_ice",
-			"planet_pop_none",
-			"planet_civ_primitive",
+			"planet_pop_small",
+			"planet_civ_periphery",
 			"planet_industry_rich",
 			"planet_other_starleague",
-			"planet_faction_rimworldsrepublic",
-			"planet_other_empty"
+			"planet_faction_rimworldsrepublic"
 		],
 		"tagSetSourceFile": ""
 	},

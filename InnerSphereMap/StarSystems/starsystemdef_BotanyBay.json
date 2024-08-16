@@ -23,8 +23,9 @@
 			"planet_feature_rings",
 			"planet_feature_moon01",
 			"planet_other_moon",
-			"planet_pop_none",
+			"planet_pop_small",
 			"planet_industry_mining",
+			"planet_other_blackmarket",
 			"planet_other_pirate",
 			"planet_faction_rimworldsrepublic"
 		],

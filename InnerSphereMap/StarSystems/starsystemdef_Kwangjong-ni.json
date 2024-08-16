@@ -23,6 +23,7 @@
 			"planet_industry_research",
 			"planet_industry_manufacturing",
 			"planet_factory",
+			"planet_other_blackmarket",
 			"planet_faction_rimworldsrepublic"
 		],
 		"tagSetSourceFile": ""

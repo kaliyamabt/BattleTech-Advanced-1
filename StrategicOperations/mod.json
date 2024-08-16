@@ -580,7 +580,12 @@
 					"ClanJadeFalcon",
 					"ClanNovaCat",
 					"ClanWolf",
-					"ClanSnowRaven"
+					"ClanGoliathScorpion",
+					"ScorpionEmpire",
+					"ClanFireMandrill",
+					"KindraaSainze",
+					"KindraaMickKreese",
+					"KindraaFaradayTanaga"
 				],
 				"SpawnChanceBase": 0.3,
 				"SpawnChanceDiffMod": 0.05,
