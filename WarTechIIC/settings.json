@@ -141,7 +141,8 @@
 		"Marian": 22,
 		"Circinus": 21,
 		"WordOfBlake": 25,
-		"SanctuaryAlliance": 21
+		"SanctuaryAlliance": 21,
+		"Cameron": 35
 	},
 	"defenseStrength": {
 		"JarnFolk": 20,
@@ -155,7 +156,7 @@
 		"Ives": 21,
 		"WordOfBlake": 25,
 		"RimWorldsRepublic": 26,
-		"Cameron": 24,
+		"Cameron": 40,
 		"Illyrian": 20
 	},
 	"addStrengthTags": {
