@@ -8,7 +8,6 @@
 		"BonusDescriptions": [
 				"PPCDEBUFF: 2",
 				"IgnoreDamage",
-				"WeaponAttachmentCompatible: PPC Capacitor",
 				"WeaponAttachmentCompatible: PPC FCS"
 			],
 		"Flags": [
