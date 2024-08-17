@@ -35,7 +35,7 @@
 					"Description": {
 						"Id": "continue1",
 						"Name": "MercNews Broadcast",
-						"Details": "CLAN SNOW RAVEN ATTACKS ANTALLOS, REZAK'S HOLE\r\n\n\nFresh from their border war with the [[DM.Factions[faction_Kurita],Draconis Combine]], [[DM.Factions[faction_ClanSnowRaven],Clan Snow Raven]] has moved on the pirate holds of Rezak's Hole and Antallos.  Sources from the [[DM.Factions[faction_Outworld],Outworlds Alliance]] indicate that the Snow Ravens have found the presence of the [[DM.Factions[faction_WordOfBlake],Word of Blake]] on both worlds, mixed in with the bands of pirates, criminals and disreputable mercenary groups that populate the planets.  Observers note that by seizing both Rezak's Hole and Antallos, the Snow Ravens will not only stablize the borders of their allies in the Outworlds Alliance, but secure advanced positions should hosilities resume with the Combine.",
+						"Details": "CLAN SNOW RAVEN ATTACKS ANTALLOS, REZAK'S HOLE\r\n\n\nFresh from their border war with the [[DM.Factions[faction_Kurita],Draconis Combine]], [[DM.Factions[faction_ClanSnowRaven],Clan Snow Raven]] has moved on the pirate hold of Antallos.  Sources from the [[DM.Factions[faction_Outworld],Outworlds Alliance]] indicate that the Snow Ravens have found the presence of the [[DM.Factions[faction_WordOfBlake],Word of Blake]] on Antallos, mixed in with the bands of pirates, criminals and disreputable mercenary groups that populate the planet.  Observers note that by seizing Antallos, the Snow Ravens will not only stablize the borders of their allies in the Outworlds Alliance, but secure advanced positions should hosilities resume with the Combine.",
 						"Icon": ""
 					},
 					"Weight": 100,
@@ -45,7 +45,6 @@
 							"Requirements": null,
 							"AddedTags": {
 								"items": [
-									"WIIC_ClanSnowRaven_raids_starsystemdef_RezaksHole",
 									"WIIC_ClanSnowRaven_raids_starsystemdef_Antallos(PortKrin)"
 								],
 								"tagSetSourceFile": ""
