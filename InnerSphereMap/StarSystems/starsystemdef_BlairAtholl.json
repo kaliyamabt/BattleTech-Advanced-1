@@ -152,12 +152,13 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"AuriganPirates",
 		"Steiner",
 		"Marik",
 		"Kurita",
 		"Davion",
 		"Liao",
+		"Cameron",
+		"RimWorldsRepublic",
 		"WordOfBlake",
 		"ComStar",
 		"Rasalhague"

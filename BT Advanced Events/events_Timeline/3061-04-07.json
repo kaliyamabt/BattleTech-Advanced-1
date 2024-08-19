@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "3061-04-07",
 		"Name": "MercNews Broadcast",
-		"Details": "GROVER SHRAPLEN NAMED TAURIAN PROTECTOR\r\n\n\nTaurus, [[DM.Factions[faction_TaurianConcordat],Taurian Concordat]]: After nearly two months of deliberations, the Taurian Concordat's [[DM.BaseDescriptionDefs[LorePrivyCouncil],Privy Council]] has selected [[DM.BaseDescriptionDefs[LoreGroverShraplen],Grover Shraplen]] as the new Protector of the Realm. This decision comes after the previous Protector, [[DM.BaseDescriptionDefs[LoreJeffCalderon],Jeffrey Calderon]], was killed in a botched rescue attempt on Detroit where he was being held captive earlier this year. The decision was not without its challenges as Shraplen was a vocal critic of Jeffrey's policies and has openly vowed to change the Concordat's course if selected as Protector. The other major candidate, Baron [[DM.BaseDescriptionDefs[LoreChamKithrong],Cham Kithrong]], has disagreed with Shraplen's selection but has pledged himself to \"the betterment of the Taurian state, regardless of who is Protector.\"",
+		"Details": "GROVER SHRAPLEN NAMED TAURIAN PROTECTOR\r\n\n\nTaurus, [[DM.Factions[faction_TaurianConcordat],Taurian Concordat]]: After nearly two months of deliberations, the Taurian Concordat's [[DM.BaseDescriptionDefs[LorePrivyCouncil],Privy Council]] has selected [[DM.BaseDescriptionDefs[LoreGroverShraplen],Grover Shraplen]] as the new Protector of the Realm. This decision comes after the previous Protector, [[DM.BaseDescriptionDefs[LoreJeffCalderon],Jeffrey Calderon]], was killed in a botched rescue attempt on Detroit where he was being held captive earlier this year. The decision was not without its challenges as Shraplen was a vocal critic of Jeffrey's policies and has openly vowed to change the Concordat's course if selected as Protector. The other major candidate, Baron [[DM.BaseDescriptionDefs[LoreChamKithrong],Cham Kithrong]], has disagreed with Shraplen's selection but has pledged himself to \"the betterment of the Taurian state, regardless of who is Protector.\"\r\n\n\nWould you like to know more?",
 		"Icon": "uixTxrSpot_ComputerScreen.png"
 	},
 	"Scope": "Company",
@@ -103,17 +103,13 @@
 							"Requirements": null,
 							"AddedTags": {
 								"items": [
-									"WIIC_Locals_attacks_starsystemdef_St.Ives",
-									"WIIC_set_starsystemdef_St.Ives_defender_strength_25",
-									"WIIC_set_starsystemdef_St.Ives_attacker_strength_25",
-									"WIIC_Locals_attacks_starsystemdef_Necromo",
-									"WIIC_Locals_attacks_starsystemdef_Denbar",
-									"WIIC_Locals_attacks_starsystemdef_St.Loris",
-									"WIIC_Locals_attacks_starsystemdef_Taga",
-									"WIIC_Locals_attacks_starsystemdef_Milos",
-									"WIIC_Locals_attacks_starsystemdef_Nashuar",
-									"WIIC_set_starsystemdef_St.Ives_defender_strength_50",
-									"WIIC_set_starsystemdef_St.Ives_attacker_strength_50"								],
+									"WIIC_KindraaFaradayTanaga_raids_starsystemdef_Toland",
+									"WIIC_KindraaFaradayTanaga_raids_starsystemdef_Steelton",
+									"WIIC_KindraaFaradayTanaga_raids_starsystemdef_Persistence",
+									"WIIC_KindraaFaradayTanaga_raids_starsystemdef_Derf",
+									"WIIC_KindraaFaradayTanaga_raids_starsystemdef_Malibu",
+									"WIIC_KindraaFaradayTanaga_raids_starsystemdef_Beta"
+									],
 								"tagSetSourceFile": ""
 							},
 							"RemovedTags": {
