@@ -6,7 +6,7 @@
 		"Icon": "uixTxrSpot_wulf_CatLitter.png"
 	},
 	"Scope": "Company",
-	"Weight": 100,
+	"Weight": 0,
 	"Requirements": {
 		"Scope": "Company",
 		"RequirementTags": {
