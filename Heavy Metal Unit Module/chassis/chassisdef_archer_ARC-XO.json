@@ -1,4 +1,11 @@
 {
+	"Custom": {
+		"AssemblyVariant": {
+			"PrefabID": "Archer",
+			"Exclude": false,
+			"Include": true
+		}
+	},
 	"Description": {
 		"Cost": 6800000,
 		"Rarity": 1,

@@ -35,7 +35,7 @@
 					"Description": {
 						"Id": "continue1",
 						"Name": "MercNews Broadcast",
-						"Details": "UNREST IN FAR-OFF NUEVA CASTILE\r\n\n\nAsturias[[DM.Factions[faction_Liao],Nueva Castile]]: Wild rumors are swirling in far-off Nueva Castile that there are ghosts in the Deep Periphery, haunting the corners of the region and preying on unsuspecting travelers luckless enough to be in the deep black. While there are no confirmations of what precisely the Castilians are encountering or even think is out there, the fact that the rumors can be found in both Castilian and Umayyad space indicates that this is not a situation where one side preys on the other and blames space ghosts for their troubles (as so often happens in the conflict-fraught region). What is truly out in the black will remain a mystery until such time as it reveals itself.",
+						"Details": "UNREST IN FAR-OFF NUEVA CASTILE\r\n\n\nAsturias [[DM.Factions[faction_Liao],Nueva Castile]]: Wild rumors are swirling in far-off Nueva Castile that there are ghosts in the Deep Periphery, haunting the corners of the region and preying on unsuspecting travelers luckless enough to be in the deep black. While there are no confirmations of what precisely the Castilians are encountering or even think is out there, the fact that the rumors can be found in both Castilian and Umayyad space indicates that this is not a situation where one side preys on the other and blames space ghosts for their troubles (as so often happens in the conflict-fraught region). What is truly out in the black will remain a mystery until such time as it reveals itself.",
 						"Icon": ""
 					},
 					"Weight": 100,
