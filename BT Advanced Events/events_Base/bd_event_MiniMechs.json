@@ -15,7 +15,9 @@
             },
             "ExclusionTags" : {
                 "tagSetSourceFile" : "",
-                "items" : []
+                "items" : [
+					"minimechs_complete"
+				]
             },
             "RequirementComparisons" : [
                {
@@ -81,7 +83,8 @@
 							"AddedTags": {
 								"tagSetSourceFile": "",
 								"items": [
-									"bd_event_MiniMechs"
+									"bd_event_MiniMechs",
+									"minimechs_complete"
 								]
 							},
 							"RemovedTags": {},
@@ -137,7 +140,10 @@
 							"Scope": "Company",
 							"Requirements": null,
 							"AddedTags": {
-								"items": [],
+								"items": [
+									"bd_event_MiniMechs",
+									"minimechs_complete"								
+								],
 								"tagSetSourceFile": ""
 							},
 							"RemovedTags": {

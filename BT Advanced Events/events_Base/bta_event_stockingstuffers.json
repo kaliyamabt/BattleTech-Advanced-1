@@ -15,7 +15,9 @@
 		},
 		"ExclusionTags": {
 			"tagSetSourceFile": "",
-			"items": []
+			"items": [
+				"had_stockingstuffers"
+			]
 		},
 		"RequirementComparisons": []
 	},
@@ -61,7 +63,9 @@
 							"Requirements": null,
 							"AddedTags": {
 								"tagSetSourceFile": "",
-								"items": []
+								"items": [
+									"had_stockingstuffers"
+								]
 							},
 							"RemovedTags": {
 								"tagSetSourceFile": "",
