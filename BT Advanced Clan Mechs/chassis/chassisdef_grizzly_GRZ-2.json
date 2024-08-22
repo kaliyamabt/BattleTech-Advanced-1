@@ -96,8 +96,8 @@
 			],
 			"Tonnage": 0,
 			"InventorySlots": 12,
-			"MaxArmor": 150,
-			"MaxRearArmor": 75,
+			"MaxArmor": 115,
+			"MaxRearArmor": 35,
 			"InternalStructure": 75
 		},
 		{
@@ -105,8 +105,8 @@
 			"Hardpoints": [],
 			"Tonnage": 0,
 			"InventorySlots": 15,
-			"MaxArmor": 220,
-			"MaxRearArmor": 110,
+			"MaxArmor": 175,
+			"MaxRearArmor": 55,
 			"InternalStructure": 110
 		},
 		{
@@ -131,8 +131,8 @@
 			],
 			"Tonnage": 0,
 			"InventorySlots": 12,
-			"MaxArmor": 150,
-			"MaxRearArmor": 75,
+			"MaxArmor": 115,
+			"MaxRearArmor": 35,
 			"InternalStructure": 75
 		},
 		{
