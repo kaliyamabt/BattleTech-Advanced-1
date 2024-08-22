@@ -23,6 +23,7 @@
 		"BonusDescriptions": [
 			"IsSensorsA",
 			"IndividualResolve: +5",
+			"LanceResolve: +5",
 			"MaxResolveIncrease: 25"
 		]
 	},
