@@ -15,14 +15,14 @@
 		"UIName": "Mackie",
 		"Id": "chassisdef_mackie_MSK-9F",
 		"Name": "Mackie",
-		"Details": "Crafted at the same time in the Periphery as the -10J, the -9F takes a somewhat different twist on the Mackie: missile support. The aged chassis was found to be a surprisingly stable and effective LRM support platform. A pair of LRM-15s, mated to an Artemis IV system, provide the primary punch. A pair of ER Large Lasers are direct-fire backup and the traditional Medium Lasers remain in place. Like the -10J, an Active Probe and ECM provide some electronic warfare potential. Unlike the -10J though, the -9F does not have any jump jets.",
+		"Details": "Crafted at the same time as the -10J, the -9F takes a somewhat different twist on the Mackie: missile support. The aged chassis was found to be a surprisingly stable and effective LRM support platform. A pair of LRM-15s, mated to an Artemis IV system, provide the primary punch. A pair of ER Large Lasers are direct-fire backup and the traditional Medium Lasers remain in place. Like the -10J, an Active Probe and ECM provide some electronic warfare potential. Unlike the -10J though, the -9F does not have any jump jets.",
 		"Icon": "uixTxrIcon_mackie"
 	},
 	"MovementCapDefID": "movedef_mackie-9H",
 	"PathingCapDefID": "pathingdef_assault",
-	"HardpointDataDefID": "hardpointdatadef_mackie",
-	"PrefabIdentifier": "chrprfmech_mackiebase-001",
-	"PrefabBase": "mackie",
+	"HardpointDataDefID": "hardpointdatadef_ltmackie",
+	"PrefabIdentifier": "chrprfmech_ltmackiebase-001",
+	"PrefabBase": "ltmackie",
 	"Tonnage": 100,
 	"InitialTonnage": 10,
 	"weightClass": "ASSAULT",
@@ -222,7 +222,7 @@
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "The First Battlemech",
-	"YangsThoughts": "Crafted at the same time in the Periphery as the -10J, the -9F takes a somewhat different twist on the Mackie: missile support. The aged chassis was found to be a surprisingly stable and effective LRM support platform. A pair of LRM-15s, mated to an Artemis IV system, provide the primary punch. A pair of ER Large Lasers are direct-fire backup and the traditional Medium Lasers remain in place. Like the -10J, an Active Probe and ECM provide some electronic warfare potential. Unlike the -10J though, the -9F does not have any jump jets.",
+	"YangsThoughts": "Crafted at the same time as the -10J, the -9F takes a somewhat different twist on the Mackie: missile support. The aged chassis was found to be a surprisingly stable and effective LRM support platform. A pair of LRM-15s, mated to an Artemis IV system, provide the primary punch. A pair of ER Large Lasers are direct-fire backup and the traditional Medium Lasers remain in place. Like the -10J, an Active Probe and ECM provide some electronic warfare potential. Unlike the -10J though, the -9F does not have any jump jets.",
 	"FixedEquipment": [
 		{
 			"MountedLocation": "Head",
