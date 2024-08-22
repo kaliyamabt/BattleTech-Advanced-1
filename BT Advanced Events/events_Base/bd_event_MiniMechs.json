@@ -19,14 +19,7 @@
 					"minimechs_complete"
 				]
             },
-            "RequirementComparisons" : [
-               {
-                    "obj" : "Travel",
-                    "op" : "Equal",
-                    "val" : 0,
-                    "valueConstant" : "0"
-                }
-            ]
+            "RequirementComparisons" : []
         },
     "AdditionalRequirements" : [
         {
@@ -37,9 +30,7 @@
             },
             "ExclusionTags" : {
                 "tagSetSourceFile" : "Tags/PlanetTags",
-                "items" : [
-                    "planet_pop_none"
-                ]
+                "items" : []
             },
             "RequirementComparisons" : []
         }
