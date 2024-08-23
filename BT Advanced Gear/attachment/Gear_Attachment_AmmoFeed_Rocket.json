@@ -21,7 +21,7 @@
 		"BonusDescriptions": [
 			"WeaponAttachmentTargets: Rocket Launchers",
 			"WeaponAttachmentModifiesModes",
-			"WeaponAttachmentAmmoFeedRocket: -1, -2",
+			"WeaponAttachmentAmmoFeedRocket: -1.5, -2",
 			"AmmoFeedType: MRM",
 			"WeaponAttachmentJam: 95%"
 		],
