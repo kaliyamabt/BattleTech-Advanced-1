@@ -255,7 +255,7 @@
 	"FixedEquipment": [
 		{
 			"MountedLocation": "Head",
-			"ComponentDefID": "Gear_Quirk_ImprovedCommunications_Mackie",
+			"ComponentDefID": "Gear_Quirk_Flagbearer_MackieII",
 			"SimGameUID": "",
 			"ComponentDefType": "Upgrade",
 			"HardpointSlot": -1,
