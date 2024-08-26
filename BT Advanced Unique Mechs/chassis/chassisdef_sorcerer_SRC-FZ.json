@@ -1,4 +1,11 @@
 {
+	"Custom": {
+		"AssemblyVariant": {
+			"PrefabID": "Sorcerer",
+			"Exclude": false,
+			"Include": true
+		}
+	},
 	"FixedEquipment": [
 		{
 			"MountedLocation": "LeftArm",
