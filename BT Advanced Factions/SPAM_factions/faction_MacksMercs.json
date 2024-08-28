@@ -33,6 +33,7 @@
 	"heraldryDefId": "heraldrydef_MacksMercs",
 	"storePanelImage": null,
 	"factionStoreColor": null,
+	"factionMapColor": "rgba(94,72,39,1.0)",
 	"Description": "Mack’s Mercs are a loose band of tech junkies who banded together to make a mech work, that really shouldn’t. But the success they had let them to try out more and more design ideas that the mainstream Great Houses thought were insane. Their attitudes changed once the small company started showing impressive success with their contracts. Eventually, House Davion took notice and decided to bring the unit into their sphere of influence, awarding many tough and dirty jobs the family wouldn’t normally be able to do. Mack’s Mercs are found serving the Federated Suns.",
 	"StartingReputationValues": [
 		0,
