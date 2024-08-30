@@ -5,9 +5,15 @@
 				"CategoryID": "w/s/m/melee"
 			},
 			{
+				"CategoryID": "ArmHandActuator"
+			},
+			{
 				"CategoryID": "CombatShield"
 			}
 		],
+		"ArmActuator": {
+			"Type": "PartHand"
+		},
 		"BonusDescriptions": [
 			"ModularArmor: +60",
 			"IsPhysWeap",

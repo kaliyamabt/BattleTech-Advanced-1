@@ -214,7 +214,6 @@
 	"VariantName": "EXC-C1",
 	"ChassisTags": {
 		"items": [
-			"ArmLimitLowerRight",
 			"HeavyMech"
 		],
 		"tagSetSourceFile": ""
