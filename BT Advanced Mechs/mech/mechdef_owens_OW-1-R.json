@@ -42,6 +42,8 @@
 			"BlackWidowCompany",
 			"BountyHunterAssociates",
 			"LoneStarRegiment",
+			"AblesAces",
+			"GraveWalkers",
 			"KnightsOfCaerbannog",
 			"GraysGhosts",
 			"BroadswordLegion",
@@ -142,15 +144,6 @@
 		}
 	],
 	"inventory": [
-		{
-			"MountedLocation": "CenterTorso",
-			"ComponentDefID": "emod_armorslots_standard",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"prefabName": "",
-			"hasPrefabName": true
-		},
 		{
 			"MountedLocation": "CenterTorso",
 			"ComponentDefID": "emod_kit_shs",

@@ -35,7 +35,7 @@
 					"Description": {
 						"Id": "continue1",
 						"Name": "MercNews Broadcast",
-						"Details": "[[DM.BaseDescriptionDefs[LoreChaosMarch],CHAOS MARCH]] UPDATE!\r\n\n\nSmall World, [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]: When the [[DM.BaseDescriptionDefs[LoreLoyalist],Loyalist]] Seventeenth [[DM.BaseDescriptionDefs[LoreArcturanGuard],Arcturan Guard]] landed on Small World, they believed this was a stop-over before continuing to [[DM.BaseDescriptionDefs[LoreNewAvalon],New Avalon]].  The Arcturan Guards were caught by complete surprise when the planetary militia, led by mercenary command [[DM.BaseDescriptionDefs[LoreSmithons],Smithson's Chinese Bandits]], attacked the Seventeenth while they were landing.  The Arcturans were quickly reinforced by the Loyalist Archenar [[DM.BaseDescriptionDefs[LoreSMM],SMM]], and Smithson's Chinese Bandits are reported to be on the run.  Pro-Victor General Koenig has made an open call for mercenaries to join the Fifth [[DM.BaseDescriptionDefs[LoreSyrtisFusiliers],Syrtis Fusiliers]] as they reinforce the Chinese Bandits.  Veteran mercenaries [[DM.BaseDescriptionDefs[LoreWilsonsH],Wilson's Hussars]], lured by favourable salvage rights and preferential treatment for future [[DM.BaseDescriptionDefs[LoreDavionAFFC],AFFC]] contracts, have already signed with Koenig and are en-route to the planet.",
+						"Details": "SMALL WORLD REBELLION AGAIN!\r\n\n\nSmall World, [[DM.Factions[faction_Cameron],Terran Hegemony]]: While the Duke of Small World, Blake Small, was reported to have been captured by Hegemony forces in early 3065, it appears those reports may have been in error as he has been spotted rallying his forces once again outside the capital of New Mariotta. While the Duke's attempt to secede from the Hegemony (and to conquer the neighboring world of Ingress) were thwarted, his ambitions are clearly still in place. [[DM.BaseDescriptionDefs[LoreFuries],The Furies]] left the world in mid-3065 but [[DM.Factions[faction_SmithsonsChineseBandits],Smithson's Chinese Bandits]] are still on planet, clearly waiting for the right moment to strike the Hegemony's occupying forces. There are persistent rumors that Duke Small may have been freed from captivity by [[DM.Factions[faction_WordOfBlake],Word of Blake]] saboteurs, but this is unconfirmed at this time.",
 						"Icon": ""
 					},
 					"Weight": 100,
@@ -45,16 +45,16 @@
 							"Requirements": null,
 							"AddedTags": {
 								"items": [
-							"WIIC_give_starsystemdef_SmallWorld_to_Steiner",
-							"WIIC_give_starsystemdef_NewAvalon_to_Steiner",
-							"WIIC_Davion_attacks_starsystemdef_NewAvalon",
-							"WIIC_SmithsonsChineseBandits_attacks_starsystemdef_SmallWorld",
-							"WIIC_set_starsystemdef_SmallWorld_defender_strength_15",
-							"WIIC_set_starsystemdef_SmallWorld_attacker_strength_25",
-							"WIIC_set_starsystemdef_NewAvalon_defender_strength_50",
-							"WIIC_set_starsystemdef_NewAvalon_attacker_strength_50",
-							"WIIC_give_starsystemdef_SmallWorld_to_Davion_on_attacker_win"
-							],
+									"WIIC_give_starsystemdef_SmallWorld_to_Cameron",
+									"WIIC_give_starsystemdef_NewAvalon_to_Steiner",
+									"WIIC_Davion_attacks_starsystemdef_NewAvalon",
+									"WIIC_SmithsonsChineseBandits_attacks_starsystemdef_SmallWorld",
+									"WIIC_set_starsystemdef_SmallWorld_defender_strength_20",
+									"WIIC_set_starsystemdef_SmallWorld_attacker_strength_20",
+									"WIIC_set_starsystemdef_NewAvalon_defender_strength_50",
+									"WIIC_set_starsystemdef_NewAvalon_attacker_strength_50",
+									"WIIC_give_starsystemdef_SmallWorld_to_Locals_on_attacker_win"
+								],
 								"tagSetSourceFile": ""
 							},
 							"RemovedTags": {

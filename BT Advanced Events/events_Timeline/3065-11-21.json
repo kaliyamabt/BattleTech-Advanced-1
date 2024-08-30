@@ -35,7 +35,7 @@
 					"Description": {
 						"Id": "continue1",
 						"Name": "MercNews Broadcast",
-						"Details": "[[DM.BaseDescriptionDefs[LoreMRBC],MERCENARY REVIEW AND BONDING COMMISSION]] PIRACY REPORT:\r\n\n\nOutreach, [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]: Attached are the latest reports of pirate activity throughout the Inner Sphere and Periphery.  Again, there are reports of the \"[[DM.Factions[faction_DarkCaste],Dark Caste]]\" attacking worlds not only in the Clan Occupation Zones, but also throughout the [[DM.BaseDescriptionDefs[LoreDeepPeriphery],Deep Periphery]].  Contracts to defend worlds under attack and to clean out pirate nests are now available via the [[DM.BaseDescriptionDefs[LoreMRBC],MRBC]] Database.\r\n\n\n<b>MRBC OPEN PIRACY CONTRACTS:</b> Lingqing, Ningxia, Sherwood, Morven, Lothario, Lordinax, Mechdur, Itrom, Able's Glory, Hunter's Paradise.\r\n\n\n<b>MRBC DARK CASTE ACTIVITY:</b> Butler, Derf.",
+						"Details": "[[DM.BaseDescriptionDefs[LoreMRBC],MERCENARY REVIEW AND BONDING COMMISSION]] PIRACY REPORT:\r\n\n\nOutreach, [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]: Attached are the latest reports of pirate activity throughout the Inner Sphere and Periphery.  Again, there are reports of the \"[[DM.Factions[faction_DarkCaste],Dark Caste]]\" attacking worlds not only in the Clan Occupation Zones, but also throughout the [[DM.BaseDescriptionDefs[LoreDeepPeriphery],Deep Periphery]].  Contracts to defend worlds under attack and to clean out pirate nests are now available via the [[DM.BaseDescriptionDefs[LoreMRBC],MRBC]] Database.\r\n\n\n<b>MRBC OPEN PIRACY CONTRACTS:</b> Lingqing, Ningxia, Sherwood, Morven, Lothario, Lordinax, Mechdur, Itrom, Able's Glory, Hunter's Paradise.\r\n\n\n<b>MRBC DARK CASTE ACTIVITY:</b> Butler, Derf.\r\n\n\n<b>MRBC CLAN FIRE MANDRILL ACTIVITY:</b> Cruz Alta, Son Hoa, Himmels.",
 						"Icon": ""
 					},
 					"Weight": 100,
@@ -45,19 +45,22 @@
 							"Requirements": null,
 							"AddedTags": {
 								"items": [
-							"WIIC_BandOfTheDamned_raids_starsystemdef_Lingqing",
-							"WIIC_BandOfTheDamned_raids_starsystemdef_Ningxia",
-							"WIIC_TortugaFusiliers_raids_starsystemdef_Sherwood",
-							"WIIC_TortugaFusiliers_raids_starsystemdef_Morven",
-							"WIIC_DarkCaste_raids_starsystemdef_Butler",
-							"WIIC_DarkCaste_raids_starsystemdef_Derf",
-							"WIIC_DeathsConsorts_raids_starsystemdef_Mechdur",
-							"WIIC_DeathsConsorts_raids_starsystemdef_Itrom",
-							"WIIC_MorrisonsExtractors_raids_starsystemdef_AblesGlory",
-							"WIIC_MorrisonsExtractors_raids_starsystemdef_HuntersParadise",
-							"WIIC_Circinus_raids_starsystemdef_Lothario",
-							"WIIC_Circinus_raids_starsystemdef_Lordinax"
-							],
+									"WIIC_BandOfTheDamned_raids_starsystemdef_Lingqing",
+									"WIIC_BandOfTheDamned_raids_starsystemdef_Ningxia",
+									"WIIC_TortugaFusiliers_raids_starsystemdef_Sherwood",
+									"WIIC_TortugaFusiliers_raids_starsystemdef_Morven",
+									"WIIC_DarkCaste_raids_starsystemdef_Butler",
+									"WIIC_DarkCaste_raids_starsystemdef_Derf",
+									"WIIC_DeathsConsorts_raids_starsystemdef_Mechdur",
+									"WIIC_DeathsConsorts_raids_starsystemdef_Itrom",
+									"WIIC_MorrisonsExtractors_raids_starsystemdef_AblesGlory",
+									"WIIC_MorrisonsExtractors_raids_starsystemdef_HuntersParadise",
+									"WIIC_KindraaSainze_raids_starsystemdef_CruzAlta",
+									"WIIC_KindraaFaradayTanaga_raids_starsystemdef_SonHoa",
+									"WIIC_KindraaMickKreese_raids_starsystemdef_Himmels(Baltazar2864+)",
+									"WIIC_Circinus_raids_starsystemdef_Lothario",
+									"WIIC_Circinus_raids_starsystemdef_Lordinax"
+								],
 								"tagSetSourceFile": ""
 							},
 							"RemovedTags": {

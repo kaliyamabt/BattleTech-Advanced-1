@@ -10,8 +10,8 @@
 	"showAdditionalArgoUpgrades": true,
 	"enable4thCategory": false,
 	"argoUpgradeName": "Command & Control",
-	"argoUpgradeCategory1Name": "Lance 1 and BA Control",
-	"argoUpgradeCategory2Name": "Lance 2 Control",
+	"argoUpgradeCategory1Name": "Lance A and Vehicle Control",
+	"argoUpgradeCategory2Name": "Lance B Control",
 	"argoUpgradeCategory3Name": "Drop Tonnage",
 	"argoUpgradeCategory4Name": "Drop Information",
 	"CuInitialVehicles": 2,
@@ -23,7 +23,7 @@
 		"default_mech_tank_slot",
 		"default_tank_mech_slot",
 		"default_tank_mech_slot",
-		"default_ba_slot",
-		"default_ba_slot"
+		"default_vehicle_slot",
+		"default_vehicle_slot"
 	]
 }

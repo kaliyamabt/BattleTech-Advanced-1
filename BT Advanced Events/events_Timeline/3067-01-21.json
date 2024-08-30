@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "3067-01-21",
 		"Name": "MercNews Broadcast",
-		"Details": "[[DM.Factions[faction_WordOfBlake],WORD OF BLAKE]] MOVES INTO [[DM.Factions[faction_SaiphTriumvirate],SAIPH TRIUMVIRATE]]\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]:  In response to an almost endless series of insurgent attacks on all three worlds of the Saiph Triumvirate, Triumvirate leader Count Balantine has accepted military assistance from the Word of Blake!  In exchange for control of the planet's [[DM.BaseDescriptionDefs[LoreHPG],HPG]] stations, the Word of Blake have not only provided advice and weapons to the Triumvirate's military, but have also sent elements of the [[DM.BaseDescriptionDefs[LoreWOBM],Word of Blake Militia]] and mercenaries to support the Triumvirate in rooting out insurgents.  Concerned about the Word's true motives, and hoping to thwart any plans of expansion by either the Word of Blake or the [[DM.Factions[faction_Liao],Capellan Confederation]], the [[DM.BaseDescriptionDefs[LoreAMC],Allied Mercenary Command]] have responded by sending two regiments of the [[DM.Factions[faction_DismalDisinherited],Dismal Disinherited]] to take up their own positions on the Triumvirate worlds.",
+		"Details": "[[DM.Factions[faction_WordOfBlake],WORD OF BLAKE]] MOVES INTO SAIPH TRIUMVIRATE\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreTerranHegemony],Terran Hegemony]]:  In response to an almost endless series of insurgent attacks on all three worlds of the former Saiph Triumvirate, Count Balantine of New Canton has called for support from the [[DM.BaseDescriptionDefs[LoreTHAF],THAF]]!  However, the Word of Blake has decided that since insurgent attacks can't get the job of overthrowing the Cameron government done, they will take a more active hand in taking the worlds away from the Hegemony and have staged a full invasion of the former Triumvirate worlds using the [[DM.BaseDescriptionDefs[LoreWOBM],Word of Blake Militia]]. The THAF has responded by sending the 1st Cameron Guard and the 17th Terran Light Cavalry, the original forces that liberated the Triumvirate in 3064, back to those worlds to secure them against Blakist aggression. Further, the [[DM.BaseDescriptionDefs[LoreAMC],Allied Mercenary Command]] has sent two regiments of the [[DM.Factions[faction_DismalDisinherited],Dismal Disinherited]] to assist in resisting the Blakists.",
 		"Icon": "uixTxrSpot_ComputerScreen.png"
 	},
 	"Scope": "Company",
@@ -45,17 +45,22 @@
 							"Requirements": null,
 							"AddedTags": {
 								"items": [
-									"WIIC_give_starsystemdef_EpsilonEridani_to_Locals",
-									"WIIC_give_starsystemdef_NewCanton_to_SaiphTriumvirate",
-									"WIIC_give_starsystemdef_TallTrees_to_SaiphTriumvirate",
-									"WIIC_give_starsystemdef_Saiph_to_SaiphTriumvirate",
-									"WIIC_LoneStarRegiment_attacks_starsystemdef_EpsilonEridani",
+									"WIIC_give_starsystemdef_EpsilonEridani_to_Cameron",
+									"WIIC_give_starsystemdef_NewCanton_to_Cameron",
+									"WIIC_give_starsystemdef_TallTrees_to_Cameron",
+									"WIIC_give_starsystemdef_Saiph_to_Cameron",
+									"WIIC_LoneStarRegiment_raids_starsystemdef_EpsilonEridani",
 									"WIIC_WordOfBlake_attacks_starsystemdef_NewCanton",
 									"WIIC_WordOfBlake_attacks_starsystemdef_TallTrees",
 									"WIIC_WordOfBlake_attacks_starsystemdef_Saiph",
+									"WIIC_set_starsystemdef_Saiph_defender_strength_30",
+									"WIIC_set_starsystemdef_Saiph_attacker_strength_35",
+									"WIIC_set_starsystemdef_NewCanton_defender_strength_30",
+									"WIIC_set_starsystemdef_NewCanton_attacker_strength_35",
+									"WIIC_set_starsystemdef_TallTrees_defender_strength_30",
+									"WIIC_set_starsystemdef_TallTrees_attacker_strength_35",
 									"WIIC_set_starsystemdef_EpsilonEridani_defender_strength_10",
-									"WIIC_set_starsystemdef_EpsilonEridani_attacker_strength_10",
-									"WIIC_give_starsystemdef_EpsilonEridani_to_Locals_on_attacker_win"
+									"WIIC_set_starsystemdef_EpsilonEridani_attacker_strength_10"
 								],
 								"tagSetSourceFile": ""
 							},

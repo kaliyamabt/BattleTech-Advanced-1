@@ -11,6 +11,7 @@
 			"unit_lance_assassin",
 			"unit_role_scout",
 			"RimWorldsRepublic",
+			"1stHeliusLegionnaires",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""
@@ -26,7 +27,7 @@
 		"UIName": "Jackrabbit JKR-9A",
 		"Id": "mechdef_jackrabbit_JKR-9A",
 		"Name": "Jackrabbit",
-		"Details": "The Jackrabbit might have been intended for the SLDF but it became famous as a tool of Stefan Amaris's short-lived empire. Now, with Amaris's return to the Inner Sphere, the Jackrabbit can once again serve its one true master, the Usurper himself. The JKR-9A is armed with one of Amaris's new superweapons, the Atom Smasher/10. This short-range armor-piercing missile weapon can shred light targets in seconds. With a brace of three Medium Lasers backing it up, the Atom Smasher/10 is a deadly weapon at the Jackrabbit's disposal.",
+		"Details": "The Jackrabbit might have been intended for the SLDF but it became famous as a tool of Stefan Amaris's short-lived empire. Thankfully, with the fall of the Usurper the Jackrabbit could be redeemed in the hands of the Rim Worlds Republic that survived to rebuild itself. The Jackrabbit JKR-9A is armed with one of the RWR's home-grown weapon systems, the Atom Smasher/10. This short-range armor-piercing missile weapon can shred light targets in seconds. With a brace of three Medium Lasers backing it up, the Atom Smasher/10 is a deadly weapon at the Jackrabbit's disposal.",
 		"Icon": "uixTxrIcon_jackrabbit"
 	},
 	"simGameMechPartCost": 250000,

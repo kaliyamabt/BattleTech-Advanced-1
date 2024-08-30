@@ -28,6 +28,7 @@
 			"IrukjandiCompany",
 			"AntianLanciarii",
 			"BlackCaravel",
+			"BlackSharks",
 			"SarnaSupremacy",
 			"SaiphTriumvirate",
 			"TerracapConfederation",
@@ -50,6 +51,7 @@
 			"TortugaFusiliers",
 			"ShenSeTian",
 			"Tortuga",
+			"MacksMercs",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""

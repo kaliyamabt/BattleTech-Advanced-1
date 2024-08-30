@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_Choex",
 		"Name": "Choex",
-		"Details": "Choex was settled during the Star League era at some point after the end of the Reunification War but died out during the fighting in the Succession Wars.",
+		"Details": "Choex was settled by the Rim Worlds Republic during the Star League era but was eventually abandoned due to contractions during the Succession Wars. Choex is a pleasant jungle planet, though its local insect life is particularly tenacious and is difficult to adapt to for settlers.",
 		"Icon": ""
 	},
 	"Position": {
@@ -15,19 +15,18 @@
 			"planet_name_choex",
 			"planet_size_large",
 			"planet_climate_water",
-			"planet_pop_none",
-			"planet_civ_primitive",
+			"planet_pop_small",
+			"planet_civ_periphery",
 			"planet_industry_poor",
 			"planet_other_pirate",
 			"planet_other_ruins",
-			"planet_faction_nofaction",
-			"planet_other_empty"
+			"planet_faction_nofaction"
 		],
 		"tagSetSourceFile": ""
 	},
 	"SupportedBiomes": [
 		"lowlandsCoastal",
-		"highlandsSpring"
+		"jungleTropical"
 	],
 	"MapRequiredTags": {
 		"items": [],
@@ -140,7 +139,7 @@
 		"CAREER",
 		"NONE"
 	],
-	"DefaultDifficulty": 2,
+	"DefaultDifficulty": 8,
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [],

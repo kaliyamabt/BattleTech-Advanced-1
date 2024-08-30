@@ -8,8 +8,8 @@
 	"MapRightViewBuffer": 25.0,
 	"MapBottomViewBuffer": 75.0,
 	"use3040Map": true,
-	"splashTitle": "BattleTech Advanced 3062",
-	"splashText": "<b>War is Business and War Never Changes</b> \n\n Welcome to the Inner Sphere, Commander \n\n You are a Mercenary, standing on the bridge of your Star League-vintage dropship, the Argo. Your mechbays have a few choice mechs you've scrounged up and the Inner Sphere and beyond expand before you. \n\n This is your moment, reach out and seize it, make your name and your mark on the Inner Sphere!",
+	"splashTitle": "BattleTech Advanced <color=#daa520>Universe</color>",
+	"splashText": "<b>War is Business and War Never Changes</b> \n\n Welcome to the Inner Sphere, Commander!\n\n You are a Mercenary, standing on the bridge of your Star League-vintage dropship, the Argo. Your mechbays have a few choice mechs you've scrounged up and the Inner Sphere, complete with all six Great Houses, and the Periphery, with all five major nations, lay before you. \n\n This is your moment, reach out and seize it, make your mark on the Inner Sphere!\n\n <b><color=#daa520>BTA Universe is a different Inner Sphere than you're used to, the map is different and the timeline has diverged, be sure to read the timeline events closely to learn what's going on!</color></b>",
 	"cheatcodes": [],
 	"reducedClanLogos": false,
 	"logos": [
@@ -62,14 +62,6 @@
 			"logoImage": "ClanNovaCatLogo"
 		},
 		{
-			"factionName": "Ives",
-			"logoImage": "stivesLogo"
-		},
-		{
-			"factionName": "Lothian",
-			"logoImage": "lothianLogo"
-		},
-		{
 			"factionName": "Illyrian",
 			"logoImage": "illyrianLogo"
 		},
@@ -80,18 +72,6 @@
 		{
 			"factionName": "Outworld",
 			"logoImage": "outworldsLogo"
-		},
-		{
-			"factionName": "AuriganDirectorate",
-			"logoImage": "directorateLogo"
-		},
-		{
-			"factionName": "Axumite",
-			"logoImage": "AxumiteLogo"
-		},
-		{
-			"factionName": "Castile",
-			"logoImage": "CastileLogo"
 		},
 		{
 			"factionName": "WordOfBlake",
@@ -106,10 +86,6 @@
 			"logoImage": "DelphiLogo"
 		},
 		{
-			"factionName": "Elysia",
-			"logoImage": "ElysiaLogo"
-		},
-		{
 			"factionName": "Hanse",
 			"logoImage": "HanseLogo"
 		},
@@ -120,10 +96,6 @@
 		{
 			"factionName": "Tortuga",
 			"logoImage": "TortugaLogo"
-		},
-		{
-			"factionName": "Valkyrate",
-			"logoImage": "ValkyrateLogo"
 		},
 		{
 			"factionName": "ClanWolf",
@@ -144,10 +116,6 @@
 		{
 			"factionName": "ClanSnowRaven",
 			"logoImage": "ClanSnowRavenLogo"
-		},
-		{
-			"factionName": "Rim",
-			"logoImage": "RimCollectionLogo"
 		},
 		{
 			"factionName": "RimWorldsRepublic",
@@ -184,6 +152,22 @@
 		{
 			"factionName": "MallardRepublic",
 			"logoImage": "MallardRepublicLogo"
+		},
+		{
+			"factionName": "AuriganDirectorate",
+			"logoImage": "directorateLogo"
+		},
+		{
+			"factionName": "Rim",
+			"logoImage": "RimCollectionLogo"
+		},
+		{
+			"factionName": "Lothian",
+			"logoImage": "lothianLogo"
+		},
+		{
+			"factionName": "Castile",
+			"logoImage": "CastileLogo"
 		}
 	]
 }

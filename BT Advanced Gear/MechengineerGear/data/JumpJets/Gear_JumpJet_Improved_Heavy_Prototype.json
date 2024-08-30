@@ -1,6 +1,7 @@
 {
 	"Custom": {
 		"ComponentExplosion": {
+			"HeatDamage": 12,
 			"ExplosionDamage": 50,
 			"StabilityDamage": 10
 		},
@@ -10,15 +11,16 @@
 			}
 		],
 		"BonusDescriptions": [
-				"JumpCapacity: 1.25",
-				"JumpHeat: 2",
-				"MinWeightJJ: 60",
-				"MaxWeightJJ: 85",
-				"MaxCountJJ: 1.6"
-			],
+			"JumpCapacity: 1.25",
+			"JumpHeat: 6",
+			"MinWeightJJ: 60",
+			"MaxWeightJJ: 85",
+			"MaxCountJJ: 1.6",
+			"BankBoom: 50"
+		],
 		"Flags": [
-				"not_broken",
-				"no_salvage"
+			"not_broken",
+			"no_salvage"
 		]
 	},
 	"JumpCapacity": 1.25,
@@ -70,7 +72,7 @@
 			"statisticData": {
 				"statName": "JumpHeat",
 				"operation": "Float_Add",
-				"modValue": "2",
+				"modValue": "6",
 				"modType": "System.Single"
 			}
 		},

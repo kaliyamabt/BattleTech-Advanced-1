@@ -157,6 +157,7 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
+		"AuriganPirates",
 		"Liao",
 		"Locals"
 	],
@@ -164,6 +165,7 @@
 		"Marik",
 		"Davion",
 		"AuriganRestoration",
+		"Cameron",
 		"ComStar",
 		"WordOfBlake",
 		"Ives",

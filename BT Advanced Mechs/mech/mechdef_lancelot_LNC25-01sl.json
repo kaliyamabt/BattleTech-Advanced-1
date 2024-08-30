@@ -8,6 +8,9 @@
 			"unit_release",
 			"unit_rarity_2",
 			"unit_royal",
+			"Cameron",
+			"StarGuardCorps",
+			"ICorps",
 			"ComStar",
 			"2ndArmyVMu",
 			"WordOfBlake",
@@ -19,9 +22,12 @@
 			"CWEpsilonGalaxy",
 			"CGSOmegaGalaxy",
 			"ScorpionEmpire",
+			"ClanFireMandrill",
+			"KindraaSainze",
+			"KindraaFaradayTanaga",
+			"KindraaMickKreese",
 			"DarkCaste",
 			"331stDivision",
-			"RimWorldsRepublic",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""

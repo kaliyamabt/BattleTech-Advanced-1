@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_Yidtall",
 		"Name": "Yidtall",
-		"Details": "The Yidtall system was colonised in the Star League era, but was wiped out during the First Succession War. ",
+		"Details": "Yidtall was settled by the Rim Worlds Republic during the Star League era but was eventually abandoned due to contractions during the Succession Wars. Yidtall is a frozen iceball of a world and has little to offer other than mineral wealth, which is why it was originally settled.",
 		"Icon": ""
 	},
 	"Position": {
@@ -18,11 +18,10 @@
 			"planet_feature_comet",
 			"planet_feature_moon01",
 			"planet_other_moon",
-			"planet_pop_none",
-			"planet_civ_primitive",
+			"planet_pop_small",
+			"planet_civ_periphery",
 			"planet_other_alienvegetation",
-			"planet_faction_nofaction",
-			"planet_other_empty"
+			"planet_faction_nofaction"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -141,7 +140,7 @@
 		"CAREER",
 		"NONE"
 	],
-	"DefaultDifficulty": 1,
+	"DefaultDifficulty": 9,
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [],

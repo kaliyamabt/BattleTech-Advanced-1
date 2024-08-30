@@ -7,8 +7,9 @@
 			"unit_role_sniper",
 			"unit_release",
 			"unit_rarity_6",
-			"Rim",
 			"RimWorldsRepublic",
+			"1stHeliusLegionnaires",
+			"8thHeliusFusiliers",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""
@@ -24,7 +25,7 @@
 		"UIName": "Rifleman III RF2-B",
 		"Id": "mechdef_riflemaniii_RF2-B",
 		"Name": "Rifleman III",
-		"Details": "Developed by Stefan Amaris as a wunderwaffen during the Amaris Civil War that destroyed the Star League, the Rifleman III was quickly destroyed and forgotten for centuries. However, in the old RWR, the Rim Collection discovered a hidden bunker with the Rifleman III and plans for its construction in the late 3050s. This is a newly built Rifleman III, though bereft of the Null Signature System. Where the RF2-A carries quad Gauss Rifles, the RF2-B instead carries a quartet of Improved Binary Lasers for heavy ranged firepower. It also speeds up somewhat and mounts a trio of Jump Jets for maneuverability.",
+		"Details": "Developed by Stefan Amaris as a wunderwaffen during the Amaris Civil War that destroyed the Star League, the Rifleman III was quickly destroyed and forgotten for centuries. However in the 3060s it was discovered that several chassis, along with plentiful parts, had been secreted away in a bunker in the Rim Worlds Republic itself and so the design came back into service for the RWR. This is a newly built Rifleman III, though bereft of the Null Signature System. Where the RF2-A carries quad Gauss Rifles, the RF2-B instead carries a quartet of Improved Binary Lasers for heavy ranged firepower. It also speeds up somewhat and mounts a trio of Jump Jets for maneuverability.",
 		"Icon": "uixTxrIcon_riflemaniii"
 	},
 	"simGameMechPartCost": 1480000,

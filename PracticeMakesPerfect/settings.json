@@ -61,6 +61,7 @@
 		"ClanWolf",
 		"ClanNovaCat",
 		"ClanSnowRaven",
+		"ClanFireMandrill",
 		"DarkCaste",
 		"Delphi",
 		"Hanse",
@@ -80,7 +81,11 @@
 		"JacobsonHaven",
 		"DaneSacellum",
 		"FroncReaches",
-		"CalderonProtectorate"
+		"CalderonProtectorate",
+		"ClanGoliathScorpion",
+		"ScorpionEmpire",
+		"RimWorldsRepublic",
+		"Cameron"
 	],
 	"WhiteListMissions": [
 		"SimpleBattle",
@@ -173,12 +178,13 @@
 			"applyToFaction": [
 				"Liao"
 			],
-			"description": "Nobody likes Capellans. Gain reputation with the other four Great Houses when taking contracts against the Capellan Confederation.",
+			"description": "Nobody likes Capellans. Gain reputation with the other five Great Houses when taking contracts against the Capellan Confederation.",
 			"repMod": {
 				"Kurita": 2,
 				"Davion": 2,
 				"Steiner": 2,
-				"Marik": 2
+				"Marik": 2,
+				"Cameron": 2
 			},
 			"effectDataJO": []
 		},
@@ -190,7 +196,7 @@
 			"applyToFaction": [
 				"ComStar"
 			],
-			"description": "Nobody likes paying their HPG bills. Gain reputation with all five Great Houses when taking contracts against ComStar.",
+			"description": "Nobody likes paying their HPG bills. Gain reputation with all non-Cameron Great Houses when taking contracts against ComStar.",
 			"repMod": {
 				"Kurita": 2,
 				"Davion": 2,
@@ -414,7 +420,7 @@
 			],
 			"description": "The awful thing about the Chainelane Isles is the constant chaos and infighting. The great thing about the Chainelane Isles is the constant chaos and infighting. Get 10% better prices when buying and selling in the Chainelane Isles. Also get bonus reputation from the Chainelane Isles when fighting the Chainelane Isles.",
 			"repMod": {
-				"Chainelane": 2,
+				"Chainelane": 4,
 				"{TARGET}": 2
 			},
 			"storeDiscount": {
@@ -450,6 +456,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -523,6 +530,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -596,6 +604,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -669,6 +678,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -742,6 +752,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -815,6 +826,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -888,6 +900,7 @@
 				"ClanGhostBear",
 				"ClanNovaCat",
 				"ClanSnowRaven",
+				"ClanFireMandrill",
 				"ClanGoliathScorpion",
 				"ScorpionEmpire"
 			],
@@ -951,6 +964,80 @@
 			]
 		},
 		{
+			"OpForSpecID": "CFM_KindraaKrusher",
+			"OpForSpecName": "Clan Fire Mandrill: Kindraa Krusher",
+			"killsRequired": 12,
+			"factionID": "ClanFireMandrill",
+			"applyToFaction": [
+				"ClanWolf",
+				"ClanJadeFalcon",
+				"ClanGhostBear",
+				"ClanNovaCat",
+				"ClanSnowRaven",
+				"ClanFireMandrill",
+				"ClanGoliathScorpion",
+				"ScorpionEmpire"
+			],
+			"description": "This pilot is an expert at fighting Clan Fire Mandrill, and does 5% increased damage to all Clan forces.",
+			"effectDataJO": [
+				{
+					"durationData": {},
+					"targetingData": {
+						"effectTriggerType": "Passive",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": true
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "CFM_KindraaKrusherDmgPassive",
+						"Name": "Kindraa Krusher",
+						"Details": "This pilot is an expert at fighting Clan Fire Mandrill, and does 5% increased damage to all Clan forces.",
+						"Icon": "allied-star"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "dummyOpForStat",
+						"operation": "Set",
+						"modValue": "true",
+						"modType": "System.Boolean"
+					}
+				},
+				{
+					"durationData": {
+						"duration": 1,
+						"ticksOnEndOfRound": true,
+						"useActivationsOfTarget": true,
+						"stackLimit": 1
+					},
+					"targetingData": {
+						"effectTriggerType": "OnWeaponFire",
+						"effectTargetType": "Creator",
+						"showInStatusPanel": false
+					},
+					"effectType": "StatisticEffect",
+					"Description": {
+						"Id": "CFM_KindraaKrusherDmg",
+						"Name": "Kindraa Krusher",
+						"Details": "This pilot is an expert at fighting Clan Fire Mandrill, and does 5% increased damage to all Clan forces.",
+						"Icon": "allied-star"
+					},
+					"nature": "Buff",
+					"statisticData": {
+						"statName": "DamagePerShot",
+						"operation": "Float_Multiply",
+						"modValue": "1.05",
+						"modType": "System.Single",
+						"additionalRules": "NotSet",
+						"targetCollection": "Weapon",
+						"targetWeaponCategory": "NotSet",
+						"targetWeaponType": "NotSet",
+						"targetAmmoCategory": "NotSet",
+						"targetWeaponSubType": "NotSet"
+					}
+				}
+			]
+		},
+		{
 			"OpForSpecID": "DC_OnceAPirate",
 			"OpForSpecName": "Dark Caste: Once a Pirate, Always a Pirate",
 			"killsRequired": 12,
@@ -992,12 +1079,14 @@
 			"applyToFaction": [
 				"WordOfBlake"
 			],
-			"description": "The Word of Blake is weird and worships toasters, screw those guys. Gain reputation with four of the Great Houses when taking contracts against The Word of Blake (House Marik likes them).",
+			"description": "The Word of Blake is weird and worships toasters, screw those guys. Gain reputation with five of the Great Houses as well as ComStar when taking contracts against The Word of Blake (House Marik likes them).",
 			"repMod": {
 				"Kurita": 2,
 				"Davion": 2,
 				"Steiner": 2,
-				"Liao": 2
+				"Liao": 2,
+				"Cameron": 2,
+				"ComStar": 2
 			},
 			"effectDataJO": []
 		},
@@ -1129,21 +1218,37 @@
 			"effectDataJO": []
 		},
 		{
-			"OpForSpecID": "RWR_EmperorsFall",
-			"OpForSpecName": "Rim Worlds Republic: Emperor's Fall",
+			"OpForSpecID": "RWR_FuckFreedom",
+			"OpForSpecName": "Rim Worlds Republic: Fuck Your Freedom",
 			"killsRequired": 12,
 			"factionID": "RimWorldsRepublic",
 			"applyToFaction": [
 				"RimWorldsRepublic"
 			],
-			"description": "The Rim Worlds Republic has a history of imperial ambitions and it's about time someone put an end to it. Gain bonus reputation with their enemies, ComStar and the Great Houses, when fighting the Rim Worlds Republic.",
+			"description": "The Rim Worlds Republic has dreams of freedom, it's time to crush those dreams. Gain bonus reputation with the Lyran Commonwealth and bonus cash from RWR kills as a thank you for crushing their pathetic dreams.",
 			"repMod": {
-				"Davion": 2,
+				"Steiner": 4
+			},
+			"killBounty": {
+				"Steiner": 1500
+			},
+			"effectDataJO": []
+		},
+		{
+			"OpForSpecID": "TH_BackToTheGrave",
+			"OpForSpecName": "Terran Hegemony: Everyone Disliked That",
+			"killsRequired": 12,
+			"factionID": "Cameron",
+			"applyToFaction": [
+				"Cameron"
+			],
+			"description": "The Terran Hegemony is back and Everyone Disliked That. Gain bonus reputation with the other five Great Houses for bullying their ancient, reborn, rival.",
+			"repMod": {
 				"Kurita": 2,
-				"Liao": 2,
+				"Davion": 2,
 				"Steiner": 2,
 				"Marik": 2,
-				"ComStar": 2
+				"Liao": 2
 			},
 			"effectDataJO": []
 		}
@@ -1725,7 +1830,7 @@
 			"description": "This pilot is an expert at escorting other units and keeping them out of harm's way. Allies take 15% less damage.",
 			"effectDataJO": [
 				{
-					"durationData":  {
+					"durationData": {
 						"stackLimit": 1
 					},
 					"targetingData": {

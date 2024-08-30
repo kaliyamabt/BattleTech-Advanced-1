@@ -32,9 +32,9 @@
         "Purchasable": true,
         "Manufacturer": "Generic",
         "Model": "Sirocco",
-        "UIName": "Ammo Sirocco Shaped",
+        "UIName": "Ammo Sirocco Seismic Charge",
         "Id": "Ammo_AmmunitionBox_Shaped_SIROCCO",
-        "Name": "Sirocco Ammo",
+        "Name": "Sirocco Seismic Charge Ammo",
         "Details": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of SHIELD.",
         "Icon": "Art-illery-ammo"
     },

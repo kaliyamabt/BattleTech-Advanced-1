@@ -21,7 +21,7 @@
 			"planet_civ_innersphere",
 			"planet_industry_poor",
 			"planet_industry_mining",
-			"planet_faction_davion"
+			"planet_faction_cameron"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -39,7 +39,7 @@
 	},
 	"FuelingStation": false,
 	"JumpDistance": 3,
-	"ownerID": "Davion",
+	"ownerID": "Cameron",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -125,13 +125,13 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_Davion",
+		"itemCollection_major_Cameron",
 		"itemCollection_shop_chemicalsProgression",
 		"itemCollection_shop_miningProgression"
 	],
-	"factionShopOwnerID": "Davion",
+	"factionShopOwnerID": "Cameron",
 	"FactionShopItems": [
-		"itemCollection_faction_Davion"
+		"itemCollection_faction_Cameron"
 	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_Kawich",
@@ -144,19 +144,18 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Davion",
+		"Cameron",
+		"ComStar",
 		"Locals"
 	],
 	"contractTargetIDs": [
+		"Steiner",
+		"Marik",
 		"Kurita",
+		"Davion",
 		"Liao",
-		"WordOfBlake",
-		"ComStar",
-		"TaurianConcordat",
-		"Outworld",
-		"Tortuga",
-		"AuriganPirates",
+		"Locals",
 		"Mercenaries",
-		"ClanNovaCat"
+		"AuriganPirates"
 	]
 }

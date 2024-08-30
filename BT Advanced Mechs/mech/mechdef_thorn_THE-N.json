@@ -10,6 +10,9 @@
 			"unit_light",
 			"unit_lance_support",
 			"unit_role_sniper",
+			"Cameron",
+			"ICorps",
+			"IVCorps",
 			"ComStar",
 			"2ndArmyVMu",
 			"11thArmyVEta",
@@ -20,7 +23,6 @@
 			"WoBProtectorateMilitia",
 			"DarkCaste",
 			"331stDivision",
-			"RimWorldsRepublic",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""

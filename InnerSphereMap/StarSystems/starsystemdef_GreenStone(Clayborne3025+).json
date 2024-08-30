@@ -158,8 +158,8 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Circinus",
 		"AuriganPirates",
+		"Circinus",
 		"Locals"
 	],
 	"contractTargetIDs": [

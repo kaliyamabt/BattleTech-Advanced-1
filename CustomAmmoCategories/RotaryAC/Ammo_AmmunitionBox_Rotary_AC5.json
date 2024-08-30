@@ -14,14 +14,14 @@
 		},
 		"BonusDescriptions": [
 				"CostPerShot: 500",
-				"AmmoCount: 15"
+				"AmmoCount: 45"
 			],
 		"AmmoCost": {
 			"PerUnitCost": 500
 		}
 	},
 	"AmmoID": "Ammunition_RAC5",
-	"Capacity": 15,
+	"Capacity": 45,
 	"Description": {
 		"Cost": 20000,
 		"Rarity": 1,
@@ -31,7 +31,7 @@
 		"UIName": "Ammo RAC/5",
 		"Id": "Ammo_AmmunitionBox_Rotary_AC5",
 		"Name": "RAC/5 Ammo",
-		"Details": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. Has 15 shots.",
+		"Details": "Ammo Bins contain the rounds needed for projectile-based weaponry, with at least one bin required per weapon type. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E..",
 		"Icon": "uixSvgIcon_ammoBox_Ballistic"
 	},
 	"BonusValueA": "",

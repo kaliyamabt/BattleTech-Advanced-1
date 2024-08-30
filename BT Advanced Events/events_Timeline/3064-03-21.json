@@ -45,11 +45,11 @@
 							"Requirements": null,
 							"AddedTags": {
 								"items": [
-							"WIIC_give_starsystemdef_Kentares_to_Davion",
-							"WIIC_Steiner_attacks_starsystemdef_Kentares",
-							"WIIC_set_starsystemdef_Kentares_defender_strength_20",
-							"WIIC_set_starsystemdef_Kentares_attacker_strength_30"
-							],
+									"WIIC_give_starsystemdef_Kentares_to_Davion",
+									"WIIC_Steiner_attacks_starsystemdef_Kentares",
+									"WIIC_set_starsystemdef_Kentares_defender_strength_20",
+									"WIIC_set_starsystemdef_Kentares_attacker_strength_30"
+								],
 								"tagSetSourceFile": ""
 							},
 							"RemovedTags": {

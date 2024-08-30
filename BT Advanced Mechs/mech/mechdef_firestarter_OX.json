@@ -10,6 +10,9 @@
 			"unit_lance_support",
 			"unit_role_sniper",
 			"unit_advanced",
+			"Cameron",
+			"ICorps",
+			"IVCorps",
 			"ComStar",
 			"2ndArmyVMu",
 			"WordOfBlake",
@@ -39,7 +42,10 @@
 			"SnordsIrregulars",
 			"NorthwindHighlanders",
 			"LoneStarRegiment",
+			"AblesAces",
+			"GraveWalkers",
 			"DismalDisinherited",
+			"MacksMercs",
 			"SolarisVIIMercLeague",
 			"EridaniLightHorse",
 			"GrayDeathLegion",
@@ -79,6 +85,11 @@
 			"JacobsJuggernauts",
 			"LindonsBattalion",
 			"GrimDetermination",
+			"FightingUrukhai",
+			"RaymondsRedcoats",
+			"12thStarGuards",
+			"RedfieldRenegades",
+			"LexingtonCombatGroup",
 			"ToothOfYmir",
 			"KnightsOfCaerbannog",
 			"HostileMercenaries",
@@ -193,15 +204,6 @@
 		}
 	],
 	"inventory": [
-		{
-			"MountedLocation": "CenterTorso",
-			"ComponentDefID": "emod_armorslots_standard",
-			"SimGameUID": "",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"hasPrefabName": false
-		},
 		{
 			"MountedLocation": "Head",
 			"ComponentDefID": "Gear_Cockpit_Generic_Standard",

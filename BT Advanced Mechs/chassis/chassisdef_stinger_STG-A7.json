@@ -9,10 +9,10 @@
 	"CustomParts": {
 		"AlternateRepresentations": [
 			{
-				"PrefabIdentifier": "chrprfmech_stingerlambase-001",
+				"PrefabIdentifier": "chrprfmech_stingerlamv2base-001",
 				"AdditionalPrefabs": [],
-				"PrefabBase": "stingerlam",
-				"HardpointDataDef": "hardpointdatadef_stingerlam",
+				"PrefabBase": "stingerlamv2",
+				"HardpointDataDef": "hardpointdatadef_stingerlamv2",
 				"Type": "AirMech",
 				"HoveringSoundStart": "jet_start",
 				"HoveringSoundEnd": "jet_end",
@@ -409,6 +409,7 @@
 	"VariantName": "STG-A7",
 	"ChassisTags": {
 		"items": [
+			"mr-resize-0.85-0.85-0.85",
 			"LightMech",
 			"LandAirMech"
 		],

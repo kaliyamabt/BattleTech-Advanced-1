@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "3064-09-21",
 		"Name": "MercNews Broadcast",
-		"Details": "WORD OF BLAKE MERCENARIES MOVE ON HSIEN, ALWAYS FAITHFUL HIRED TO DEFEND\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]:  The [[DM.Factions[faction_WordOfBlake],Word of Blake's]] efforts to secure the [[DM.BaseDescriptionDefs[LoreHPG],HPG]] stations in the [[DM.BaseDescriptionDefs[LoreChaosMarch],Chaos March]] have born fruit when the planet Hsien signed a contract to replace [[DM.Factions[faction_ComStar],ComStar's]] technicians with those from the Word.  To the shock of all three of the planet's factions however, the Word of Blake sent not only a Level III from the [[DM.BaseDescriptionDefs[LoreWOBM],Word of Blake Militia's]] 4th Division to provide a garrison for the planet's HPG station, but also the [[DM.Factions[faction_HsienHotheads],Hsien Hotheads]] mercenary regiment.  The commander of the Hotheads, Colonel Brenn Twohy, is a direct descendant of Duke Robert Twohy, Hsien's last ruler of the Star League era, and the Hotheads have an openly stated long-term goal to return control of Hsien back to the Twohy family.  To the discomfort of Hsien's pro-[[DM.BaseDescriptionDefs[LoreHouseLiao],Liao]] and pro-Fedcom factions, Twohy's arrival was widely celebrated by the population.  In response the [[DM.Factions[faction_AlwaysFaithful],Always Faithful]], fresh from their stint on Caph, have been hired by the pro-[[DM.BaseDescriptionDefs[LoreFedCom],Fedcom]] factions of Baron Montong and the Dendeez Provice to watch both the incoming WoB garrisons as well as the pro-[[DM.Factions[faction_Liao],Capellan]] forces backed by [[DM.BaseDescriptionDefs[LoreGaelsGrinders],Gael's Grinders]].",
+		"Details": "TERRAN HEGEMONY MOVES TO DEFEND SAIPH TRIUMVIRATE\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreTerranHegemony],Terran Hegemony]]: After the Capellan Confederation's attempted takeover of the former [[DM.Factions[faction_SaiphTriumvirate],Saiph Triumvirate]] in 3063, reports have indicated terrible mistreatment of the locals on those worlds at the hands of their new Capellan overlords. In response to supposed human rights violations and possible warcrimes committed against the populace of the former Triumvirate worlds, the Terran Hegemony has declared its intention to secure Saiph, Tall Trees, and New Canton and bring security and dignity back to those worlds. The [[DM.Factions[faction_Liao],Capellan Confederation]], of course, is refusing to surrender the worlds peacefully and has ordered the [[DM.BaseDescriptionDefs[LoreHarlocRaiders],Harloc Raiders]] and [[DM.Factions[faction_1stMcCarronsArmoredCavalry],McCarron's Armored Cavalry]] to prepare to hold their ground against the Hegemony's onslaught. For their part, the Hegemony has ordered the 1st Cameron Guard and the 17th Terran Light Cavalry into action to secure the former Triumvirate worlds.",
 		"Icon": "uixTxrSpot_ComputerScreen.png"
 	},
 	"Scope": "Company",
@@ -35,7 +35,7 @@
 					"Description": {
 						"Id": "continue1",
 						"Name": "MercNews Broadcast",
-						"Details": "CHAOS MARCH: GRIM DETERMINATION ARRIVES ON SHERATAN\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]:  The long-troubled world of Sheratan will soon have a new mercenary force on planet.  Notable [[DM.BaseDescriptionDefs[LoreChaosMarch],Chaos March]] mercenaries [[DM.Factions[faction_GrimDetermination],Grim Determination]] are moving on to the planet to bring \"peace and order\" to the world.  Sheratan, once one of the most beautiful planets in the Sarna March, was shattered in the aftermath of [[DM.BaseDescriptionDefs[LoreOpGuerrero],Operation GUERRERO]] as the fighting between the pro-Fedcom [[DM.BaseDescriptionDefs[LoreSheratanKnights],Sheratan Knights]] and the [[DM.BaseDescriptionDefs[LoreHouseLiao],Liao]]-backed [[DM.Factions[faction_FistOfMokal],Fist of Mokal]] left the planet's government and environment in ruins.   While the Fist of Mokal are long since gone and the remaining Knights continue to hold the capital, roughly fifteen other factions ranging from petty nobles to outright pirate groups control the rest of the planet.  Grim Determination, with their focus on counter-insurgency and counter-terrorist actions and other small unit actions, will be well suited to Sheratan, where mysterious terrorist incidents and border skirmishes are occuring almost daily.",
+						"Details": "CIVIL WAR: GRIM DETERMINATION ARRIVES ON SHERATAN\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreTerranHegemony],Terran Hegemony]]:  The  world of Sheratan will soon have a new mercenary force on planet.  Notable mercenaries [[DM.Factions[faction_GrimDetermination],Grim Determination]] are moving on to the planet to bring \"peace and order\" to the world.  Sheratan, once one of the most beautiful planets in the Sarna March, has been attacked by rogue elements of the Federated Commonwealth Armed Forces, who seemingly struck at the world at random. It appears that the pro-[[DM.BaseDescriptionDefs[LoreFedCom],FedCom]] [[DM.BaseDescriptionDefs[LoreSheratanKnights],Sheratan Knights]] have decided to escalate their activities from minor disruptions to full-blown revolution. In response to this active challenge to their rule, the Hegemony has hired Grim Determination to root out and destroy the Sheratan Knights once and for all as well as bring order to the rest of the world, which has been steadily decaying into petty squabbles between local nobles and even minor pirate groups for scraps of land. Grim Determination, with their focus on counter-insurgency and counter-terrorist actions and other small unit actions, will be well suited to Sheratan, where mysterious terrorist incidents and border skirmishes are occuring almost daily.",
 						"Icon": ""
 					},
 					"Weight": 100,
@@ -45,16 +45,23 @@
 							"Requirements": null,
 							"AddedTags": {
 								"items": [
-									"WIIC_give_starsystemdef_Hsien_to_Liao",
+									"WIIC_give_starsystemdef_Saiph_to_Liao",
+									"WIIC_give_starsystemdef_NewCanton_to_Liao",
+									"WIIC_give_starsystemdef_TallTrees_to_Liao",
 									"WIIC_give_starsystemdef_Sheratan_to_Locals",
-									"WIIC_HsienHotheads_attacks_starsystemdef_Hsien",
+									"WIIC_Cameron_attacks_starsystemdef_Saiph",
+									"WIIC_Cameron_attacks_starsystemdef_NewCanton",
+									"WIIC_Cameron_attacks_starsystemdef_TallTrees",
 									"WIIC_GrimDetermination_attacks_starsystemdef_Sheratan",
-									"WIIC_set_starsystemdef_Hsien_defender_strength_20",
-									"WIIC_set_starsystemdef_Hsien_attacker_strength_30",
-									"WIIC_set_starsystemdef_Sheratan_defender_strength_10",
+									"WIIC_set_starsystemdef_Saiph_defender_strength_20",
+									"WIIC_set_starsystemdef_Saiph_attacker_strength_30",
+									"WIIC_set_starsystemdef_NewCanton_defender_strength_20",
+									"WIIC_set_starsystemdef_NewCanton_attacker_strength_30",
+									"WIIC_set_starsystemdef_TallTrees_defender_strength_20",
+									"WIIC_set_starsystemdef_TallTrees_attacker_strength_30",
+									"WIIC_set_starsystemdef_Sheratan_defender_strength_15",
 									"WIIC_set_starsystemdef_Sheratan_attacker_strength_30",
-									"WIIC_give_starsystemdef_Hsien_to_WordOfBlake_on_attacker_win",
-									"WIIC_give_starsystemdef_Sheratan_to_Locals_on_attacker_win"
+									"WIIC_give_starsystemdef_Sheratan_to_Cameron_on_attacker_win"
 								],
 								"tagSetSourceFile": ""
 							},

@@ -11,6 +11,7 @@
 			"unit_lance_assassin",
 			"unit_role_scout",
 			"RimWorldsRepublic",
+			"1stHeliusLegionnaires",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""
@@ -26,7 +27,7 @@
 		"UIName": "Jackrabbit JKR-8A",
 		"Id": "mechdef_jackrabbit_JKR-8A",
 		"Name": "Jackrabbit",
-		"Details": "The Jackrabbit might have been intended for the SLDF but it became famous as a tool of Stefan Amaris's short-lived empire. Now, with Amaris's return to the Inner Sphere, the Jackrabbit can once again serve its one true master, the Usurper himself. The JKR-8A is armed with one of Amaris's new superweapons, the Meatgrinder Machine Gun. These light MGs absolutely annihilate any infantry or battle armor they can catch and are backed up in that cause by two Heavy Machine Guns, to ensure that no one stands in the way of the rising empire. For hardened targets, the JKR-8A carries a Streak SRM-6.",
+		"Details": "The Jackrabbit might have been intended for the SLDF but it became famous as a tool of Stefan Amaris's short-lived empire. Thankfully, with the fall of the Usurper the Jackrabbit could be redeemed in the hands of the Rim Worlds Republic that survived to rebuild itself. The Jackrabbit JKR-8A uses a combination of Shredder and Heavy Machine Guns for primary firepower against softer targets. Against hardened ones, it carries a Streak SRM-6. Ferro-Fibrous armor and an XL engine ensure the Jackrabbit has the tonnage for the weaponry and still have a little armor left over to survive in a fire-fight.",
 		"Icon": "uixTxrIcon_jackrabbit"
 	},
 	"simGameMechPartCost": 250000,

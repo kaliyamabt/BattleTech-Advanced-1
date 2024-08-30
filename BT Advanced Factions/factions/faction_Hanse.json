@@ -1,6 +1,6 @@
 {
 	"ID": "faction_Hanse",
-	"Name": "Hanseatic League",
+	"Name": "the Hanseatic League",
 	"ShortName": "Hanse",
 	"Demonym": "Hansian",
 	"Government": "League",
@@ -18,7 +18,7 @@
 		"DarkCaste",
 		"Locals",
 		"Mercenaries",
-		"Rim"
+		"RimWorldsRepublic"
 	],
 	"Presence": 0.1,
 	"DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",

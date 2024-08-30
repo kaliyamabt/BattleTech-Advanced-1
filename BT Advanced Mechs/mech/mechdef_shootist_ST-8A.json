@@ -7,6 +7,9 @@
 			"unit_role_brawler",
 			"unit_release",
 			"unit_rarity_4",
+			"Cameron",
+			"ICorps",
+			"IVCorps",
 			"ComStar",
 			"2ndArmyVMu",
 			"11thArmyVEta",
@@ -20,9 +23,12 @@
 			"CWEpsilonGalaxy",
 			"CGSOmegaGalaxy",
 			"ScorpionEmpire",
+			"ClanFireMandrill",
+			"KindraaSainze",
+			"KindraaFaradayTanaga",
+			"KindraaMickKreese",
 			"DarkCaste",
 			"331stDivision",
-			"RimWorldsRepublic",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""

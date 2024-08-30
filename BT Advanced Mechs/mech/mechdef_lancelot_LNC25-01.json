@@ -12,6 +12,9 @@
 			"Rasalhague",
 			"1stTyr",
 			"2ndFreemen",
+			"Cameron",
+			"ICorps",
+			"IVCorps",
 			"ComStar",
 			"2ndArmyVMu",
 			"11thArmyVEta",
@@ -25,9 +28,12 @@
 			"CWEpsilonGalaxy",
 			"CGSOmegaGalaxy",
 			"ScorpionEmpire",
+			"ClanFireMandrill",
+			"KindraaSainze",
+			"KindraaFaradayTanaga",
+			"KindraaMickKreese",
 			"DarkCaste",
 			"331stDivision",
-			"RimWorldsRepublic",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""

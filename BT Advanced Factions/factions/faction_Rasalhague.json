@@ -1,6 +1,6 @@
 {
 	"ID": "faction_Rasalhague",
-	"Name": "Free Rasalhague Republic",
+	"Name": "the Free Rasalhague Republic",
 	"ShortName": "Rasalhague",
 	"Demonym": "Rasalhagueian",
 	"Government": "Republic",
@@ -8,6 +8,7 @@
 		"BlackOutlaws",
 		"Davion",
 		"ComStar",
+		"Cameron",
 		"Mercenaries",
 		"Locals"
 	],
@@ -21,8 +22,7 @@
 		"ClanGhostBear",
 		"ClanNovaCat",
 		"Mercenaries",
-		"Locals",
-		"RimWorldsRepublic"
+		"Locals"
 	],
 	"Presence": 0.1,
 	"DefaultCombatLeaderCastDefId": "castDef_LocalsDefault",

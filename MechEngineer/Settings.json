@@ -216,7 +216,8 @@
 	},
 	"ComponentExplosions": {
 		"Enabled": true,
-		"EnabledDescription": "Allows each component to define destructive forces in case they explode, also implements proper CASE."
+		"EnabledDescription": "Allows each component to define destructive forces in case they explode, also implements proper CASE.",
+		"PassthroughHeadToCenterTorso" : false
 	},
 	"CompressFloatieMessages": {
 		"Enabled": true,
@@ -325,7 +326,7 @@
 		"EngineMissingFallbackHeatSinkCapacityDescription": "Heat sink capacity if no engine is detected.",
 		"AdditionalWalkSpeed": 0,
 		"AdditionalRunSpeed": 0,
-		"MovementPointDistanceMultiplier": 30,
+		"MovementPointDistanceMultiplier": 28,
 		"MinimJumpHeat": 9,
 		"JumpJetDefaultJumpHeat": 3,
 		"RunMultiplier": 1.5,

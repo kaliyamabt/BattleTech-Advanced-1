@@ -53,6 +53,8 @@
 			"IncompatibleTags": [
 				"ModularArmor",
 				"ModularRearArmor",
+				"C3i",
+				"DroneNetwork",
 				"C3Master",
 				"C3Slave",
 				"NullSig",
@@ -344,7 +346,6 @@
 				"MASC"
 			]
 		},
-		
 		{
 			"Tag": "Supercharger.CenterTorso",
 			"RequiredTags": [
@@ -377,6 +378,7 @@
 			"IncompatibleTags": [
 				"C3Master",
 				"C3i",
+				"DroneNetwork",
 				"NullSig",
 				"CLPS",
 				"StealthArmor",
@@ -390,6 +392,7 @@
 			"IncompatibleTags": [
 				"C3Slave",
 				"C3i",
+				"DroneNetwork",
 				"NullSig",
 				"CLPS",
 				"StealthArmor",
@@ -403,6 +406,7 @@
 			"IncompatibleTags": [
 				"C3Slave",
 				"C3Master",
+				"DroneNetwork",
 				"LeagueNetFocalNode",
 				"LeagueNetSupportNode",
 				"ProtoMech"
@@ -411,6 +415,10 @@
 		{
 			"Tag": "NullSig",
 			"IncompatibleTags": [
+				"C3i",
+				"C3Slave",
+				"C3Master",
+				"DroneNetwork",
 				"ECM",
 				"ProtoMech",
 				"StealthArmor",
@@ -420,9 +428,14 @@
 		{
 			"Tag": "CLPS",
 			"IncompatibleTags": [
+				"C3i",
+				"C3Slave",
+				"C3Master",
+				"DroneNetwork",
 				"ECM",
 				"ProtoMech",
-				"StealthArmor"
+				"StealthArmor",
+				"BlueShield"
 			]
 		},
 		{
@@ -653,6 +666,24 @@
 			"Tag": "ECM",
 			"IncompatibleTags": [
 				"ProtoMech"
+			]
+		},
+		{
+			"Tag": "CoolantPod",
+			"IncompatibleTags": [
+				"RadicalHS"
+			]
+		},
+		{
+			"Tag": "RadicalHS",
+			"IncompatibleTags": [
+				"CoolantPod"
+			]
+		},
+		{
+			"Tag": "NoArtemis",
+			"IncompatibleTags": [
+				"ArtemisTTS"
 			]
 		}
 	]

@@ -51,7 +51,7 @@
 	"ImprovedBallistic": true,
 	"ColorSpeedChange": 1,
 	"ColorChangeRule": "Linear",
-	"WeaponEffectID": "WeaponEffect-Weapon_LaserPulse_Large",
+	"WeaponEffectID": "WeaponEffect-Weapon_LaserER_Large",
 	"Description": {
 		"Cost": 1227000,
 		"Rarity": 10,
@@ -86,6 +86,7 @@
 			"Id": "Pulse",
 			"UIName": "Pulse",
 			"isBaseMode": false,
+			"WeaponEffectID": "WeaponEffect-Weapon_LaserPulse_Large",
 			"EvasivePipsIgnored": 3,
 			"AccuracyModifier": 1,
 			"ShortRange": -50.0,

@@ -4,7 +4,8 @@
   "affinityData": {
     "tag": "Affinity_Tex_Awesome",
     "chassisNames": [
-      "chrPrfMech_awesomeBase-001_80"
+      "Awesome_80",
+      "AwesomeII_100"
     ],
     "idType": "AssemblyVariant",
     "altMaps": [],

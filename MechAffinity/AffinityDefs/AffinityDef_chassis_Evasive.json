@@ -14,8 +14,7 @@
       "Vulcan_40",
       "chrprfmech_bushwackerbase-001_55",
       "Ostroc_60",
-      "chrPrfMech_warhammerBase-001_70",
-      "chrPrfMech_warhammer_BlackWidowBase-001_70",
+      "Warhammer_70",
       "chrprfmech_supernovabase-001_100",
       "Piranha_20",
       "Piranha_30",
@@ -35,7 +34,9 @@
 	  "chrprfmech_wightbase-001_35",
 	  "Erinyes_50",
 	  "MuninLAM_45",
-	  "chrprfmech_genericlight4base-001_15"
+	  "chrprfmech_genericlight4base-001_15",
+	  "NagaII_80",
+	  "ScorpionLAM_55"
     ],
     "idType": "AssemblyVariant",
     "altMaps": [],

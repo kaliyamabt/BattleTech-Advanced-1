@@ -10,7 +10,7 @@
 			"StabilityDamagePerAmmo": 2
 		},
 		"BonusDescriptions": [
-				"WpnAccuracy: -1",
+				"WpnAccuracy: -2",
 				"WeaponBoom: 40",
 				"HeatDamage: 40",
 				"CostPerShot: 150",
@@ -45,7 +45,7 @@
 	"EvasivePipsIgnored": 0,
 	"DamageVariance": 0,
 	"HeatDamage": 2,
-	"AccuracyModifier": 1,
+	"AccuracyModifier": 2,
 	"CriticalChanceMultiplier": 1,
 	"AOECapable": false,
 	"IndirectFireCapable": false,

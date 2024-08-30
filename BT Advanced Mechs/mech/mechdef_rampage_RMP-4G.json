@@ -9,8 +9,9 @@
 			"unit_lance_assassin",
 			"unit_role_brawler",
 			"unit_rarity_5",
-			"Rim",
 			"RimWorldsRepublic",
+			"1stHeliusLegionnaires",
+			"8thHeliusFusiliers",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""
@@ -26,7 +27,7 @@
 		"UIName": "Rampage RMP-4G",
 		"Id": "mechdef_rampage_RMP-4G",
 		"Name": "Rampage",
-		"Details": "Introduced in 2750 and built in limited numbers prior to its recovery by the Rim Collection, the RMP-4G is a respectable fast assault design. Powered by a 340-rated XL engine and built with an Endo-Steel frame, the Rampage's MASC and large engine ensures it can catch just about anything. Once it catches them, a Gauss Rifle, a LB-10X Autocannon, and a Large Pulse Laser blast the enemy apart. A Medium Laser and Flamer cover close ranges while an AMS provides token missile defense.",
+		"Details": "Introduced in 2750 and built in limited numbers throughout the Rim Worlds Republic's history, the RMP-4G is a respectable fast assault design. Powered by a 340-rated XL engine and built with an Endo-Steel frame, the Rampage's MASC and large engine ensures it can catch just about anything. Once it catches them, a Gauss Rifle, a LB-10X Autocannon, and a Large Pulse Laser blast the enemy apart. A Medium Laser and Flamer cover close ranges while an AMS provides token missile defense.",
 		"Icon": "uixTxrIcon_rampage"
 	},
 	"simGameMechPartCost": 1130000,

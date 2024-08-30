@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "3067-09-07",
 		"Name": "MercNews Broadcast",
-		"Details": "HALL ANNEXED BY FREE WORLDS LEAGUE, AMC ATTACKS!\r\n\n\nOutreach, [[DM.Factions[faction_Davion],Federated Suns]]:  After successive victories against [[DM.BaseDescriptionDefs[LoreCatersCobras],Cater's Cobras]], [[DM.BaseDescriptionDefs[LoreBurtonsBrigade],Burton's Brigade]], [[DM.BaseDescriptionDefs[LoreCritchleysCavs],Critchley's Cavaliers]] and the killing of Count McNally, Emperor \"Bud\" Baranov of Hall announced that the [[DM.Factions[faction_Marik],Free Worlds League]] has accepted his invitation to annex the long fought over planet.  With the annexation of the planet, Baranov's last remaining threats to his power, [[DM.Factions[faction_ComStar],ComStar]]'s 397th [[DM.BaseDescriptionDefs[LoreComguard],Division]], the [[DM.BaseDescriptionDefs[LoreAMC],AMC]]'s Third [[DM.Factions[faction_DismalDisinherited],Dismal Disinherited]] and [[DM.Factions[faction_Wolfs_Dragoons],Wolf Dragoons]] Wolf Spiders Battalion are now legally obligated to leave the planet.\n\n\nColonel John Marik-Johns of the Third Dismal however refused to recognize the authority of the Fourth Oriente Hussars who had arrived on Hall to enforce the League's annexation the planet. Convinced the whole thing was a Blakist ploy, Colonel Marik-Johns commanded his Third Dismal and Burton's Brigade to attack the Fourth Oriente, who were in turn supported by Emperor Baranov's troops including the Fourth [[DM.BaseDescriptionDefs[LoreRepublican],Republican Guards]] and the [[DM.BaseDescriptionDefs[LoreStealthyTigers],Stealthy Tigers]].  The fighting is fierce and the AMC and FWL are calling for mercenaries for support.",
+		"Details": "HALL ANNEXED BY FREE WORLDS LEAGUE, AMC ATTACKS!\r\n\n\nOutreach, [[DM.Factions[faction_Cameron],Terran Hegemony]]:  After successive victories against [[DM.BaseDescriptionDefs[LoreCatersCohorts],Cater's Cohorts]], [[DM.BaseDescriptionDefs[LoreBurtonsBrigade],Burton's Brigade]], [[DM.BaseDescriptionDefs[LoreCritchleysCavs],Critchley's Cavaliers]] and the killing of Count McNally, Emperor \"Bud\" Baranov of Hall announced that the [[DM.Factions[faction_Marik],Free Worlds League]] has accepted his invitation to annex the long fought over planet.  With the annexation of the planet, Baranov's last remaining threats to his power, [[DM.Factions[faction_ComStar],ComStar]]'s 397th [[DM.BaseDescriptionDefs[LoreComguard],Division]], the [[DM.BaseDescriptionDefs[LoreAMC],AMC]]'s Third [[DM.Factions[faction_DismalDisinherited],Dismal Disinherited]] and [[DM.Factions[faction_Wolfs_Dragoons],Wolf Dragoons]] Wolf Spiders Battalion are now legally obligated to leave the planet.\n\n\nColonel John Marik-Johns of the Third Dismal however refused to recognize the authority of the Fourth Oriente Hussars who had arrived on Hall to enforce the League's annexation the planet. Convinced the whole thing was a Blakist ploy, Colonel Marik-Johns commanded his Third Dismal and Burton's Brigade to attack the Fourth Oriente, who were in turn supported by Emperor Baranov's troops including the Fourth [[DM.BaseDescriptionDefs[LoreRepublican],Republican Guards]] and the [[DM.BaseDescriptionDefs[LoreStealthyTigers],Stealthy Tigers]].  The fighting is fierce and the AMC and FWL are calling for mercenaries for support.",
 		"Icon": "uixTxrSpot_ComputerScreen.png"
 	},
 	"Scope": "Company",
@@ -47,9 +47,9 @@
 								"items": [
 									"WIIC_give_starsystemdef_Hall_to_Marik",
 									"WIIC_DismalDisinherited_attacks_starsystemdef_Hall",
-									"WIIC_set_starsystemdef_Hall_defender_strength_40",
-									"WIIC_set_starsystemdef_Hall_attacker_strength_15",
-									"WIIC_give_starsystemdef_Hall_to_Locals_on_attacker_win"
+									"WIIC_set_starsystemdef_Hall_defender_strength_20",
+									"WIIC_set_starsystemdef_Hall_attacker_strength_25",
+									"WIIC_give_starsystemdef_Hall_to_Cameron_on_attacker_win"
 								],
 								"tagSetSourceFile": ""
 							},

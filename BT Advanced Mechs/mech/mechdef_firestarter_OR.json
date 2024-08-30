@@ -11,6 +11,9 @@
 			"unit_role_sniper",
 			"unit_advanced",
 			"unit_indirectFire",
+			"Cameron",
+			"ICorps",
+			"IVCorps",
 			"ComStar",
 			"2ndArmyVMu",
 			"11thArmyVEta",
@@ -131,15 +134,6 @@
 		}
 	],
 	"inventory": [
-		{
-			"MountedLocation": "CenterTorso",
-			"ComponentDefID": "emod_armorslots_standard",
-			"SimGameUID": "",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"hasPrefabName": false
-		},
 		{
 			"MountedLocation": "LeftArm",
 			"ComponentDefID": "emod_arm_part_shoulder",

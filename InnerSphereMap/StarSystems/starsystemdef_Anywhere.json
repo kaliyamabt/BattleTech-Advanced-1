@@ -25,7 +25,8 @@
 			"planet_industry_aquaculture",
 			"planet_other_comstar",
 			"planet_other_starleague",
-			"planet_faction_clanjadefalcon"
+			"planet_factory",
+			"planet_faction_rimworldsrepublic"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -43,7 +44,7 @@
 	},
 	"FuelingStation": true,
 	"JumpDistance": 6,
-	"ownerID": "ClanJadeFalcon",
+	"ownerID": "RimWorldsRepublic",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -129,11 +130,11 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_ClanWorlds"
+		"itemCollection_major_RimWorldsRepublic"
 	],
-	"factionShopOwnerID": "ClanJadeFalcon",
+	"factionShopOwnerID": "RimWorldsRepublic",
 	"FactionShopItems": [
-		"itemCollection_faction_ClanWorlds"
+		"itemCollection_faction_RimWorldsRepublic"
 	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_Anywhere",
@@ -146,16 +147,17 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Steiner",
-		"Marik",
-		"Kurita",
-		"Davion",
-		"Liao",
-		"WordOfBlake",
-		"ComStar",
-		"Rasalhague"
+		"RimWorldsRepublic",
+		"Locals"
 	],
 	"contractTargetIDs": [
-		"ClanJadeFalcon"
+		"Hanse",
+		"DarkCaste",
+		"AuriganPirates",
+		"Steiner",
+		"ClanWolf",
+		"ClanJadeFalcon",
+		"Mercenaries",
+		"Locals"
 	]
 }

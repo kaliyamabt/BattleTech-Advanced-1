@@ -105,7 +105,7 @@
     "UIName": "Ebon Jaguar",
     "Id": "chassisdef_ebonjaguar_E",
     "Name": "Ebon Jaguar",
-    "Details": "Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien. By Operation BULLDOG the Cauldron-Born made up a large proportion of the heavy 'Mechs of the rebuilding Smoke Jaguars, and following their Annihilation the design proliferated through the remaining Clans. The E configuration is equipped with an ATM 12 launcher, a HAG 20, an ER Medium Laser and a Large Pulse Laser.",
+    "Details": "Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien. By Operation BULLDOG the Ebon Jaguar made up a large proportion of the heavy 'Mechs of the rebuilding Smoke Jaguars, and following their Annihilation the design proliferated through the remaining Clans. The E configuration is equipped with an ATM 12 launcher, a HAG 20, an ER Medium Laser and a Large Pulse Laser.",
     "Icon": "uixTxrIcon_ebonjaguar"
   },
   "MovementCapDefID": "movedef_ebonjaguar",
@@ -309,5 +309,5 @@
     "tagSetSourceFile": ""
   },
   "StockRole": "Heavy Cavalry",
-  "YangsThoughts": "Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien. By Operation BULLDOG the Cauldron-Born made up a large proportion of the heavy 'Mechs of the rebuilding Smoke Jaguars, and following their Annihilation the design proliferated through the remaining Clans. The E configuration is equipped with an ATM 12 launcher, a HAG 20, an ER Medium Laser and a Large Pulse Laser. "
+  "YangsThoughts": "Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien. By Operation BULLDOG the Ebon Jaguar made up a large proportion of the heavy 'Mechs of the rebuilding Smoke Jaguars, and following their Annihilation the design proliferated through the remaining Clans. The E configuration is equipped with an ATM 12 launcher, a HAG 20, an ER Medium Laser and a Large Pulse Laser. "
 }

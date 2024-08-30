@@ -9,6 +9,9 @@
 			"unit_rarity_2",
 			"unit_range_medium",
 			"unit_speed_high",
+			"Cameron",
+			"StarGuardCorps",
+			"ICorps",
 			"ComStar",
 			"2ndArmyVMu",
 			"11thArmyVEta",
@@ -21,9 +24,12 @@
 			"CWEpsilonGalaxy",
 			"CGSOmegaGalaxy",
 			"ScorpionEmpire",
+			"ClanFireMandrill",
+			"KindraaSainze",
+			"KindraaFaradayTanaga",
+			"KindraaMickKreese",
 			"DarkCaste",
 			"331stDivision",
-			"RimWorldsRepublic",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""

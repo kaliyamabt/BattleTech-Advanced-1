@@ -197,6 +197,28 @@
 				"InventorySorter": "9",
 				"Sorter": 1000
 			}
+		},
+		{
+			"Name": "CoolantPod",
+			"displayName": "Coolant Pod",
+			"DefaultCustoms": {
+				"InventorySorter": "10",
+				"Sorter": 1000
+			}
+		},
+		{
+			"Name": "RadicalHS",
+			"displayName": "Radical Heat Sink System",
+			"BaseLimits": [
+				{
+				  "Min": 0,
+				  "Max": 1
+				}
+			],
+			"DefaultCustoms": {
+				"InventorySorter": "11",
+				"Sorter": 1000
+			}
 		}
 	]
 }

@@ -35,7 +35,7 @@
 					"Description": {
 						"Id": "continue1",
 						"Name": "MercNews Broadcast",
-						"Details": "Continuing their assault on Lyran holdings, the Turkina Keshik and the Third Falcon Swoop swiftly defeated the mercenary Grave Walkers unit on [[DM.BaseDescriptionDefs[LoreKookens],Kooken's Pleasure Pit]]. Although an important center of economic activity for the [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]], with a bustling tourism and pleasure industry, it is unclear what the typically stoic and reserved Clanners stood to gain by taking the world. Likewise, the strategically unimportant world of Newtown Square fell to a mere trio of Falcon clusters as the battered Fourth Donegal Guards under Leutnant-General [[DM.BaseDescriptionDefs[LoreAdamSteiner],Adam Steiner]] retreated before the meticulous Clanner assault.",
+						"Details": "Continuing their assault on Lyran holdings, the Turkina Keshik and the Third Falcon Swoop swiftly defeated the mercenary units on [[DM.BaseDescriptionDefs[LoreKookens],Kooken's Pleasure Pit]]. Although an important center of economic activity for the [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]], with a bustling tourism and pleasure industry, it is unclear what the typically stoic and reserved Clanners stood to gain by taking the world.",
 						"Icon": ""
 					},
 					"Weight": 100,
@@ -54,15 +54,9 @@
 									"WIIC_ClanJadeFalcon_attacks_starsystemdef_KookensPleasurePit",
 									"WIIC_set_starsystemdef_KookensPleasurePit_defender_strength_15",
 									"WIIC_set_starsystemdef_KookensPleasurePit_attacker_strength_30",
-									"WIIC_ClanJadeFalcon_attacks_starsystemdef_NewtownSquare",
-									"WIIC_set_starsystemdef_NewtownSquare_defender_strength_25",
-									"WIIC_set_starsystemdef_NewtownSquare_attacker_strength_40",
 									"WIIC_ClanJadeFalcon_attacks_starsystemdef_Adelaide",
 									"WIIC_ClanJadeFalcon_attacks_starsystemdef_BlueHole",
-									"WIIC_ClanJadeFalcon_attacks_starsystemdef_Chapultepec",
 									"WIIC_ClanJadeFalcon_attacks_starsystemdef_Crimond",
-									"WIIC_ClanJadeFalcon_attacks_starsystemdef_Machida",
-									"WIIC_ClanJadeFalcon_attacks_starsystemdef_Medellin",
 									"WIIC_ClanJadeFalcon_attacks_starsystemdef_Rasalgethi"
 								],
 								"tagSetSourceFile": ""

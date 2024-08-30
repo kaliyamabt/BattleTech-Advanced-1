@@ -14,10 +14,15 @@
 		"AuriganRestoration",
 		"Liao",
 		"TaurianConcordat",
+		"Outworld",
 		"Locals"
 	],
 	"Enemies": [
 		"Marik",
+		"Cameron",
+		"ComStar",
+		"WordOfBlake",
+		"Circinus",
 		"Marian",
 		"Mercenaries",
 		"Locals",

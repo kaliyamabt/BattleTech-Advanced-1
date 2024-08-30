@@ -9,6 +9,10 @@
 			"unit_lance_tank",
 			"unit_role_flanker",
 			"unit_role_sniper",
+			"ClanFireMandrill",
+			"KindraaSainze",
+			"KindraaFaradayTanaga",
+			"KindraaMickKreese",
 			"CGBThetaGalaxy",
 			"CSRDeltaGalaxy",
 			"CJFIotaGalaxy",
@@ -113,7 +117,7 @@
 	"inventory": [
 		{
 			"MountedLocation": "CenterTorso",
-			"ComponentDefID": "emod_armorslots_standard",
+			"ComponentDefID": "emod_armorslots_clstandard",
 			"ComponentDefType": "Upgrade",
 			"HardpointSlot": -1,
 			"DamageLevel": "Functional",

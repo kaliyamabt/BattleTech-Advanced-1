@@ -2,13 +2,12 @@
 	"ID": "faction_ComStar",
 	"Name": "ComStar",
 	"ShortName": "ComStar",
-	"Description": "ComStar, the institution and religion, grew out of the Star League Department of Communications, as reenvisioned by Jerome Blake, Minister of Communications. ComStar is transnational, beholden to none of the Successor States, and its priesthood exclusively controls access to the only means of faster-than-light communications, the HyperPulse Generators. ComStar facilities and personnel are sacrosanct, a status enforced aggressively by the institution; offending states-even entire Successor States-can find themselves cut off from the rest of the Inner Sphere, unable to communicate or trade. The current head of ComStar is Primus Sharilar Mori.",
+	"Description": "ComStar, the institution and religion, grew out of the Star League Department of Communications, as reenvisioned by Jerome Blake, Minister of Communications. ComStar is transnational, beholden to none of the Successor States, and its priesthood exclusively controls access to the only means of faster-than-light communications, the HyperPulse Generators. ComStar facilities and personnel are sacrosanct, a status enforced aggressively by the institution; offending states-even entire Successor States-can find themselves cut off from the rest of the Inner Sphere, unable to communicate or trade. The current head of ComStar is Primus Gardner Riis.",
 	"Demonym": "ComStar",
 	"Government": "Corporation",
 	"Allies": [
 		"21stCentauriLancers",
-		"Kurita",
-		"Davion",
+		"Cameron",
 		"Rasalhague",
 		"AuriganRestoration",
 		"Locals"
@@ -17,15 +16,18 @@
 		"Steiner",
 		"Marik",
 		"Liao",
+		"Kurita",
+		"Davion",
 		"WordOfBlake",
 		"ClanWolf",
 		"ClanJadeFalcon",
 		"ClanGhostBear",
 		"ClanSnowRaven",
+		"ClanGoliathScorpion",
+		"ClanFireMandrill",
 		"Mercenaries",
 		"Locals",
-		"AuriganDirectorate",
-		"RimWorldsRepublic"
+		"AuriganDirectorate"
 	],
 	"Presence": 0.1,
 	"ReputationStatements": [
@@ -35,7 +37,7 @@
 		"Even ComStar occasionally requires the services of mercenaries, Commander. We will look highly upon you, should you aid us.",
 		"You have served us well thus far, Commander, and I hope that this is the start of a blessed relationship. We have another contract for you today, one appropriate to your skills.",
 		"With friends such as you, Commander, ComStar's future is bright, even in this dangerous times. We have a contract for you and I pray you consider it, for we could dearly use your aid this day.",
-		"Blake's light shines on you today, honored friend. The Primus herself has decreed that this contract is to be yours, as shall be the commsurate rewards for its completion."
+		"Blake's light shines on you today, honored friend. The Primus himself has decreed that this contract is to be yours, as shall be the commsurate rewards for its completion."
 	],
 	"MissionSuccessStatements": [
 		"ComStar congratulates you on your successful mission, mercenary. We are pleased you've been able to assist us so thoroughly."

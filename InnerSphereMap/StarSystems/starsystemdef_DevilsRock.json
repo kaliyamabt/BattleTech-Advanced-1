@@ -24,7 +24,7 @@
 			"planet_other_comstar",
 			"planet_other_hub",
 			"planet_other_blackmarket",
-			"planet_faction_marik"
+			"planet_faction_cameron"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -42,7 +42,7 @@
 	},
 	"FuelingStation": true,
 	"JumpDistance": 6,
-	"ownerID": "Marik",
+	"ownerID": "Cameron",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -128,13 +128,13 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_Marik",
+		"itemCollection_major_Cameron",
 		"itemCollection_shop_chemicalsProgression",
 		"itemCollection_shop_miningProgression"
 	],
-	"factionShopOwnerID": "Marik",
+	"factionShopOwnerID": "Cameron",
 	"FactionShopItems": [
-		"itemCollection_faction_Marik"
+		"itemCollection_faction_Cameron"
 	],
 	"BlackMarketShopItems": [
 		"itemCollection_faction_AuriganPirates"
@@ -149,17 +149,17 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Marik",
-		"WordOfBlake",
+		"Cameron",
+		"ComStar",
 		"Locals"
 	],
 	"contractTargetIDs": [
 		"Steiner",
+		"Marik",
+		"Kurita",
+		"Davion",
 		"Liao",
-		"ComStar",
-		"MagistracyOfCanopus",
-		"Marian",
-		"Circinus",
+		"Locals",
 		"Mercenaries",
 		"AuriganPirates"
 	]

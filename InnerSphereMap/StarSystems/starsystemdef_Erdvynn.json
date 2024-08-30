@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_Erdvynn",
 		"Name": "Erdvynn",
-		"Details": "Erdvynn was settled during the Star League era at some point after the end of the Reunification War but died out during the fighting in the Succession Wars.",
+		"Details": "Erdvynn was settled during the Star League era and formed the capital world of the Rim Worlds Republic's Erdvynn Province. When the RWR contracted during the Succession Wars, Erdvynn was abandoned. Before abandonment, it was home to a small Diplass Technologies BattleMech factory and was a comfortable world with a large population. Now, it serves as the capital world for the Fire Mandrill Homeworlds, a new realm established by Clan Fire Mandrill when they arrived in the Inner Sphere.",
 		"Icon": ""
 	},
 	"Position": {
@@ -15,19 +15,26 @@
 			"planet_name_erdvynn",
 			"planet_size_large",
 			"planet_climate_water",
-			"planet_pop_none",
-			"planet_civ_primitive",
+			"planet_pop_small",
+			"planet_civ_periphery",
 			"planet_industry_poor",
+			"planet_other_capital",
 			"planet_other_pirate",
 			"planet_other_ruins",
-			"planet_faction_nofaction",
-			"planet_other_empty"
+			"planet_faction_nofaction"
 		],
 		"tagSetSourceFile": ""
 	},
 	"SupportedBiomes": [
+		"highlandsSpring",
+		"highlandsFall",
+		"lowlandsSpring",
+		"lowlandsFall",
 		"lowlandsCoastal",
-		"highlandsSpring"
+		"polarFrozen",
+		"tundraFrozen",
+		"badlandsParched",
+		"desertParched"
 	],
 	"MapRequiredTags": {
 		"items": [],
@@ -140,7 +147,7 @@
 		"CAREER",
 		"NONE"
 	],
-	"DefaultDifficulty": 4,
+	"DefaultDifficulty": 10,
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [],

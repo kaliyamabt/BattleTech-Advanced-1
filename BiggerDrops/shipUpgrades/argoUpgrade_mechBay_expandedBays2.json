@@ -1,0 +1,58 @@
+{
+	"Description": {
+		"Cost": 0,
+		"Rarity": 0,
+		"Purchasable": true,
+		"UIName": "",
+		"Id": "argoUpgrade_mechBay_expandedBays2",
+		"Name": "Third Set of Mech Bays",
+		"Details": "Increases the company's ability to store mechs by enabling the Mech Bay 3 tab to actually store mechs.\r\n\r\n <b><color=#e93a2d>WITHOUT THIS UPGRADE, MECH BAY 3 DOES NOT HOLD MECHS EVEN THOUGH YOU CAN LOOK AT MECH BAY 3. YOU REQUIRE THIS UPGRADE FOR MECH BAY 3 TO FUNCTION!!</color></b>",
+		"Icon": "uixSvgIcon_shipUpgrade_mechbay3"
+	},
+	"Illustration": "uixTxrSpot_YangWorking",
+	"Location": "UNKNOWN",
+	"shipUpgradeCategoryID": "BDDropTonnage",
+	"AssignedCastDefId": "castDef_YangDefault",
+	"AssignedCastDescription": "We've got even more space hiding in the back of the mech lab! Gimme the word and I'll get it configured for use, Commander!",
+	"RequiredModules": {
+		"items": [
+			"argoUpgrade_mechBay3",
+            "argoUpgrade_power3",
+			"argoUpgrade_structure2",
+			"argoUpgrade_mechBay_expandedBays1"
+		],
+		"tagSetSourceFile": ""
+	},
+	"Requirements": [],
+	"TechCost" : 55,
+    "PurchaseCost" : 7250000,
+    "AdditionalCost" : 150000,
+	"Tags": {
+		"items": [
+			"argo_mechBay_expandedBays2"
+		],
+		"tagSetSourceFile": ""
+	},
+	"Stats": [
+		{
+			"typeString": "System.Int32",
+            "name": "MechBayPods",
+            "value": 9,
+            "set": true,
+            "valueConstant": ""
+		},
+		{
+            "typeString": "System.Int32",
+            "name": "MechBayPods_Display",
+            "value": 54,
+            "set": true,
+            "valueConstant": ""
+        },
+ 		{
+			"typeString" : "System.Int32",
+			"name" : "MechTechSkill",
+			"value" : 4,
+			"valueConstant" : ""
+		} 
+	]
+}

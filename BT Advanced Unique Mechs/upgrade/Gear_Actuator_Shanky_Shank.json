@@ -149,8 +149,8 @@
 			"effectType": "StatisticEffect",
 			"Description": {
 				"Id": "StatusEffect-BladeBaseDamage",
-				"Name": "Retractable Blade Base Damage",
-				"Details": "Retractable Blades do 5 damage per 10 tons of the mech.",
+				"Name": "Shank Base Damage",
+				"Details": "Shanks do 5 damage and stab damage per 10 tons of the mech, have a +2 accuracy on their attacks, and hit +1 times during a physical weapon attack.",
 				"Icon": "broadsword"
 			},
 			"nature": "Buff",
@@ -176,13 +176,13 @@
 				"forcePathRebuild": false,
 				"forceVisRebuild": false,
 				"showInTargetPreview": false,
-				"showInStatusPanel": true
+				"showInStatusPanel": false
 			},
 			"effectType": "StatisticEffect",
 			"Description": {
 				"Id": "StatusEffect-BladeBaseStabDamage",
-				"Name": "Retractable Blade Base Stab Damage",
-				"Details": "Retractable Blades do 5 stab damage per 10 tons of the mech.",
+				"Name": "Shank Base Stab Damage",
+				"Details": "Shanks do 5 stab damage per 10 tons of the mech.",
 				"Icon": "broadsword"
 			},
 			"nature": "Buff",
@@ -208,13 +208,13 @@
 				"forcePathRebuild": false,
 				"forceVisRebuild": false,
 				"showInTargetPreview": false,
-				"showInStatusPanel": true
+				"showInStatusPanel": false
 			},
 			"effectType": "StatisticEffect",
 			"Description": {
 				"Id": "StatusEffect-BladeBaseAcc",
-				"Name": "Retractable Blade Base Accuracy",
-				"Details": "Retractable Blade gain +2 accuracy on their attacks.",
+				"Name": "Shank Base Accuracy",
+				"Details": "Shanks gain +2 accuracy on their attacks.",
 				"Icon": "broadsword"
 			},
 			"nature": "Buff",
@@ -240,13 +240,13 @@
 				"forcePathRebuild": false,
 				"forceVisRebuild": false,
 				"showInTargetPreview": false,
-				"showInStatusPanel": true
+				"showInStatusPanel": false
 			},
 			"effectType": "StatisticEffect",
 			"Description": {
 				"Id": "StatusEffect-BladeMultiHit",
-				"Name": "Retractable Blade Multiple Hits",
-				"Details": "Retractable Blades stab rapidly during combat, hitting an extra time on each melee attack.",
+				"Name": "Shank Multiple Hits",
+				"Details": "Shanks stab rapidly during combat, hitting an extra time on each melee attack.",
 				"Icon": "broadsword"
 			},
 			"nature": "Buff",

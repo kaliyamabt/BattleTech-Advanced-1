@@ -62,7 +62,13 @@
 									"WIIC_set_starsystemdef_NewGascony_attacker_strength_30",
 									"WIIC_BandOfTheDamned_attacks_starsystemdef_NewPortRoyal",
 									"WIIC_set_starsystemdef_NewPortRoyal_defender_strength_20",
-									"WIIC_set_starsystemdef_NewPortRoyal_attacker_strength_30"
+									"WIIC_set_starsystemdef_NewPortRoyal_attacker_strength_30",
+									"WIIC_give_starsystemdef_TortugaPrime_to_Tortuga_on_attacker_win",
+									"WIIC_give_starsystemdef_FletchersFeast_to_Tortuga_on_attacker_win",
+									"WIIC_give_starsystemdef_MorgansHoldfast_to_Tortuga_on_attacker_win",
+									"WIIC_give_starsystemdef_NewHaiti(NewHati)_to_Tortuga_on_attacker_win",
+									"WIIC_give_starsystemdef_NewGascony_to_Tortuga_on_attacker_win",
+									"WIIC_give_starsystemdef_NewPortRoyal_to_Tortuga_on_attacker_win"
 								],
 								"tagSetSourceFile": ""
 							},

@@ -17,7 +17,9 @@
 			"TaurianConcordat",
 			"TaurianGuard",
 			"PleiadesHussars",
-			"Rim",
+			"RimWorldsRepublic",
+			"1stHeliusLegionnaires",
+			"8thHeliusFusiliers",
 			"Hanse",
 			"Outworld",
 			"ThermoPolice",
@@ -60,6 +62,11 @@
 			"JacobsJuggernauts",
 			"LindonsBattalion",
 			"GrimDetermination",
+			"FightingUrukhai",
+			"RaymondsRedcoats",
+			"12thStarGuards",
+			"RedfieldRenegades",
+			"LexingtonCombatGroup",
 			"ToothOfYmir",
 			"KnightsOfCaerbannog",
 			"HostileMercenaries",
@@ -94,6 +101,7 @@
 			"IrukjandiCompany",
 			"AntianLanciarii",
 			"BlackCaravel",
+			"BlackSharks",
 			"SarnaSupremacy",
 			"SaiphTriumvirate",
 			"TerracapConfederation",
@@ -196,15 +204,6 @@
 		}
 	],
 	"inventory": [
-		{
-			"MountedLocation": "CenterTorso",
-			"ComponentDefID": "emod_armorslots_standard",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"prefabName": "",
-			"hasPrefabName": true
-		},
 		{
 			"MountedLocation": "Head",
 			"ComponentDefID": "Gear_Cockpit_Generic_Standard",

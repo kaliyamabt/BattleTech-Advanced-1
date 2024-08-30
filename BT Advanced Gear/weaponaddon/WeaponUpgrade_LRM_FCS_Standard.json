@@ -9,8 +9,7 @@
 			"Id": "BASE",
 			"UIName": "FCS",
 			"Name": "FCS",
-			"EvasivePipsIgnored": 1,
-			"AccuracyModifier": -2.0
+			"AccuracyModifier": -1.0
 		}
 	]
 }

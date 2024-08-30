@@ -163,6 +163,7 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
+		"AuriganPirates",
 		"Marik",
 		"WordOfBlake",
 		"Locals"
@@ -170,6 +171,7 @@
 	"contractTargetIDs": [
 		"Steiner",
 		"Liao",
+		"Cameron",
 		"ComStar",
 		"MagistracyOfCanopus",
 		"Marian",

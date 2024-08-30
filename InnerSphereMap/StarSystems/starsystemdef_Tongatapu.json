@@ -21,7 +21,8 @@
 			"planet_civ_innersphere",
 			"planet_industry_rich",
 			"planet_industry_mining",
-			"planet_faction_marik"
+			"planet_faction_marik",
+			"planet_factory"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -151,6 +152,7 @@
 	"contractTargetIDs": [
 		"Steiner",
 		"Liao",
+		"Cameron",
 		"ComStar",
 		"MagistracyOfCanopus",
 		"Marian",

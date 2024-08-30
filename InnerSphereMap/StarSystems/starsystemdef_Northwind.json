@@ -30,7 +30,7 @@
 			"planet_other_starleague",
 			"planet_other_hub",
 			"planet_factory",
-			"planet_faction_locals"
+			"planet_faction_cameron"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -55,7 +55,7 @@
 	},
 	"FuelingStation": true,
 	"JumpDistance": 12,
-	"ownerID": "Locals",
+	"ownerID": "Cameron",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -142,10 +142,13 @@
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
 		"itemCollection_shop_industrial",
-		"itemCollection_shop_research"
+		"itemCollection_shop_research",
+		"itemCollection_major_Cameron"
 	],
-	"factionShopOwnerID": "Locals",
-	"FactionShopItems": [],
+	"factionShopOwnerID": "Cameron",
+	"FactionShopItems": [
+		"itemCollection_faction_Cameron"
+	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_Northwind",
 	"StartingSystemModes": [
@@ -157,24 +160,17 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Locals",
-		"Steiner",
-		"Davion",
-		"Liao",
-		"Kurita",
-		"Marik",
+		"Cameron",
 		"ComStar",
-		"WordOfBlake",
-		"AuriganPirates"
+		"Locals"
 	],
 	"contractTargetIDs": [
 		"Steiner",
+		"Marik",
+		"Kurita",
 		"Davion",
 		"Liao",
-		"Kurita",
-		"Marik",
-		"ComStar",
-		"WordOfBlake",
+		"Locals",
 		"Mercenaries",
 		"AuriganPirates"
 	]

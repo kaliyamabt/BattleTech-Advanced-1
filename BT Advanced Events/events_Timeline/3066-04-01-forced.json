@@ -66,10 +66,10 @@
 									"WIIC_give_starsystemdef_Novgorod_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Kampen_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Bruges_to_ScorpionEmpire",
-									"WIIC_give_starsystemdef_Koeningsberg_to_ScorpionEmpire",
+									"WIIC_give_starsystemdef_Köningsberg_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Braunschweig_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Tomalov_to_ScorpionEmpire",
-									"WIIC_give_starsystemdef_Luebeck_to_ScorpionEmpire",
+									"WIIC_give_starsystemdef_Lübeck_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Dorpat_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Riga_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Kalmar(HL)_to_ScorpionEmpire",
@@ -82,13 +82,14 @@
 									"WIIC_give_starsystemdef_Lynn_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Goslar_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Stralsund_to_ScorpionEmpire",
-									"WIIC_give_starsystemdef_Koeln(HL)_to_ScorpionEmpire",
+									"WIIC_give_starsystemdef_Köln(HL)_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Anklan_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Visby_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Bergen_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Greifswald_to_ScorpionEmpire",
 									"WIIC_give_starsystemdef_Gateway_to_ScorpionEmpire",
-									"WIIC_give_starsystemdef_Thorn_to_ScorpionEmpire"
+									"WIIC_give_starsystemdef_Thorn_to_ScorpionEmpire",
+									"WIIC_give_starsystemdef_Elbing(HL)_to_ScorpionEmpire"
 								],
 								"tagSetSourceFile": ""
 							},
@@ -98,15 +99,7 @@
 							},
 							"Stats": null,
 							"Actions": null,
-							"ForceEvents": [
-								{
-									"Scope": "Company",
-									"EventID": "3066-04-01-forced",
-									"MinDaysWait": 70,
-									"MaxDaysWait": 70,
-									"Probability": 100
-								}
-							],
+							"ForceEvents": [],
 							"TemporaryResult": false,
 							"ResultDuration": 0
 						}

@@ -144,7 +144,8 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Locals"
+		"Locals",
+		"ClanGoliathScorpion"
 	],
 	"contractTargetIDs": [
 		"Castile",

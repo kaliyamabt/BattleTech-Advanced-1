@@ -39,12 +39,102 @@
 			}
 		}
 	},
+	"StatusEffect_ViralJammer-VRPP-Jamming": {
+		"TargetCollectionsForSearch": {
+			"Component": {
+				"MustMatchAll": false,
+				"TargetCollectionTagMatch": [
+					"VRPP"
+				]
+			}
+		}
+	},
+	"StatusEffect_ViralJammer-Allies-VRPP-Jamming": {
+		"TargetCollectionsForSearch": {
+			"Component": {
+				"MustMatchAll": false,
+				"TargetCollectionTagMatch": [
+					"VRPP"
+				]
+			}
+		}
+	},
+	"StatusEffect_ViralJammer-Creator-VRPP-Jamming": {
+		"TargetCollectionsForSearch": {
+			"Component": {
+				"MustMatchAll": false,
+				"TargetCollectionTagMatch": [
+					"VRPP"
+				]
+			}
+		}
+	},
 	"StatusEffect_Weather-VRPP-Jamming": {
 		"TargetCollectionsForSearch": {
 			"Component": {
 				"MustMatchAll": false,
 				"TargetCollectionTagMatch": [
 					"VRPP"
+				]
+			}
+		}
+	},
+	"LeagueNet_Focal_Interference": {
+		"TargetCollectionsForSearch": {
+			"Component": {
+				"MustMatchAll": false,
+				"TargetCollectionTagMatch": [
+					"LeagueNetFocalNode"
+				]
+			}
+		}
+	},
+	"LeagueNet_Focal_Interference_Melee": {
+		"TargetCollectionsForSearch": {
+			"Component": {
+				"MustMatchAll": false,
+				"TargetCollectionTagMatch": [
+					"LeagueNetFocalNode"
+				]
+			}
+		}
+	},
+	"LeagueNet_Support_Accuracy": {
+		"TargetCollectionsForSearch": {
+			"Component": {
+				"MustMatchAll": false,
+				"TargetCollectionTagMatch": [
+					"LeagueNetFocalNode"
+				]
+			}
+		}
+	},
+	"LeagueNet_Support_CalledShot": {
+		"TargetCollectionsForSearch": {
+			"Component": {
+				"MustMatchAll": false,
+				"TargetCollectionTagMatch": [
+					"LeagueNetFocalNode"
+				]
+			}
+		}
+	},
+	"LeagueNet_Support_DmgReduction": {
+		"TargetCollectionsForSearch": {
+			"Component": {
+				"MustMatchAll": false,
+				"TargetCollectionTagMatch": [
+					"LeagueNetFocalNode"
+				]
+			}
+		}
+	},
+	"LeagueNet_Support_Speed": {
+		"TargetCollectionsForSearch": {
+			"Component": {
+				"MustMatchAll": false,
+				"TargetCollectionTagMatch": [
+					"LeagueNetFocalNode"
 				]
 			}
 		}

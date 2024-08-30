@@ -6,7 +6,7 @@
 		"Icon": "uixTxrSpot_wulf_CatHoliday.png"
 	},
 	"Scope": "Company",
-	"Weight": 10000,
+	"Weight": 0,
 	"Requirements": {
 		"Scope": "Company",
 		"RequirementTags": {
@@ -15,7 +15,9 @@
 		},
 		"ExclusionTags": {
 			"tagSetSourceFile": "",
-			"items": []
+			"items": [
+				"had_catholiday"
+			]
 		},
 		"RequirementComparisons": []
 	},
@@ -70,7 +72,9 @@
 							"Requirements": null,
 							"AddedTags": {
 								"tagSetSourceFile": "",
-								"items": []
+								"items": [
+									"had_catholiday"
+								]
 							},
 							"RemovedTags": {
 								"tagSetSourceFile": "",
@@ -154,7 +158,9 @@
 							"Requirements": null,
 							"AddedTags": {
 								"tagSetSourceFile": "",
-								"items": []
+								"items": [
+									"had_catholiday"
+								]
 							},
 							"RemovedTags": {
 								"tagSetSourceFile": "",
@@ -238,7 +244,9 @@
 							"Requirements": null,
 							"AddedTags": {
 								"tagSetSourceFile": "",
-								"items": []
+								"items": [
+									"had_catholiday"
+								]
 							},
 							"RemovedTags": {
 								"tagSetSourceFile": "",

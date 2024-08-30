@@ -54,7 +54,7 @@
 	"AlwaysIndirectVisuals": true,
 	"StatusEffectsPerHit": true,
 	"Description": {
-		"Cost": 100000,
+		"Cost": 300000,
 		"Rarity": 0,
 		"Purchasable": true,
 		"Manufacturer": "Sanctuary Engineering",

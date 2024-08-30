@@ -334,13 +334,13 @@
 			"Bonus": "ActivateHeatLevel",
 			"Short": "{0} Heat Activated",
 			"Long": "{0} Heat Activated",
-			"Full": "Activates above {0} Heat"
+			"Full": "Automatically activates above the {0} point on the heat bar."
 		},
 		{
 			"Bonus": "DeActivateHeatLevel",
 			"Short": "{0} Heat Deactivated",
 			"Long": "{0} Heat Deactivated",
-			"Full": "Deactivates below {0} Heat"
+			"Full": "Automatically deactivates below the {0} point on the heat bar"
 		},
 		{
 			"Bonus": "FailChance",
@@ -718,19 +718,19 @@
 			"Bonus": "ProtoLAMS",
 			"Short": "ProtoLAMS",
 			"Long": "Prototype LAMS",
-			"Full": "Prototype Laser Anti Missile System does not require Ammo but generates more Heat and will intercept Missiles fired at ANY Lance Member within Range"
+			"Full": "Prototype Laser Anti Missile System does not require Ammo but generates more Heat and will intercept Missiles fired at ANY player unit within Range"
 		},
 		{
 			"Bonus": "AdvAMS",
 			"Short": "AdvAMS",
 			"Long": "Advanced AMS",
-			"Full": "Advanced Anti Missile System will intercept Missiles fired at ANY Lance Member within Range"
+			"Full": "Advanced Anti Missile System will intercept Missiles fired at ANY player unit within Range"
 		},
 		{
 			"Bonus": "AdvLAMS",
 			"Short": "AdvLAMS",
 			"Long": "Advanced LAMS",
-			"Full": "Advanced Laser Anti Missile System will intercept Missiles fired at ANY Lance Member within Range"
+			"Full": "Advanced Laser Anti Missile System will intercept Missiles fired at ANY player unit within Range"
 		},
 		{
 			"Bonus": "AMSAcc",
@@ -1731,7 +1731,7 @@
 			"Bonus": "Tacticon",
 			"Short": "{0} Initiative",
 			"Long": "{0} Initiative",
-			"Full": "Battle Computer provides {0} Initiative for all Lance units"
+			"Full": "Battle Computer provides {0} Initiative for all player units."
 		},
 		{
 			"Bonus": "Sharer",
@@ -3345,13 +3345,13 @@
 			"Bonus": "LanceIndirectAcc",
 			"Short": "{0} Lance Indirect.Acc",
 			"Long": "{0} Lance Indirect Acc",
-			"Full": "{0} Lance Accuracy with Indirect Fire"
+			"Full": "{0} Player Unit Accuracy with Indirect Fire"
 		},
 		{
 			"Bonus": "LanceDirectAcc",
 			"Short": "{0} Lance Direct.Acc",
 			"Long": "{0} Lance Direct Acc",
-			"Full": "{0} Lance Accuracy with Direct Fire"
+			"Full": "{0} Player Unit Accuracy with Direct Fire"
 		},
 		{
 			"Bonus": "BallisticCrit",
@@ -3531,7 +3531,7 @@
 			"Bonus": "LanceResolve",
 			"Short": "{0} Lance Resolve",
 			"Long": "{0} Increased Lance Resolve",
-			"Full": "{0} increased Resolve gain for all Lance Members"
+			"Full": "{0} increased Resolve gain for all Player Units"
 		},
 		{
 			"Bonus": "IndividualResolve",
@@ -3543,7 +3543,7 @@
 			"Bonus": "LanceAcc",
 			"Short": "{0} Lance Accuracy",
 			"Long": "{0} Increased Lance Accuracy",
-			"Full": "{0} Accuracy for all Lance Members"
+			"Full": "{0} Accuracy for all Player Units"
 		},
 		{
 			"Bonus": "Health",
@@ -3555,13 +3555,13 @@
 			"Bonus": "LanceSensors",
 			"Short": "{0} Sensors",
 			"Long": "{0} Inc.Sensor Range",
-			"Full": "{0} increased Sensor Range for the Lance"
+			"Full": "{0} increased Sensor Range for Player Units"
 		},
 		{
 			"Bonus": "LanceSight",
 			"Short": "{0} Sight",
 			"Long": "{0} Inc.Sight Range",
-			"Full": "{0} increased Sight Range for the Lance"
+			"Full": "{0} increased Sight Range for Player Units"
 		},
 		{
 			"Bonus": "Sensors",
@@ -3591,7 +3591,7 @@
 			"Bonus": "LanceSight2",
 			"Short": "{0} Lance Sight",
 			"Long": "{0} Lance Sight",
-			"Full": "{0} Lance Base Sight Distance"
+			"Full": "{0} Player Unit Base Sight Distance"
 		},
 		{
 			"Bonus": "Visibility",
@@ -3903,7 +3903,7 @@
 			"Bonus": "JamExplode",
 			"Short": "JamExplode",
 			"Long": "JamExplode",
-			"Full": "When the weapon jams, it explodes, dealing damage equal to one shot from the weapon."
+			"Full": "When the weapon jams, it explodes, dealing damage to the carrying unit."
 		},
 		{
 			"Bonus": "DestroyOnJam",
@@ -5280,6 +5280,12 @@
 			"Full": "This weapon attachment adds a {0} accuracy bonus to the attached weapon."
 		},
 		{
+			"Bonus": "WeaponAttachmentIDFAccuracy",
+			"Short": "Weapon Attachment IDF Accuracy",
+			"Long": "Weapon Attachment Indirect Fire Accuracy",
+			"Full": "This weapon attachment adds a {0} accuracy bonus to the attached weapon when used for indirect fire only."
+		},
+		{
 			"Bonus": "WeaponAttachmentDamageMissile",
 			"Short": "Weapon Attachment Damage",
 			"Long": "Weapon Attachment Damage",
@@ -5470,6 +5476,12 @@
 			"Short": "Reverse Scaling",
 			"Long": "Reverse Damage Scaling",
 			"Full": "This weapon has variable damage modes that shift their range bands and increase damage and accuracy the further away the target is. The default mode is medium range, which is reflected in the MechBay. At short range it loses range in each range bracket and does {0} less damage and at a {1} accuracy penalty. At long range it does {2} more damage and has a {3} accuracy bonus."
+		},
+		{
+			"Bonus": "ViralJammer",
+			"Short": "Viral Jammer",
+			"Long": "Viral Jammer",
+			"Full": "The Viral Jammer is a powerful piece of e-war gear. It scrambles all distributed networks in its radius, friendly or enemy, including C3, C3i, and Sanctuary Drone Networks. It also scrambles the Virtual Reality Piloting Pod's controls (both friendly and enemy VRPPs) as well as providing the carrying unit immunity to Sensor Locks."
 		}
 	]
 }

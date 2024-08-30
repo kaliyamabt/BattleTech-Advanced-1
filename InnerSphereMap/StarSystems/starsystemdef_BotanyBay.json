@@ -23,10 +23,11 @@
 			"planet_feature_rings",
 			"planet_feature_moon01",
 			"planet_other_moon",
-			"planet_pop_none",
+			"planet_pop_small",
 			"planet_industry_mining",
+			"planet_other_blackmarket",
 			"planet_other_pirate",
-			"planet_faction_clanjadefalcon"
+			"planet_faction_rimworldsrepublic"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -44,7 +45,7 @@
 	},
 	"FuelingStation": false,
 	"JumpDistance": 8,
-	"ownerID": "ClanJadeFalcon",
+	"ownerID": "RimWorldsRepublic",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -130,13 +131,13 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_ClanWorlds",
+		"itemCollection_major_RimWorldsRepublic",
 		"itemCollection_shop_chemicalsProgression",
 		"itemCollection_shop_miningProgression"
 	],
-	"factionShopOwnerID": "ClanJadeFalcon",
+	"factionShopOwnerID": "RimWorldsRepublic",
 	"FactionShopItems": [
-		"itemCollection_faction_ClanWorlds"
+		"itemCollection_faction_RimWorldsRepublic"
 	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_BotanyBay",
@@ -149,16 +150,17 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Steiner",
-		"Marik",
-		"Kurita",
-		"Davion",
-		"Liao",
-		"WordOfBlake",
-		"ComStar",
-		"Rasalhague"
+		"RimWorldsRepublic",
+		"Locals"
 	],
 	"contractTargetIDs": [
-		"ClanJadeFalcon"
+		"Hanse",
+		"DarkCaste",
+		"AuriganPirates",
+		"Steiner",
+		"ClanWolf",
+		"ClanJadeFalcon",
+		"Mercenaries",
+		"Locals"
 	]
 }

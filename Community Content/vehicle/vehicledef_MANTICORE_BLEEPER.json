@@ -64,6 +64,8 @@
 			"HouseKhulan",
 			"Wolfs_Dragoons",
 			"LoneStarRegiment",
+			"AblesAces",
+			"GraveWalkers",
 			"KnightsOfCaerbannog",
 			"GraysGhosts",
 			"BroadswordLegion",
@@ -71,6 +73,7 @@
 			"BountyHunterAssociates",
 			"BaumannGroup",
 			"BlackWidowCompany",
+			"MacksMercs",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""

@@ -641,7 +641,15 @@
 			"DisplayName": "Weapon Pod",
 			"DefaultCustoms": {
 				"Sorter": 1000,
-				"InventorySorter": "865"
+				"InventorySorter": "885"
+			}
+		},
+		{
+			"Name": "w/a/o/industrial",
+			"DisplayName": "Industrial Tool",
+			"DefaultCustoms": {
+				"Sorter": 1000,
+				"InventorySorter": "890"
 			}
 		},
 		{

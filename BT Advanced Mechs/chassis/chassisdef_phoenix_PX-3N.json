@@ -15,7 +15,7 @@
 		"UIName": "Phoenix",
 		"Id": "chassisdef_phoenix_PX-3N",
 		"Name": "Phoenix",
-		"Details": "Though the Phoenix fell with House Amaris, like the mythical bird it was reborn in the 3060s with the Rim Collection after its plans were discovered in a long-forgotten bunker. Among those plans were proposed upgrades to the design that never saw use. The Rim Collection analyzed the upgrades and decided to enact them, starting with the PX-3N, a simple Star League tech upgrade. Armed with an ER PPC and a quartet of Streak SRM-2s, the PX-3N proved adept if unimpressive, and took its place as the core of the Rim Collection's budding military force.",
+		"Details": "Though the Phoenix fell with House Amaris, like the mythical bird it was reborn in the 3060s when the Rim Worlds Republic resurrected the design. Among those plans were proposed upgrades to the design that never saw use. The Rim Collection analyzed the upgrades and decided to enact them, starting with the PX-3N, a simple Star League tech upgrade. Armed with an ER PPC and a quartet of Streak SRM-2s, the PX-3N proved adept if unimpressive, and took its place as the core medium 'Mech of the Rim Worlds Army.",
 		"Icon": "uixTxrIcon_phoenix"
 	},
 	"MovementCapDefID": "movedef_enforcer_ENF-4R",
@@ -215,7 +215,7 @@
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Early Skirmisher",
-	"YangsThoughts": "Though the Phoenix fell with House Amaris, like the mythical bird it was reborn in the 3060s with the Rim Collection after its plans were discovered in a long-forgotten bunker. Among those plans were proposed upgrades to the design that never saw use. The Rim Collection analyzed the upgrades and decided to enact them, starting with the PX-3N, a simple Star League tech upgrade. Armed with an ER PPC and a quartet of Streak SRM-2s, the PX-3N proved adept if unimpressive, and took its place as the core of the Rim Collection's budding military force.",
+	"YangsThoughts": "Though the Phoenix fell with House Amaris, like the mythical bird it was reborn in the 3060s when the Rim Worlds Republic resurrected the design. Among those plans were proposed upgrades to the design that never saw use. The Rim Collection analyzed the upgrades and decided to enact them, starting with the PX-3N, a simple Star League tech upgrade. Armed with an ER PPC and a quartet of Streak SRM-2s, the PX-3N proved adept if unimpressive, and took its place as the core medium 'Mech of the Rim Worlds Army.",
 	"FixedEquipment": [
 		{
 			"MountedLocation": "LeftTorso",

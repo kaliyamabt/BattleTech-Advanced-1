@@ -3,6 +3,9 @@
 		"Category": [
 			{
 				"CategoryID": "HeatSink"
+			},
+			{
+				"CategoryID": "CoolantPod"
 			}
 		],
 		"ComponentExplosion": {

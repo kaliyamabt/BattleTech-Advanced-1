@@ -1,4 +1,4 @@
-{
+ {
 	"MechTags": {
 		"items": [
 			"unit_release",
@@ -13,11 +13,12 @@
 			"unit_jumpOK",
 			"DarkCaste",
 			"331stDivision",
-			"RimWorldsRepublic",
 			"JarnFolk",
 			"Chainelane",
 			"Delphi",
-			"Rim",
+			"RimWorldsRepublic",
+			"8thHeliusFusiliers",
+			"RepublicanGuard",
 			"Marian",
 			"VLegioRipariensis",
 			"CohorsMorituri",
@@ -88,6 +89,11 @@
 			"JacobsJuggernauts",
 			"LindonsBattalion",
 			"GrimDetermination",
+			"FightingUrukhai",
+			"RaymondsRedcoats",
+			"12thStarGuards",
+			"RedfieldRenegades",
+			"LexingtonCombatGroup",
 			"ToothOfYmir",
 			"KnightsOfCaerbannog",
 			"HostileMercenaries",
@@ -122,6 +128,7 @@
 			"IrukjandiCompany",
 			"AntianLanciarii",
 			"BlackCaravel",
+			"BlackSharks",
 			"SarnaSupremacy",
 			"SaiphTriumvirate",
 			"TerracapConfederation",

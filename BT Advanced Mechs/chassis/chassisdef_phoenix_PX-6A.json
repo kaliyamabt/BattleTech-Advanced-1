@@ -15,7 +15,7 @@
 		"UIName": "Phoenix",
 		"Id": "chassisdef_phoenix_PX-6A",
 		"Name": "Phoenix",
-		"Details": "Long thought lost, the Phoenix has risen from the ashes like its namesake and once again soars under the banner of the Rim Worlds Republic and its newly returned master, Stefan Amaris the Usurper. The PX-4A is one of Amaris's new variants, developed to demonstrate his new weapon technologies, in this case the Death Ray. This absurdly powerful energy weapons is more than capable of instantly destroying anything smaller than the Phoenix and even poses a serious threat to larger 'Mechs. For backup the PX-6A mounts a trio of ER Small Lasers, though they're hardly necessary. 15 DHS barely manage to contain the Death Ray's power.",
+		"Details": "Long thought lost, the Phoenix has risen from the ashes like its namesake and once again soars under the banner of the Rim Worlds Republic. The PX-4A is a new variant, developed to demonstrate the RWR's new weapon technology, in this case the 'Death' Ray. This absurdly powerful energy weapon is more than capable of instantly destroying anything smaller than the Phoenix and even poses a serious threat to larger 'Mechs. For backup the PX-6A mounts a trio of ER Small Lasers, though they're hardly necessary. 15 DHS barely manage to contain the 'Death' Ray's power.",
 		"Icon": "uixTxrIcon_phoenix"
 	},
 	"MovementCapDefID": "movedef_enforcer_ENF-4R",
@@ -219,7 +219,7 @@
 		"tagSetSourceFile": ""
 	},
 	"StockRole": "Early Skirmisher",
-	"YangsThoughts": "Long thought lost, the Phoenix has risen from the ashes like its namesake and once again soars under the banner of the Rim Worlds Republic and its newly returned master, Stefan Amaris the Usurper. The PX-4A is one of Amaris's new variants, developed to demonstrate his new weapon technologies, in this case the Death Ray. This absurdly powerful energy weapons is more than capable of instantly destroying anything smaller than the Phoenix and even poses a serious threat to larger 'Mechs. For backup the PX-6A mounts a trio of ER Small Lasers, though they're hardly necessary. 15 DHS barely manage to contain the Death Ray's power.",
+	"YangsThoughts": "Long thought lost, the Phoenix has risen from the ashes like its namesake and once again soars under the banner of the Rim Worlds Republic. The PX-4A is a new variant, developed to demonstrate the RWR's new weapon technology, in this case the 'Death' Ray. This absurdly powerful energy weapon is more than capable of instantly destroying anything smaller than the Phoenix and even poses a serious threat to larger 'Mechs. For backup the PX-6A mounts a trio of ER Small Lasers, though they're hardly necessary. 15 DHS barely manage to contain the 'Death' Ray's power.",
 	"FixedEquipment": [
 		{
 			"MountedLocation": "LeftTorso",

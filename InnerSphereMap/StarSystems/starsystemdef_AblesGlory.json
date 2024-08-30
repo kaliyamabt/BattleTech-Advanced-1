@@ -23,7 +23,7 @@
 			"planet_industry_mining",
 			"planet_other_newcolony",
 			"planet_other_pirate",
-			"planet_faction_rim"
+			"planet_faction_nofaction"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -41,7 +41,7 @@
 	},
 	"FuelingStation": false,
 	"JumpDistance": 12,
-	"ownerID": "Rim",
+	"ownerID": "NoFaction",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -127,12 +127,12 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_Rim",
+		"itemCollection_major_TaurianConcordat",
 		"itemCollection_shop_industrial"
 	],
-	"factionShopOwnerID": "Rim",
+	"factionShopOwnerID": "NoFaction",
 	"FactionShopItems": [
-		"itemCollection_faction_Rim"
+		"itemCollection_faction_TaurianConcordat"
 	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_AblesGlory",
@@ -144,19 +144,6 @@
 	"DefaultDifficulty": 5,
 	"DifficultyList": [],
 	"DifficultyModes": [],
-	"contractEmployerIDs": [
-		"Rim",
-		"Locals"
-	],
-	"contractTargetIDs": [
-		"Locals",
-		"Steiner",
-		"Marik",
-		"ComStar",
-		"Marian",
-		"Circinus",
-		"Hanse",
-		"Mercenaries",
-		"AuriganPirates"
-	]
+	"contractEmployerIDs": [],
+	"contractTargetIDs": []
 }

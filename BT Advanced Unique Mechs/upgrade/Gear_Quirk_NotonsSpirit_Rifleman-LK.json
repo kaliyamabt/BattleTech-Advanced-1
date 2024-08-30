@@ -21,14 +21,14 @@
 			}
 		},
 		"Flags": [
-				"default",
-				"not_broken",
-				"no_salvage",
-				"autorepair"
+			"default",
+			"not_broken",
+			"no_salvage",
+			"autorepair"
 		],
 		"BonusDescriptions": [
-				"NotonsSpirit"
-			]
+			"NotonsSpirit"
+		]
 	},
 	"StatName": null,
 	"RelativeModifier": 0,

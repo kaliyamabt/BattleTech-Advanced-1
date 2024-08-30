@@ -10,6 +10,7 @@
 			"unit_rarity_2",
 			"unit_royal",
 			"DarkCaste",
+			"MacksMercs",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""
@@ -43,19 +44,19 @@
 		{
 			"DamageLevel": "Functional",
 			"Location": "LeftArm",
-			"CurrentArmor": 125,
+			"CurrentArmor": 135,
 			"CurrentRearArmor": -1,
 			"CurrentInternalStructure": 70,
-			"AssignedArmor": 125,
+			"AssignedArmor": 135,
 			"AssignedRearArmor": -1
 		},
 		{
 			"DamageLevel": "Functional",
 			"Location": "LeftTorso",
-			"CurrentArmor": 145,
+			"CurrentArmor": 155,
 			"CurrentRearArmor": 45,
 			"CurrentInternalStructure": 90,
-			"AssignedArmor": 145,
+			"AssignedArmor": 155,
 			"AssignedRearArmor": 45
 		},
 		{
@@ -70,19 +71,19 @@
 		{
 			"DamageLevel": "Functional",
 			"Location": "RightTorso",
-			"CurrentArmor": 145,
+			"CurrentArmor": 155,
 			"CurrentRearArmor": 45,
 			"CurrentInternalStructure": 90,
-			"AssignedArmor": 145,
+			"AssignedArmor": 155,
 			"AssignedRearArmor": 45
 		},
 		{
 			"DamageLevel": "Functional",
 			"Location": "RightArm",
-			"CurrentArmor": 125,
+			"CurrentArmor": 135,
 			"CurrentRearArmor": -1,
 			"CurrentInternalStructure": 70,
-			"AssignedArmor": 125,
+			"AssignedArmor": 135,
 			"AssignedRearArmor": -1
 		},
 		{
@@ -416,17 +417,6 @@
 			"ComponentDefID": "Gear_HeatSink_Generic_Double_Clan",
 			"SimGameUID": null,
 			"ComponentDefType": "HeatSink",
-			"HardpointSlot": -1,
-			"GUID": null,
-			"DamageLevel": "Functional",
-			"prefabName": null,
-			"hasPrefabName": false
-		},
-		{
-			"MountedLocation": "CenterTorso",
-			"ComponentDefID": "Gear_BA_Handholds",
-			"SimGameUID": null,
-			"ComponentDefType": "Upgrade",
 			"HardpointSlot": -1,
 			"GUID": null,
 			"DamageLevel": "Functional",

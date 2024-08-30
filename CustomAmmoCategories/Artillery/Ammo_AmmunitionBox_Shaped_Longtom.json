@@ -34,7 +34,7 @@
 		"Model": "LongTom",
 		"UIName": "Ammo LongTom Seismic Charge",
 		"Id": "Ammo_AmmunitionBox_Shaped_Longtom",
-		"Name": "Shaped Charge LongTom Ammo",
+		"Name": "Seismic Charge LongTom Ammo",
 		"Details": "A concentrated Seismic Charge is used to destabilize hardened targets in a large radius. Upon receiving a Critical Hit, any remaining ammunition stored inside an Ammo Bin will explode dealing damage to the install location. Risk can be mitigated with the use of C.A.S.E. Has 3 shots.",
 		"Icon": "Art-illery-ammo"
 	},

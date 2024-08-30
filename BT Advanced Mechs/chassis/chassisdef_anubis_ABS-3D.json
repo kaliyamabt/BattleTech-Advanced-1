@@ -159,6 +159,10 @@
 				{
 					"Omni": false,
 					"WeaponMountID": "Energy"
+				},
+				{
+					"WeaponMountID": "AntiPersonnel",
+					"Omni": false
 				}
 			],
 			"Tonnage": 0,
@@ -186,6 +190,10 @@
 				{
 					"Omni": false,
 					"WeaponMountID": "Energy"
+				},
+				{
+					"WeaponMountID": "AntiPersonnel",
+					"Omni": false
 				}
 			],
 			"Tonnage": 0,

@@ -148,12 +148,14 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
+		"AuriganPirates",
 		"Kurita",
 		"Locals"
 	],
 	"contractTargetIDs": [
 		"Steiner",
 		"Davion",
+		"Cameron",
 		"ComStar",
 		"WordOfBlake",
 		"Outworld",

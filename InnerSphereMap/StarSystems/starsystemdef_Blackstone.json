@@ -20,7 +20,7 @@
 			"planet_industry_mining",
 			"planet_other_blackmarket",
 			"planet_other_pirate",
-			"planet_faction_clanwolf"
+			"planet_faction_rimworldsrepublic"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -38,7 +38,7 @@
 	},
 	"FuelingStation": false,
 	"JumpDistance": 10,
-	"ownerID": "ClanWolf",
+	"ownerID": "RimWorldsRepublic",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -124,13 +124,13 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_ClanWorlds",
+		"itemCollection_major_RimWorldsRepublic",
 		"itemCollection_shop_chemicalsProgression",
 		"itemCollection_shop_miningProgression"
 	],
-	"factionShopOwnerID": "ClanWolf",
+	"factionShopOwnerID": "RimWorldsRepublic",
 	"FactionShopItems": [
-		"itemCollection_faction_ClanWorlds"
+		"itemCollection_faction_RimWorldsRepublic"
 	],
 	"BlackMarketShopItems": [
 		"itemCollection_faction_AuriganPirates"
@@ -145,16 +145,17 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Steiner",
-		"Marik",
-		"Kurita",
-		"Davion",
-		"Liao",
-		"WordOfBlake",
-		"ComStar",
-		"Rasalhague"
+		"RimWorldsRepublic",
+		"Locals"
 	],
 	"contractTargetIDs": [
-		"ClanWolf"
+		"Hanse",
+		"DarkCaste",
+		"AuriganPirates",
+		"Steiner",
+		"ClanWolf",
+		"ClanJadeFalcon",
+		"Mercenaries",
+		"Locals"
 	]
 }

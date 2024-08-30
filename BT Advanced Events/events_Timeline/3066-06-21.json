@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "3066-06-21",
 		"Name": "MercNews Broadcast",
-		"Details": "WOB CLASHES WITH LYRAN GUARD ON KEID\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]:  In one of the [[DM.Factions[faction_WordOfBlake],Word of Blake's]] most overt moves in the [[DM.BaseDescriptionDefs[LoreChaosMarch],Chaos March]] to date, the Word has used the recently signed [[DM.BaseDescriptionDefs[LoreHPG],HPG]] contract with Keid's Duchess Arice Hunsen to consolidate their control over the entire world.  Almost immediately after landing in late 3065, Blakist mercenaries [[DM.BaseDescriptionDefs[LoreCliftonsRangers],Clifton's Rangers]] and [[DM.BaseDescriptionDefs[LoreHannibalsHermits],Hannibal's Hermits]] began clashing with the [[DM.BaseDescriptionDefs[LoreLyranGuard],Thirtieth Lyran Guard]], outmaneuvering and ambushing the heavier Lyran unit at every turn.  After months of combat, the Lyran Guard are retreating to their base for a final stand, but are calling for any reinforcements to aid in their defence.",
+		"Details": "WOB CLASHES WITH CAMERON GUARD ON KEID\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreTerranHegemony],Terran Hegemony]]:  In one of the [[DM.Factions[faction_WordOfBlake],Word of Blake's]] most overt moves in the Terran Hegemony to date, the Word has used the secretly signed contract with Keid's Duchess Arice Hunsen to attempt to seize control over the entire world.  Almost immediately after landing in early 3066, Blakist mercenaries [[DM.BaseDescriptionDefs[LoreCliftonsRangers],Clifton's Rangers]] and [[DM.BaseDescriptionDefs[LoreHannibalsHermits],Hannibal's Hermits]] began clashing with the [[DM.BaseDescriptionDefs[LoreCameronGuard],12th Cameron Guard]], outmaneuvering and ambushing the heavier Terran unit at every turn.  After months of combat, the Cameron Guard are retreating to their base for a final stand, but are calling for any reinforcements to aid in their defence.",
 		"Icon": "uixTxrSpot_ComputerScreen.png"
 	},
 	"Scope": "Company",
@@ -35,7 +35,7 @@
 					"Description": {
 						"Id": "continue1",
 						"Name": "MercNews Broadcast",
-						"Details": "FIGHTING ON ELGIN GRINDS ON\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreFedCom],Federated Commonwealth]]:  The various Barons with their House Guards and supporting mercenaries continue to squabble amongst themselves for overall control of the planet.  Meanwhile, the remaining pro-[[DM.BaseDescriptionDefs[LoreFedCom],Fedcom]] members of the [[DM.BaseDescriptionDefs[LoreRepublican],Fifth Republican Guard]] continue to hole up in and around the planet's largest city and spaceport, and all sides have contracts via the [[DM.BaseDescriptionDefs[LoreMRBC],MRBC]] to support their operations.  Due to the continuing instability, many believe the world is prime for intervention by either the [[DM.Factions[faction_WordOfBlake],Word of Blake]], the [[DM.Factions[faction_Liao],Capellan Confederation]], or the [[DM.BaseDescriptionDefs[LoreAMC],Allied Mercenary Command]].",
+						"Details": "FIGHTING ON ELGIN GRINDS ON\r\n\n\n[[DM.BaseDescriptionDefs[LoreOutreach],Outreach]], [[DM.BaseDescriptionDefs[LoreTerranHegemony],Terran Hegemony]]:  While Diem Jeffery Ling was apprehended months ago, his troops have continued the fight without him and have continued to field a surprisingly adept fighting force, leading to accusations of external backing. The [[DM.BaseDescriptionDefs[LoreAMC],Allied Mercenary Command]] has alleged that the [[DM.Factions[faction_WordOfBlake],Word of Blake]] is backing the pro-[[DM.Factions[faction_Marik],FWL]] rebels and has elected to send forces to Elgin to root out and put a stop to said Word of Blake involvement. The Word of Blake, notably, has neither confirmed nor denied these accusations.",
 						"Icon": ""
 					},
 					"Weight": 100,
@@ -45,14 +45,14 @@
 							"Requirements": null,
 							"AddedTags": {
 								"items": [
-									"WIIC_give_starsystemdef_Keid_to_Steiner",
-									"WIIC_give_starsystemdef_Elgin_to_Davion",
+									"WIIC_give_starsystemdef_Keid_to_Cameron",
+									"WIIC_give_starsystemdef_Elgin_to_Locals",
 									"WIIC_WordOfBlake_attacks_starsystemdef_Keid",
-									"WIIC_Locals_attacks_starsystemdef_Elgin",
+									"WIIC_Cameron_attacks_starsystemdef_Elgin",
 									"WIIC_set_starsystemdef_Keid_defender_strength_15",
-									"WIIC_set_starsystemdef_Keid_attacker_strength_30",
+									"WIIC_set_starsystemdef_Keid_attacker_strength_25",
 									"WIIC_set_starsystemdef_Elgin_defender_strength_20",
-									"WIIC_set_starsystemdef_Elgin_attacker_strength_20"
+									"WIIC_set_starsystemdef_Elgin_attacker_strength_30"
 								],
 								"tagSetSourceFile": ""
 							},

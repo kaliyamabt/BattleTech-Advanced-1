@@ -53,6 +53,7 @@
 	"distanceFactor": 85,
 	"aggression": {
 		"ClanNovaCat": 1.5,
+		"ClanFireMandrill": 1.75,
 		"Ives": 2.0
 	},
 	"hatred": {
@@ -131,7 +132,7 @@
 	"maxCountdown": 45,
 	"defaultAttackStrength": 20,
 	"defaultDefenseStrength": 15,
-	"strengthVariation": 10,
+	"strengthVariation": 6,
 	"attackStrength": {
 		"ClanWolf": 22,
 		"ClanJadeFalcon": 23,
@@ -140,7 +141,8 @@
 		"Marian": 22,
 		"Circinus": 21,
 		"WordOfBlake": 25,
-		"SanctuaryAlliance": 21
+		"SanctuaryAlliance": 21,
+		"Cameron": 26
 	},
 	"defenseStrength": {
 		"JarnFolk": 20,
@@ -153,6 +155,8 @@
 		"Outworld": 19,
 		"Ives": 21,
 		"WordOfBlake": 25,
+		"RimWorldsRepublic": 26,
+		"Cameron": 41,
 		"Illyrian": 20
 	},
 	"addStrengthTags": {

@@ -16,7 +16,8 @@
 			"PhysWeapStab: 0.5",
 			"PhysWeapAccuracy: -2",
 			"ChargeDamageBonus: +24%",
-			"LanceCrit"
+			"LanceCrit",
+			"WordsWords: Leave This Weapon Disabled!!"
 		],
 		"Flags": [
 			"default",
@@ -29,14 +30,14 @@
 	"Type": "MachineGun",
 	"WeaponSubType": "MachineGun",
 	"MinRange": 0,
-	"MaxRange": 0,
+	"MaxRange": 30,
 	"RangeSplit": [
 		0,
 		0,
 		0
 	],
-	"AmmoCategory": "NotSet",
-	"StartingAmmoCapacity": 0,
+	"AmmoCategory": "Flamer",
+	"StartingAmmoCapacity": 1,
 	"HeatGenerated": 0,
 	"Damage": 0,
 	"OverheatedDamageMultiplier": 0,
@@ -209,7 +210,7 @@
 				"forcePathRebuild": false,
 				"forceVisRebuild": false,
 				"showInTargetPreview": false,
-				"showInStatusPanel": true
+				"showInStatusPanel": false
 			},
 			"effectType": "StatisticEffect",
 			"Description": {
@@ -234,7 +235,7 @@
 			"targetingData": {
 				"effectTriggerType": "Passive",
 				"effectTargetType": "Creator",
-				"showInStatusPanel": true
+				"showInStatusPanel": false
 			},
 			"effectType": "StatisticEffect",
 			"Description": {
@@ -259,7 +260,7 @@
 			"targetingData": {
 				"effectTriggerType": "Passive",
 				"effectTargetType": "Creator",
-				"showInStatusPanel": true
+				"showInStatusPanel": false
 			},
 			"effectType": "StatisticEffect",
 			"Description": {

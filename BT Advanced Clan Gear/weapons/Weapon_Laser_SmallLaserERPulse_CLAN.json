@@ -53,7 +53,7 @@
 	"ColorSpeedChange": 1,
 	"ColorChangeRule": "Linear",
 	"TrooperSquadDamageModifier": 1.5,
-	"WeaponEffectID": "WeaponEffect-Weapon_LaserPulse_Small",
+	"WeaponEffectID": "WeaponEffect-Weapon_LaserER_Small",
 	"Description": {
 		"Cost": 381000,
 		"Rarity": 10,
@@ -88,6 +88,7 @@
 			"Id": "Pulse",
 			"UIName": "Pulse",
 			"isBaseMode": false,
+			"WeaponEffectID": "WeaponEffect-Weapon_LaserPulse_Small",
 			"DamagePerShot": 7,
 			"HeatGenerated": -5,
 			"EvasivePipsIgnored": 2,

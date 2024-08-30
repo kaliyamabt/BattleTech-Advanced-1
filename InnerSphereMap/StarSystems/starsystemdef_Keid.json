@@ -23,7 +23,7 @@
 			"planet_industry_agriculture",
 			"planet_industry_manufacturing",
 			"planet_other_comstar",
-			"planet_faction_wordofblake"
+			"planet_faction_cameron"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -47,7 +47,7 @@
 	},
 	"FuelingStation": true,
 	"JumpDistance": 7,
-	"ownerID": "WordOfBlake",
+	"ownerID": "Cameron",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -133,11 +133,11 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_WordOfBlake"
+		"itemCollection_major_Cameron"
 	],
-	"factionShopOwnerID": "WordOfBlake",
+	"factionShopOwnerID": "Cameron",
 	"FactionShopItems": [
-		"itemCollection_faction_WoB"
+		"itemCollection_faction_Cameron"
 	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_Keid",
@@ -150,16 +150,18 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"WordOfBlake",
+		"Cameron",
+		"ComStar",
 		"Locals"
 	],
 	"contractTargetIDs": [
 		"Steiner",
+		"Marik",
+		"Kurita",
 		"Davion",
 		"Liao",
-		"Kurita",
-		"ComStar",
+		"Locals",
 		"Mercenaries",
-		"Rasalhague"
+		"AuriganPirates"
 	]
 }

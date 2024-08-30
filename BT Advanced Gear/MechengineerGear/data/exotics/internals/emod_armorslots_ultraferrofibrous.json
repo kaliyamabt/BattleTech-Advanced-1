@@ -2,7 +2,7 @@
 	"Custom": {
 		"Color": "Gold",
 		"DynamicSlots": {
-			"ReservedSlots": 14,
+			"ReservedSlots": 17,
 			"BackgroundColor": "GoldHalf",
 			"ShowIcon": true,
 			"NameText": "Ultra Ferro",
@@ -19,8 +19,7 @@
 			"ArmorFactor": 0.80646
 		},
 		"CASE": {
-			"AllLocations": true,
-			"MaximumDamage": 3
+			"AllLocations": true
 		},
 		"Category": [
 			{
@@ -37,10 +36,10 @@
 				"not_broken"
 		],
 		"BonusDescriptions": [
-				"ArmorFactor: -20%",
-				"ReservedSlots: 14",
-				"CASEII: 3"
-			]
+			"ArmorFactor: -20%",
+			"ReservedSlots: 17",
+			"CASE"
+		]
 	},
 	"Description": {
 		"Cost": 1500000,
@@ -51,7 +50,7 @@
 		"UIName": "Ultra Ferro",
 		"Id": "emod_armorslots_ultraferrofibrous",
 		"Name": "Ultra Ferro-Fibrous Armor",
-		"Details": "Ultra Ferro-Fibrous armor was developed by House Davion after looking at captured Clan Ferro-Fibrous armor examples. The Davion engineers fairly quickly discovered that working CASE technology into Inner Sphere Heavy Ferro-Fibrous armor was possible, for a small reduction in total protection offered. It remains just as bulky as standard Heavy Ferro-Fibrous however.",
+		"Details": "Ultra Ferro-Fibrous armor was developed by House Davion after looking at captured Clan Ferro-Fibrous armor examples. The Davion engineers fairly quickly discovered that working CASE technology into Inner Sphere Heavy Ferro-Fibrous armor was possible, for a small reduction in total protection offered. It remains quite bulky in the tradition of all Ferro-Fibrous armor variants.",
 		"Icon": "uixSvgIcon_action_end"
 	},
 	"BonusValueA": "",

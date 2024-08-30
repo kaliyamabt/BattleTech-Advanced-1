@@ -11,7 +11,7 @@
 		],
 		"BonusDescriptions": [
 			"JumpCapacity: 1.25",
-			"JumpHeat: 3.5",
+			"JumpHeat: 6",
 			"MinWeightJJ: 20",
 			"MaxWeightJJ: 55",
 			"MaxCountJJ: 1.6"
@@ -66,7 +66,7 @@
 			"statisticData": {
 				"statName": "JumpHeat",
 				"operation": "Float_Add",
-				"modValue": "3.5",
+				"modValue": "6",
 				"modType": "System.Single"
 			}
 		},

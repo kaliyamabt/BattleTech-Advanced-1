@@ -10,7 +10,7 @@
 		],
 		"BonusDescriptions": [
 				"HeatController",
-				"TEHeatgen: -4%"
+				"TEHeatgen: -7%"
 			]
 	},
 	"DissipationCapacity": 0,
@@ -64,7 +64,7 @@
 			"Description": {
 				"Id": "StatusEffect_SanctuaryHeatController",
 				"Name": "Heat Controller",
-				"Details": "Heat Controller reduced heat generation by 2%.",
+				"Details": "Heat Controller reduced heat generation by 7%.",
 				"Icon": "uixSvgIcon_equipment_ThermalExchanger"
 			},
 			"nature": "Buff",
@@ -73,7 +73,7 @@
 				"effectsPersistAfterDestruction": false,
 				"statName": "HeatGenerated",
 				"operation": "Float_Multiply",
-				"modValue": "0.96",
+				"modValue": "0.93",
 				"modType": "System.Single",
 				"additionalRules": "NotSet",
 				"targetCollection": "Weapon",

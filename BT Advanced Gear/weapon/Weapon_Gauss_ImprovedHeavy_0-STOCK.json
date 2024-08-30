@@ -3,6 +3,9 @@
 		"Category": [
 			{
 				"CategoryID": "w/a/g/hgaussrifle"
+			},
+			{
+				"CategoryID": "NeverMelee"
 			}
 		],
 		"ComponentExplosion": {
@@ -14,6 +17,7 @@
 			"IsHeavyGauss",
 			"WpnAccuracy: +1",
 			"WeaponBoom: 110",
+			"NoFireInMelee",
 			"Knockdown",
 			"KnockdownChance: 60%",
 			"WeaponAttachmentCompatible: Gauss FCS",
@@ -23,7 +27,7 @@
 	"Category": "Ballistic",
 	"Type": "Gauss",
 	"WeaponSubType": "Gauss",
-	"MinRange": 0,
+	"MinRange": 90,
 	"MaxRange": 720,
 	"RangeSplit": [
 		180,

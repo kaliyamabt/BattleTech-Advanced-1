@@ -108,7 +108,7 @@
 			"Visible": true,
 			"Toggle": false,
 			"StartOnly": false,
-			"DefaultIndex": 2,
+			"DefaultIndex": 0,
 			"Options": [
 				{
 					"ID": "diff_FF_Disabled",

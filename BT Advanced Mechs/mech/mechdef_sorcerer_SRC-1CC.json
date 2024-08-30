@@ -8,6 +8,8 @@
 			"unit_release",
 			"unit_rarity_2",
 			"unit_royal",
+			"Cameron",
+			"StarGuardCorps",
 			"ComStar",
 			"2ndArmyVMu",
 			"WordOfBlake",
@@ -19,7 +21,6 @@
 			"CWEpsilonGalaxy",
 			"DarkCaste",
 			"331stDivision",
-			"RimWorldsRepublic",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""

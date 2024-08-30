@@ -8,6 +8,9 @@
 			"unit_lance_tank",
 			"unit_role_sniper",
 			"unit_indirectFire",
+			"Cameron",
+			"StarGuardCorps",
+			"ICorps",
 			"ComStar",
 			"2ndArmyVMu",
 			"11thArmyVEta",
@@ -38,7 +41,6 @@
 			"2ndFreemen",
 			"Ives",
 			"331stDivision",
-			"RimWorldsRepublic",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""

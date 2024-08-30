@@ -21,7 +21,7 @@
 			"planet_industry_agriculture",
 			"planet_other_blackmarket",
 			"planet_other_pirate",
-			"planet_faction_rim"
+			"planet_faction_rimworldsrepublic"
 		],
 		"tagSetSourceFile": ""
 	},
@@ -39,7 +39,7 @@
 	},
 	"FuelingStation": false,
 	"JumpDistance": 16,
-	"ownerID": "Rim",
+	"ownerID": "RimWorldsRepublic",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -125,12 +125,12 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_Rim",
+		"itemCollection_major_RimWorldsRepublic",
 		"itemCollection_shop_industrial"
 	],
-	"factionShopOwnerID": "Rim",
+	"factionShopOwnerID": "RimWorldsRepublic",
 	"FactionShopItems": [
-		"itemCollection_faction_Rim"
+		"itemCollection_faction_RimWorldsRepublic"
 	],
 	"BlackMarketShopItems": [
 		"itemCollection_faction_AuriganPirates"
@@ -145,18 +145,17 @@
 	"DifficultyList": [],
 	"DifficultyModes": [],
 	"contractEmployerIDs": [
-		"Rim",
+		"RimWorldsRepublic",
 		"Locals"
 	],
 	"contractTargetIDs": [
-		"Locals",
-		"Steiner",
-		"Marik",
-		"ComStar",
-		"Marian",
-		"Circinus",
 		"Hanse",
+		"DarkCaste",
+		"AuriganPirates",
+		"Steiner",
+		"ClanWolf",
+		"ClanJadeFalcon",
 		"Mercenaries",
-		"AuriganPirates"
+		"Locals"
 	]
 }

@@ -54,7 +54,7 @@
 	"AlternateDamageCalc": true,
     "WeaponEffectID": "WeaponEffect-Weapon_LB10X",
     "Description": {
-        "Cost": 252000,
+        "Cost": 300000,
         "Rarity": 0,
         "Purchasable": true,
         "Manufacturer": "Sanctuary Engineering",

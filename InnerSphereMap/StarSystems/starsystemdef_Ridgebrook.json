@@ -149,16 +149,21 @@
 		"CAREER"
 	],
 	"contractEmployerIDs": [
+		"AuriganPirates",
 		"Davion",
 		"Locals"
 	],
 	"contractTargetIDs": [
 		"Kurita",
 		"Liao",
+		"WordOfBlake",
+		"Cameron",
+		"ComStar",
 		"TaurianConcordat",
 		"Outworld",
 		"Tortuga",
 		"AuriganPirates",
+		"Mercenaries",
 		"ClanNovaCat"
 	]
 }

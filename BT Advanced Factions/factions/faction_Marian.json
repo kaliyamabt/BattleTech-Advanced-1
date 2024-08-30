@@ -1,12 +1,13 @@
 {
 	"ID": "faction_Marian",
-	"Name": "Marian Hegemony",
-	"ShortName": "the Hegemony",
+	"Name": "the Marian Hegemony",
+	"ShortName": "the Marian Hegemony",
 	"Demonym": "Marian",
 	"Government": "Hegemony",
 	"Allies": [
 		"BronsonsHorde",
 		"WordOfBlake",
+		"AuriganPirates",
 		"Mercenaries",
 		"Locals"
 	],
@@ -15,7 +16,7 @@
 		"Marik",
 		"Circinus",
 		"MagistracyOfCanopus",
-		"AuriganPirates",
+		"AuriganRestoration",
 		"Mercenaries",
 		"Illyrian",
 		"Lothian",

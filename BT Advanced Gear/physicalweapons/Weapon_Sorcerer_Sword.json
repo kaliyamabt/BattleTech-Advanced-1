@@ -13,7 +13,8 @@
 				"PhysWeapUnsteady",
 				"PunchHitTable",
 				"PhysWeapDamage: 0.75",
-				"PhysWeapStab: 0.75"
+				"PhysWeapStab: 0.75",
+				"WordsWords: Leave This Weapon Disabled!!"
 			],
 		"Flags": [
 			"default",
@@ -25,14 +26,14 @@
 	"Type": "MachineGun",
 	"WeaponSubType": "MachineGun",
 	"MinRange": 0,
-	"MaxRange": 0,
+	"MaxRange": 30,
 	"RangeSplit": [
 		0,
 		0,
 		0
 	],
-	"AmmoCategory": "NotSet",
-	"StartingAmmoCapacity": 0,
+	"AmmoCategory": "Flamer",
+	"StartingAmmoCapacity": 1,
 	"HeatGenerated": 0,
 	"Damage": 0,
 	"OverheatedDamageMultiplier": 0,
