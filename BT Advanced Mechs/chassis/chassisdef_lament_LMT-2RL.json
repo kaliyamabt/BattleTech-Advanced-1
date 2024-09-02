@@ -224,8 +224,7 @@
 	"VariantName": "LMT-2RL",
 	"ChassisTags": {
 		"items": [
-			"ArmLimitLowerRight",
-			"ArmLimitLowerRight",
+			"ArmLimitLowerLeft",
 			"HeavyMech"
 		],
 		"tagSetSourceFile": ""
