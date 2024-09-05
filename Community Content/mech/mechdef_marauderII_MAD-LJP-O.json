@@ -7,7 +7,7 @@
 			"unit_role_sniper",
 			"unit_role_brawler",
 			"unit_release",
-			"unit_rarity_2",
+			"unit_rarity_1",
 			"Outworld",
 			"ThermoPolice",
 			"1stAllianceAirWing",
@@ -191,15 +191,6 @@
 		}
 	],
 	"inventory": [
-		{
-			"MountedLocation": "CenterTorso",
-			"ComponentDefID": "emod_armorslots_clanferrolamellor",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": -1,
-			"DamageLevel": "Functional",
-			"prefabName": "",
-			"hasPrefabName": true
-		},
 		{
 			"MountedLocation": "CenterTorso",
 			"ComponentDefID": "Gear_Cockpit_TorsoDNI",
