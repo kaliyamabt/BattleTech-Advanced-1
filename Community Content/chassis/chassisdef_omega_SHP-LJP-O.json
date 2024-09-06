@@ -2,6 +2,14 @@
 	"FixedEquipment": [
 		{
 			"MountedLocation": "CenterTorso",
+			"ComponentDefID": "emod_armorslots_hardened_CLAN",
+			"ComponentDefType": "Upgrade",
+			"HardpointSlot": -1,
+			"hasPrefabName": false,
+			"DamageLevel": "Functional"
+		},
+		{
+			"MountedLocation": "CenterTorso",
 			"ComponentDefID": "emod_structureslots_composite",
 			"ComponentDefType": "Upgrade",
 			"HardpointSlot": -1,

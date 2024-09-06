@@ -21,7 +21,7 @@
 	"MovementCapDefID": "movedef_hatamotochi_HTM-27T",
 	"PathingCapDefID": "pathingdef_assault",
 	"HardpointDataDefID": "hardpointdatadef_hatamotochisam",
-	"PrefabIdentifier": "chrPrfMech_hatamotochisam-001",
+	"PrefabIdentifier": "chrprfmech_hatamotochisam-001",
 	"PrefabBase": "hatamotochisam",
 	"Tonnage": 80,
 	"InitialTonnage": 8,

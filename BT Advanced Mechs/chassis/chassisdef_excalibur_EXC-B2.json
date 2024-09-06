@@ -219,7 +219,6 @@
 	"VariantName": "EXC-B2",
 	"ChassisTags": {
 		"items": [
-			"ArmLimitLowerRight",
 			"HeavyMech"
 		],
 		"tagSetSourceFile": ""

@@ -18,11 +18,6 @@
 					},
 					{
 						"ConstantType": "CareerMode",
-						"ConstantName": "FactionReputation",
-						"ConstantValue": "ClanNovaCat:20, ClanSnowRaven:20, ClanGoliathScorpion:20"
-					},
-					{
-						"ConstantType": "CareerMode",
 						"ConstantName": "StartingRandomMechLists",
 						"ConstantValue": "itemCollection_Mechs_Starting_Generic_Light,itemCollection_Mechs_Starting_Generic_Light,itemCollection_Mechs_Generic_Bug,itemCollection_Mechs_Starting_Clan_One,itemCollection_Mechs_Starting_Clan_Two"
 					}

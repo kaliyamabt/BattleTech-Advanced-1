@@ -2405,6 +2405,11 @@
 		"ClanSnowRaven": [
 			"CSRDeltaGalaxy"
 		],
+		"ClanFireMandrill": [
+			"KindraaMickKreese",
+			"KindraSainze",
+			"KindraaFaradayTanaga"
+		],
 		"WordOfBlake": [
 			"40thShadowDivision",
 			"9thDivisionWoB",
@@ -2439,6 +2444,11 @@
 			"2ndFreeWorldsGuards",
 			"30thMarikMilitia"
 		],
+		"Cameron": [
+			"StarGuardCorps",
+			"ICorps",
+			"IVCorps"
+		],
 		"ComStar": [
 			"2ndArmyVMu",
 			"11thArmyVEta",
@@ -2448,6 +2458,11 @@
 			"1stTyr",
 			"2ndFreemen",
 			"4thKavalleri"
+		],
+		"RimWorldsRepublic": [
+			"1stHeliusLegionnaires",
+			"8thHeliusFusiliers",
+			"RepublicanGuard"
 		],
 		"TaurianConcordat": [
 			"TaurianGuard",

@@ -219,7 +219,6 @@
 	"VariantName": "EXC-CS",
 	"ChassisTags": {
 		"items": [
-			"ArmLimitLowerRight",
 			"HeavyMech"
 		],
 		"tagSetSourceFile": ""

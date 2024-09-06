@@ -225,6 +225,15 @@
 	"FixedEquipment": [
 		{
 			"MountedLocation": "CenterTorso",
+			"ComponentDefID": "emod_armorslots_heavyferrosfibrous",
+			"ComponentDefType": "Upgrade",
+			"HardpointSlot": -1,
+			"DamageLevel": "Functional",
+			"prefabName": "",
+			"hasPrefabName": true
+		},
+		{
+			"MountedLocation": "CenterTorso",
 			"ComponentDefID": "Gear_Gyro_XL_Omni",
 			"SimGameUID": "",
 			"ComponentDefType": "Upgrade",

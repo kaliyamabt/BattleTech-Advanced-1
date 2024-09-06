@@ -232,6 +232,15 @@
 	],
 	"FixedEquipment": [
 		{
+			"MountedLocation": "CenterTorso",
+			"ComponentDefID": "emod_armorslots_clanferrosfibrous",
+			"ComponentDefType": "Upgrade",
+			"HardpointSlot": -1,
+			"DamageLevel": "Functional",
+			"prefabName": "",
+			"hasPrefabName": true
+		},
+		{
 			"MountedLocation": "Head",
 			"ComponentDefID": "Gear_Quirk_CommandMech_BlackKnight",
 			"SimGameUID": "",

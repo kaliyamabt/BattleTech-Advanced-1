@@ -224,10 +224,8 @@
 	"VariantName": "EXC-B2b",
 	"ChassisTags": {
 		"items": [
-			"ArmLimitLowerRight",
 			"HeavyMech",
-			"RoyalMech",
-			"OmniMech"
+			"RoyalMech"
 		],
 		"tagSetSourceFile": ""
 	},
