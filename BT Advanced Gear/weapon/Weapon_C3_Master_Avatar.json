@@ -31,7 +31,7 @@
 				"C3ECMWeakness",
 				"C3MResolve: 120, +2",
 				"C3MEvasion: 120, +1",
-				"TAG: 2",
+				"C3TAG: 2",
 				"EvasionIgnored: 3",
 				"WeaponAttachmentCompatible: TAG FCS",
 				"ReservedSlots: 1"

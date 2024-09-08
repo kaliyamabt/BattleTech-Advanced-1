@@ -2304,6 +2304,12 @@
 			"Full": "TAG, or Target Acquisition Gear, grants a {0} bonus to AoE damage against the TAG'd unit."
 		},
 		{
+			"Bonus": "C3TAG",
+			"Short": "C3 TAG Acc {0}",
+			"Long": "Target Acquisition Gear",
+			"Full": "TAG, or Target Acquisition Gear, grants a {0} bonus to hit against the TAG'd unit."
+		},
+		{
 			"Bonus": "ClanTAG",
 			"Short": "TAG Acc {0}",
 			"Long": "Target Acquisition Gear",
