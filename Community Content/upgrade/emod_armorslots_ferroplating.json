@@ -4,7 +4,8 @@
 		"BonusDescriptions": [
 				"ArmorFactor: x1.25",
 				"ReservedSlots: 10",
-				"ArmorProtection: +15%"
+				"ArmorProtection: +15%",
+				"CASEII: 10"
 			],
 		"ArmorStructureChanges": {
 			"ArmorFactor": 1.15
@@ -19,6 +20,10 @@
 			"NameText": "FP Laminate",
 			"BonusAText": "Dynamic Slot",
 			"BonusBText": " "
+		},
+		"CASE": {
+			"AllLocations": true,
+			"MaximumDamage": 10
 		},
 		"Weights": {
 			"ArmorFactor": 1.25
@@ -39,16 +44,16 @@
 		"Cost": 385000,
 		"Rarity": 0,
 		"Purchasable": true,
-		"Manufacturer": "Periphery Armory, Inc.",
+		"Manufacturer": "Periphery Armory, Pafftek Industries Et Al",
 		"Model": "Armor",
 		"UIName": "Ferro Reinforced Heavy Plating",
 		"Id": "emod_armorslots_ferroplating",
 		"Name": "Ferro Reinforced Heavy Plating Armor",
-		"Details": "A mix of technologies, the Ferro Reinforced Heavy Plate, is a rather interesting blend of Periphery and Spheroid technologies into a laminated armor that provides excellent protection against penetrating shots.",
+		"Details": "A mix of technologies, by a mix of companies working together. The Ferro Reinforced Heavy Plate is a rather interesting blend of Periphery and Spheroid technologies into a laminated armor that protects against penetrating shots.  The armor reduces the chance of a critical component failure and incorporates C.A.S.E. in all locations. \n\n <b><color=#e51717>COMMUNITY CONTENT</color></b>",
 		"Icon": "uixSvgIcon_action_end"
 	},
 	"BonusValueA": "-25% Crits",
-	"BonusValueB": "",
+	"BonusValueB": "C.A.S.E.",
 	"ComponentType": "Upgrade",
 	"ComponentSubType": "NotSet",
 	"PrefabIdentifier": "",

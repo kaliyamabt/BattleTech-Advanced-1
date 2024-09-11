@@ -37,6 +37,11 @@
 	 		"1stMcCarronsArmoredCavalry",
 			"ComStar",
 			"2ndArmyVMu",
+			"Cameron",
+			"StarGuardCorps",
+			"ICorps",
+			"RimWorldsRepublic",
+			"1stHeliusLegionnaires",
 			"TaurianConcordat",
 			"TaurianGuard",
 			"AuriganPirates",
@@ -66,7 +71,7 @@
 		"UIName": "BattleHammer BHA-3D",
 		"Id": "mechdef_battlehammer_BHA3DERA",
 		"Name": "BattleHammer",
-		"Details": "Pafftek Industries, trying to reduce the cost of the exceptional Battlehammer, made an All innersphere tech version of the Battlehammer.  Looking to upgrade the BHA-2D with more advanced technology, the Engineers at Pafftek Industries sort of met a fork in the road.  That the new mech would utilized twin Ultra 10 Class autocannons was not in doubt. Rather, how it was protected was.  The two new production variants are the BHA-3D-ERA with Explosive Reactive armor, and the BHA-3D-LR with Laser Reflective armor.\n\n <b><color=#e51717>COMMUNITY CONTENT</color></b>",
+		"Details": "Pafftek Industries, trying to reduce the cost of the exceptional BattleHammer, made an inner sphere tech version of the BattleHammer.  Looking to upgrade the BHA-2D with more advanced technology, the Engineers at Pafftek Industries met a fork in the road.  That the new mech would utilize twin Ultra 10 Class autocannons was not in doubt. Rather, how it was protected was.  The two new production variants are the BHA-3D-ERA with Explosive Reactive armor and the BHA-3D-LR with Laser Reflective armor.\n\n <b><color=#e51717>COMMUNITY CONTENT</color></b>",
 		"Icon": "uixTxrIcon_battlemaster"
 	},
 	"simGameMechPartCost": 1130000,
@@ -345,17 +350,6 @@
 			"hasPrefabName": false
 		},
 		{
-			"MountedLocation": "LeftArm",
-			"ComponentDefID": "emod_arm_part_hand",
-			"SimGameUID": "",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": 0,
-			"GUID": null,
-			"DamageLevel": "Functional",
-			"prefabName": null,
-			"hasPrefabName": false
-		},
-		{
 			"MountedLocation": "RightArm",
 			"ComponentDefID": "emod_arm_part_shoulder",
 			"SimGameUID": "",
@@ -380,17 +374,6 @@
 		{
 			"MountedLocation": "RightArm",
 			"ComponentDefID": "emod_arm_part_lower",
-			"SimGameUID": "",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": 0,
-			"GUID": null,
-			"DamageLevel": "Functional",
-			"prefabName": null,
-			"hasPrefabName": false
-		},
-		{
-			"MountedLocation": "RightArm",
-			"ComponentDefID": "emod_arm_part_hand",
 			"SimGameUID": "",
 			"ComponentDefType": "Upgrade",
 			"HardpointSlot": 0,
