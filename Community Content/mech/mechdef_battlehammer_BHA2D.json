@@ -31,6 +31,11 @@
 			"1stKnightsOfTheInnerSphere",
 			"ComStar",
 			"2ndArmyVMu",
+			"Cameron",
+			"StarGuardCorps",
+			"ICorps",
+			"RimWorldsRepublic",
+			"1stHeliusLegionnaires",
 			"Kurita",
 			"1stSwordOfLight",
 			"Davion",
@@ -125,7 +130,7 @@
 		"UIName": "BattleHammer BHA-2D",
 		"Id": "mechdef_battlehammer_BHA2D",
 		"Name": "BattleHammer",
-		"Details": "Pafftek Industries, trying to reduce the cost of the exceptional Battlehammer, made a series utilizing only innersphere tech.  This, the most basic version of the BattleHammer, utilizes technology readily available in the post Helm memory core era.  It is available to anyone except the Clans, and the Word of Blake.\n\n <b><color=#e51717>COMMUNITY CONTENT</color></b>",
+		"Details": "Pafftek Industries, trying to reduce the cost of the exceptional BattleHammer, made a series utilizing only inner-sphere tech.  This, the most basic version of the BattleHammer, utilizes technology readily available in the post-Helm memory core era.  It is available to anyone except the Clans and the Word of Blake.\n\n <b><color=#e51717>COMMUNITY CONTENT</color></b>",
 		"Icon": "uixTxrIcon_battlemaster"
 	},
 	"simGameMechPartCost": 1130000,
@@ -402,17 +407,6 @@
 			"hasPrefabName": false
 		},
 		{
-			"MountedLocation": "LeftArm",
-			"ComponentDefID": "emod_arm_part_hand",
-			"SimGameUID": "",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": 0,
-			"GUID": null,
-			"DamageLevel": "Functional",
-			"prefabName": null,
-			"hasPrefabName": false
-		},
-		{
 			"MountedLocation": "RightArm",
 			"ComponentDefID": "emod_arm_part_shoulder",
 			"SimGameUID": "",
@@ -437,17 +431,6 @@
 		{
 			"MountedLocation": "RightArm",
 			"ComponentDefID": "emod_arm_part_lower",
-			"SimGameUID": "",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": 0,
-			"GUID": null,
-			"DamageLevel": "Functional",
-			"prefabName": null,
-			"hasPrefabName": false
-		},
-		{
-			"MountedLocation": "RightArm",
-			"ComponentDefID": "emod_arm_part_hand",
 			"SimGameUID": "",
 			"ComponentDefType": "Upgrade",
 			"HardpointSlot": 0,

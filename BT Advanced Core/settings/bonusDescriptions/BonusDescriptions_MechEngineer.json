@@ -2304,6 +2304,12 @@
 			"Full": "TAG, or Target Acquisition Gear, grants a {0} bonus to AoE damage against the TAG'd unit."
 		},
 		{
+			"Bonus": "C3TAG",
+			"Short": "C3 Master Accuracy {0}",
+			"Long": "C3 Master Accuracy {0}",
+			"Full": "C3 Master grants a {0} bonus to hit against a target unit on a hit with the C3 Master's targeting laser."
+		},
+		{
 			"Bonus": "ClanTAG",
 			"Short": "TAG Acc {0}",
 			"Long": "Target Acquisition Gear",
@@ -5482,6 +5488,12 @@
 			"Short": "Viral Jammer",
 			"Long": "Viral Jammer",
 			"Full": "The Viral Jammer is a powerful piece of e-war gear. It scrambles all distributed networks in its radius, friendly or enemy, including C3, C3i, and Sanctuary Drone Networks. It also scrambles the Virtual Reality Piloting Pod's controls (both friendly and enemy VRPPs) as well as providing the carrying unit immunity to Sensor Locks."
+		},
+		{
+			"Bonus": "ViralJammerRange",
+			"Short": "Viral Jammer Range",
+			"Long": "Viral Jammer Range",
+			"Full": "The Viral Jammer's range of effect is {0} meters."
 		}
 	]
 }

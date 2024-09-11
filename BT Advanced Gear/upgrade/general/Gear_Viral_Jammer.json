@@ -6,7 +6,8 @@
 			}
 		],
 		"BonusDescriptions": [
-			"ViralJammer"
+			"ViralJammer",
+			"ViralJammerRange: 150"
 		]
 	},
 	"StatName": null,

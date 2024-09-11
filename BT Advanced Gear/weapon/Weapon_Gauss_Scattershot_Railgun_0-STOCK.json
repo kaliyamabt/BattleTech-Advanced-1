@@ -18,8 +18,7 @@
 			"VariableDmg: 50",
 			"IsHeavyGauss",
 			"WpnAccuracy: +1",
-			"WeaponBoom: 300",
-				"WeaponAttachmentCompatible: Artillery FCS"
+			"WeaponBoom: 300"
 		],
 		"Flags": [
 			"no_salvage"
@@ -91,7 +90,6 @@
 		"items": [
 			"component_type_stock",
 			"range_standard",
-			"ArtilleryFCSSupported",
 			"WebbTCSupported-SingleShot"
 		],
 		"tagSetSourceFile": ""

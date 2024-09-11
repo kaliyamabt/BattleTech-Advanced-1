@@ -42,6 +42,11 @@
 	 		"1stMcCarronsArmoredCavalry",
 			"ComStar",
 			"2ndArmyVMu",
+			"Cameron",
+			"StarGuardCorps",
+			"ICorps",
+			"RimWorldsRepublic",
+			"1stHeliusLegionnaires",
 			"ClanNovaCat",
 			"CNCOmicronGalaxy",
 			"CSRDeltaGalaxy",
@@ -61,7 +66,7 @@
 		"UIName": "BattleHammer BHA-2S",
 		"Id": "mechdef_battlehammer_BHA2S",
 		"Name": "BattleHammer",
-		"Details": "Building upon the proven BHA-2G, Pafftek Industries replaced the Gauss Rifles with Stormbreakers.  These mini magshot arrays do a similar damage level as the base Gauss Rifle but do so in volleys of shot instead of a single shell. The smaller Stormbreaker however gives up range and generates excessive heat.   It can also jam easily.  5 tons of Magshot ammunition is barely adequate for a typical engagement.   Backing up the Stormbreakers are a pair of ER Medium.  Rounding out the changes vs the BHA-2G is the inclusion of CASEII protection and Ferro-Plate Laminated armor.   Ferro-Plate reduces the chance of critical component damage and the CASEII protects the torsos from any sort of explosion.  Remember if it isn't CASED it is DEAD!   The BHA-2S is available to many of the Great Houses and ComStar.  Uniquely it is also sold to Clan NovaCat and the Snow Raven Alliance.\n\n <b><color=#e51717>COMMUNITY CONTENT</color></b>",
+		"Details": "Building upon the proven BHA-2G, Pafftek Industries replaced the gauss rifles with stormbreakers.  These mini magshot arrays do a similar damage level as the base gauss rifle but do so in volleys of shot instead of a single shell. The smaller stormbreaker, however, gives up range and generates excessive heat.   It can also jam easily.  5 tons of magshot ammunition is barely adequate for a typical engagement.  Backing up the stormbreakers are a pair of ER Medium lasers.  Rounding out the changes vs the BHA-2G is the inclusion of Ferro Heavy Plate Laminated armor with its built in CASE functionality.   Ferro Heavy Plate, often just shortened to Ferro Plate, reduces the chance of critical component damage and the built in CASE protects all the locations from any explosion.  Remember, if it isn't CASED, it is DEAD!   The BHA-2S is available to many of the Great Houses and ComStar.  Uniquely it is also sold to Clan NovaCat and the Snow Raven Alliance.\n\n <b><color=#e51717>COMMUNITY CONTENT</color></b>",
 		"Icon": "uixTxrIcon_battlemaster"
 	},
 	"simGameMechPartCost": 1130000,
@@ -378,17 +383,6 @@
 			"hasPrefabName": false
 		},
 		{
-			"MountedLocation": "LeftArm",
-			"ComponentDefID": "emod_arm_part_hand",
-			"SimGameUID": "",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": 0,
-			"GUID": null,
-			"DamageLevel": "Functional",
-			"prefabName": null,
-			"hasPrefabName": false
-		},
-		{
 			"MountedLocation": "RightArm",
 			"ComponentDefID": "emod_arm_part_shoulder",
 			"SimGameUID": "",
@@ -422,32 +416,10 @@
 			"hasPrefabName": false
 		},
 		{
-			"MountedLocation": "RightArm",
-			"ComponentDefID": "emod_arm_part_hand",
-			"SimGameUID": "",
-			"ComponentDefType": "Upgrade",
-			"HardpointSlot": 0,
-			"GUID": null,
-			"DamageLevel": "Functional",
-			"prefabName": null,
-			"hasPrefabName": false
-		},
-		{
 			"MountedLocation": "LeftArm",
 			"ComponentDefID": "Weapon_Gauss_Stormbreaker_Array",
 			"SimGameUID": null,
 			"ComponentDefType": "Weapon",
-			"HardpointSlot": 0,
-			"GUID": null,
-			"DamageLevel": "Functional",
-			"prefabName": null,
-			"hasPrefabName": false
-		},
-		{
-			"MountedLocation": "LeftTorso",
-			"ComponentDefID": "emod_case2",
-			"SimGameUID": "",
-			"ComponentDefType": "Upgrade",
 			"HardpointSlot": 0,
 			"GUID": null,
 			"DamageLevel": "Functional",
@@ -500,9 +472,9 @@
 		},
 		{
 			"MountedLocation": "RightTorso",
-			"ComponentDefID": "emod_case2",
+			"ComponentDefID": "Gear_HeatSink_Generic_Bulk-Bank",
 			"SimGameUID": "",
-			"ComponentDefType": "Upgrade",
+			"ComponentDefType": "HeatSink",
 			"HardpointSlot": 0,
 			"GUID": null,
 			"DamageLevel": "Functional",
