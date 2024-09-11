@@ -2305,9 +2305,9 @@
 		},
 		{
 			"Bonus": "C3TAG",
-			"Short": "C3 TAG Acc {0}",
-			"Long": "Target Acquisition Gear",
-			"Full": "TAG, or Target Acquisition Gear, grants a {0} bonus to hit against the TAG'd unit."
+			"Short": "C3 Master Accuracy {0}",
+			"Long": "C3 Master Accuracy {0}",
+			"Full": "C3 Master grants a {0} bonus to hit against a target unit on a hit with the C3 Master's targeting laser."
 		},
 		{
 			"Bonus": "ClanTAG",
