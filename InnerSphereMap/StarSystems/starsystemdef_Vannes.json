@@ -144,7 +144,9 @@
 	"FactionShopItems": [
 		"itemCollection_faction_RimWorldsRepublic"
 	],
-	"BlackMarketShopItems": null,
+	"BlackMarketShopItems": [
+		"BTA_List_BlackMarket"
+	],
 	"CoreSystemID": "starsystemdef_Vannes",
 	"StartingSystemModes": [
 		"KAMEA_CAMPAIGN",

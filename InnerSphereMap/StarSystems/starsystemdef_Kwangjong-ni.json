@@ -136,7 +136,9 @@
 	"FactionShopItems": [
 		"itemCollection_faction_RimWorldsRepublic"
 	],
-	"BlackMarketShopItems": null,
+	"BlackMarketShopItems": [
+		"BTA_List_BlackMarket"
+	],
 	"CoreSystemID": "starsystemdef_Kwangjong-ni",
 	"StartingSystemModes": [
 		"KAMEA_CAMPAIGN",
