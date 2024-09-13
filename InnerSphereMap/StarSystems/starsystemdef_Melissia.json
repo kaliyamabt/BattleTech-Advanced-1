@@ -150,7 +150,9 @@
 	"FactionShopItems": [
 		"itemCollection_faction_RimWorldsRepublic"
 	],
-	"BlackMarketShopItems": null,
+	"BlackMarketShopItems": [
+		"BTA_List_BlackMarket"
+	],
 	"CoreSystemID": "starsystemdef_Melissia",
 	"StartingSystemModes": [
 		"KAMEA_CAMPAIGN",
