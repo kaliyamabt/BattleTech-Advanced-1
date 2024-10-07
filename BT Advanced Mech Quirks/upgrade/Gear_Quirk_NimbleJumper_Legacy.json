@@ -44,7 +44,7 @@
 		"Details": "This piece of gear represents the Legacy's inherent Nimble Jumper quirk. This gives the Legacy extra distance when jumping.",
 		"Icon": "uixSvgIcon_equipment_Gyro"
 	},
-	"BonusValueA": "+15% Jump Distance",
+	"BonusValueA": "+20% Jump Distance",
 	"BonusValueB": "",
 	"ComponentType": "Upgrade",
 	"ComponentSubType": "NotSet",
@@ -82,7 +82,7 @@
 			"Description": {
 				"Id": "NimbleJumper",
 				"Name": "JUMP DISTANCE INCREASED",
-				"Details": "Increases Jump Jet jump distance by 15%",
+				"Details": "Increases Jump Jet jump distance by 20%",
 				"Icon": "uixSvgIcon_equipment_Gyro"
 			},
 			"nature": "Buff",
