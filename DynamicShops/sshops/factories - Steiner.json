@@ -119,12 +119,6 @@
 	},
 	{
 		"conditions": {
-			"tag": "planet_name_tauceti(newearth2116+)"
-		},
-		"items": "BTA_List_NewEarth"
-	},
-	{
-		"conditions": {
 			"tag": "planet_name_newkyoto"
 		},
 		"items": "BTA_List_NewKyoto"

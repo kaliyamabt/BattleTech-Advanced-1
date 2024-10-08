@@ -95,12 +95,6 @@
 	},
 	{
 		"conditions": {
-			"tag": "planet_name_errai"
-		},
-		"items": "BTA_List_Errai"
-	},
-	{
-		"conditions": {
 			"tag": "planet_name_ozawa"
 		},
 		"items": "BTA_List_Ozawa"

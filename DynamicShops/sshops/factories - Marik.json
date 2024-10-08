@@ -101,12 +101,6 @@
 	},
 	{
 		"conditions": {
-			"tag": "planet_name_oliver"
-		},
-		"items": "BTA_List_Oliver"
-	},
-	{
-		"conditions": {
 			"tag": "planet_name_oriente"
 		},
 		"items": "BTA_List_Oriente"
