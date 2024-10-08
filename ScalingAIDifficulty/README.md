@@ -32,7 +32,7 @@ The effects of a player's SAD_points are multiplied by `ArgoMechTechs / 100`. Fo
 See the examples in src/data/CareerDifficultySettings.json.
 
 ### Effects
-Whenever an enemy unit spawns (be it start of mission, reenforcements, or any other time), SAD applies each entry in `EnemyEffectsPerPoint` effect to it. Similarly, `SelfEffectsPerPoint` is applied to the player's units.
+  Whenever an enemy unit spawns (be it start of mission, reenforcements, or any other time), SAD applies each entry in `EnemyEffectsPerPoint` effect to it. Similarly, `SelfEffectsPerPoint` is applied to the player's units. `baseEffectData` is required as-is for the mod to function. Do not modify it.
 
 The effects in each of these are applied once for each of the player's SAD_points, multiplied by `ArgoMechTechs / 100`. For example, if `EnemyEffectsPerPoint` is
 ```
