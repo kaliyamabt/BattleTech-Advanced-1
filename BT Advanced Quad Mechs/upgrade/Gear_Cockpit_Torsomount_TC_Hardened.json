@@ -29,9 +29,10 @@
 				"IsCockpit"
 		],
 		"Flags": [
-				"ignore_damage",
-				"default",
-				"not_broken"
+			"ignore_damage",
+			"default",
+			"not_broken",
+			"no_salvage"
 		],
 		"Linked": {
 			"Links": [
