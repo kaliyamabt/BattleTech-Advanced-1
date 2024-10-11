@@ -71,7 +71,7 @@
 			"Description": {
 				"Id": "StatusEffect-Quirk_VanquisherReinforcedArmor-{location}",
 				"Name": "Bonus Leg Armor",
-				"Details": "The Hollander has substantial bonus armor and structure in its legs.",
+				"Details": "The Vanquisher has substantial bonus armor and structure in its legs.",
 				"Icon": "uixSvgIcon_equipment_ActuatorLeg"
 			},
 			"nature": "Buff",

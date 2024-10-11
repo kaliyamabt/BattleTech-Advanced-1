@@ -21,7 +21,7 @@
 				"Signature: 25%",
 				"MortarDamage: -7",
 				"CostPerShot: 100",
-				"AmmoCount: 40"
+				"AmmoCount: 20"
 			],
 		"AmmoCost": {
 			"PerUnitCost": 100

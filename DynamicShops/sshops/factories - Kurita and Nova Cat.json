@@ -7,21 +7,9 @@
 	},
 	{
 		"conditions": {
-			"tag": "planet_name_dieron"
-		},
-		"items": "BTA_List_Dieron"
-	},
-	{
-		"conditions": {
 			"tag": "planet_name_kessel"
 		},
 		"items": "BTA_List_Kessel"
-	},
-	{
-		"conditions": {
-			"tag": "planet_name_quentin"
-		},
-		"items": "BTA_List_Quentin"
 	},
 	{
 		"conditions": {
@@ -34,12 +22,6 @@
 			"tag": "planet_name_vega"
 		},
 		"items": "BTA_List_Vega"
-	},
-	{
-		"conditions": {
-			"tag": "planet_name_yorii"
-		},
-		"items": "BTA_List_Yorii"
 	},
 	{
 		"conditions": {

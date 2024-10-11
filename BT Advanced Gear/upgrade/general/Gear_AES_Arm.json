@@ -12,7 +12,8 @@
 			"ArmAccuracy: +2",
 			"PunchAccuracy: +2",
 			"NonQuad",
-			"PhysWeapAccuracy: +2"
+			"PhysWeapAccuracy: +2",
+			"WordsWords: Incompatible with MASC, TSM, or Targeting Computers"
 		],
 		"Weights": {
 			"StructureFactor": 1.35

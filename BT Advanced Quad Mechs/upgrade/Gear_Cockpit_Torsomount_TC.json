@@ -11,6 +11,9 @@
 				"CategoryID": "LifeSupportB"
 			}
 		],
+		"Flags": [
+			"no_salvage"
+		],
 		"WorkOrderCosts": {
 			"Install": {
 				"TechCost": "[[Chassis.Tonnage]]/8",

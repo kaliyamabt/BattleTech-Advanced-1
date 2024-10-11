@@ -15,6 +15,42 @@
 	},
 	{
 		"conditions": {
+			"tag": "planet_name_oliver"
+		},
+		"items": "BTA_List_Oliver"
+	},
+	{
+		"conditions": {
+			"tag": "planet_name_tauceti(newearth2116+)"
+		},
+		"items": "BTA_List_NewEarth"
+	},
+	{
+		"conditions": {
+			"tag": "planet_name_yorii"
+		},
+		"items": "BTA_List_Yorii"
+	},
+	{
+		"conditions": {
+			"tag": "planet_name_dieron"
+		},
+		"items": "BTA_List_Dieron"
+	},
+	{
+		"conditions": {
+			"tag": "planet_name_quentin"
+		},
+		"items": "BTA_List_Quentin"
+	},
+	{
+		"conditions": {
+			"tag": "planet_name_errai"
+		},
+		"items": "BTA_List_Errai"
+	},
+	{
+		"conditions": {
 			"tag": "planet_name_northwind"
 		},
 		"items": "BTA_List_Northwind"
