@@ -14,7 +14,7 @@
 		},
 		"BonusDescriptions": [
 			"NoAreaOfEffect",
-			"ThumperDamage: +150%",
+			"ThumperDamage: +50%",
 			"WpnAccuracy: -1",
 			"CostPerShot: 850",
 			"AmmoCount: 8"
