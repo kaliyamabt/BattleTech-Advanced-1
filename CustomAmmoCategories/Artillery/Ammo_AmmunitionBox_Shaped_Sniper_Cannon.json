@@ -14,7 +14,7 @@
 		},
 		"BonusDescriptions": [
 			"NoAreaOfEffect",
-			"SniperDamage: +150%",
+			"SniperDamage: +50%",
 			"WpnAccuracy: -1",
 			"CostPerShot: 1200",
 			"AmmoCount: 5"

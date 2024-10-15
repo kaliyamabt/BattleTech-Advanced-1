@@ -14,7 +14,7 @@
 		},
 		"BonusDescriptions": [
 			"NoAreaOfEffect",
-			"LongTomDamage: +150%",
+			"LongTomDamage: +50%",
 			"WpnAccuracy: -1",
 			"CostPerShot: 4000",
 			"AmmoCount: 3"
