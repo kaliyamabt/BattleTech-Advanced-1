@@ -41,6 +41,7 @@
 	"AttackRecoil": 1,
 	"Instability": 6,
 	"FireDelayMultiplier": 0.2,
+	"ProjectileSpeedMultiplier": 0.25,
 	"WeaponEffectID": "WeaponEffect-Weapon_AC2",
 	"Description": {
 		"Cost": 670000,

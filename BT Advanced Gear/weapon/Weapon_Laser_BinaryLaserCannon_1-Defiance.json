@@ -80,6 +80,7 @@
 			"isBaseMode": false,
 			"DamagePerShot": -35,
 			"ShotsWhenFired": 1,
+			"ProjectileSpeedMultiplier": 0.5,
 			"DistantVariance": 0.3,
 			"DamageFalloffStartDistance": 155,
 			"DamageFalloffEndDistance": 450,

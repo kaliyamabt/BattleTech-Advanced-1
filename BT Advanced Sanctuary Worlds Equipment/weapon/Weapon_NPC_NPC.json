@@ -51,6 +51,7 @@
 	"ColorSpeedChange": 1,
 	"ColorChangeRule": "Linear",
 	"FireDelayMultiplier": 0.01,
+	"ProjectileSpeedMultiplier": 0.25,
     "WeaponEffectID" : "WeaponEffect-Weapon_Laser_Large",
     "Description" : {
         "Cost" : 350000,
