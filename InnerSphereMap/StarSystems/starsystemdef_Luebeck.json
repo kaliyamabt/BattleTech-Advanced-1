@@ -134,7 +134,9 @@
 	"FactionShopItems": [
 		"itemCollection_faction_Hanse"
 	],
-	"BlackMarketShopItems": null,
+	"BlackMarketShopItems": [
+		"itemCollection_faction_AuriganPirates"
+	],
 	"CoreSystemID": "starsystemdef_Lübeck",
 	"StartingSystemModes": [
 		"KAMEA_CAMPAIGN",
