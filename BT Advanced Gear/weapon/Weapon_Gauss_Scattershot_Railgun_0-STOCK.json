@@ -16,7 +16,6 @@
 			"WpnCooldown: 2",
 			"NoFireInMelee",
 			"VariableDmg: 50",
-			"IsHeavyGauss",
 			"WpnAccuracy: +1",
 			"WeaponBoom: 300"
 		],

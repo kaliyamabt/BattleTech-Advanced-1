@@ -3,7 +3,7 @@
 		"BonusDescriptions": [
 				"HybridStructureWeight: 0.25"
 			],
-		"Color": "Orange",
+		"Color": "OrangeHalf",
 		"Flags": [
 			"ignore_damage",
 				"no_salvage"

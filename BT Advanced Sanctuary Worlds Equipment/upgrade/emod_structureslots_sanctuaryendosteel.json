@@ -4,6 +4,7 @@
 				"StructureFactor: 50%",
 				"ReservedSlots: 8"
 			],
+		"Color": "OrangeHalf",
 		"Category": {
 			"CategoryID": "Structure"
 		},

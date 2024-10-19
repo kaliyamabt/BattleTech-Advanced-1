@@ -5,10 +5,10 @@
 				"CategoryID": "Structure"
 			}
 		],
-		"Color": "Orange",
+		"Color": "OrangeHalf",
 		"DynamicSlots": {
 			"ReservedSlots": 7,
-			"BackgroundColor": "Orange",
+			"BackgroundColor": "OrangeHalf",
 			"ShowIcon": true,
 			"NameText": "Cobbled Endo-Steel (C)",
 			"BonusAText": "Dynamic Slot",

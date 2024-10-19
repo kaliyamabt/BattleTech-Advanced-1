@@ -69,7 +69,7 @@
 									"WIIC_set_starsystemdef_Hall_attacker_strength_25",
 									"WIIC_set_starsystemdef_EpsilonIndi_defender_strength_15",
 									"WIIC_set_starsystemdef_EpsilonIndi_attacker_strength_25",
-									"WIIC_give_starsystemdef_EpsilonEridani_to_Locals_on_attacker_win",
+									"WIIC_give_starsystemdef_EpsilonIndi_to_Locals_on_attacker_win",
 									"WIIC_give_starsystemdef_Hall_to_Cameron_on_attacker_win",
 									"WIIC_give_starsystemdef_EpsilonIndi_to_Cameron_on_attacker_win"
 								],
