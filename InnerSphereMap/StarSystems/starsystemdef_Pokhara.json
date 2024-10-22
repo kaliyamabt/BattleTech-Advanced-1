@@ -2,7 +2,7 @@
 	"Description": {
 		"Id": "starsystemdef_Pokhara",
 		"Name": "Pokhara",
-		"Details": "Pokhara was settled during the Star League era at some point after the end of the Reunification War but died out during the fighting in the Succession Wars.",
+		"Details": "Pokhara was abandoned during the Succession Wars era, but after the Terran Hegemony was restored in the 3030s Pokhara was discovered to still be inhabited and given to ComStar as a sanctuary world in the heart of the Inner Sphere. The locals, who had lived subsistence lives since the planet was forgotten, were grateful for any recognition and welcomed ComStar with open arms. Pokhara is a pleasant, if sparsely inhabited, world and sees little conflict.",
 		"Icon": ""
 	},
 	"Position": {
@@ -14,18 +14,25 @@
 		"items": [
 			"planet_name_pokhara",
 			"planet_size_medium",
-			"planet_climate_desert",
-			"planet_pop_none",
-			"planet_civ_primitive",
+			"planet_climate_terran",
+			"planet_pop_small",
+			"planet_civ_periphery",
 			"planet_industry_poor",
+			"planet_industry_agriculture",
 			"planet_other_ruins",
-			"planet_faction_nofaction",
-			"planet_other_empty"
+			"planet_other_comstar"
+			"planet_faction_comstar"
 		],
 		"tagSetSourceFile": ""
 	},
 	"SupportedBiomes": [
-		"desertParched"
+		"highlandsSpring",
+		"highlandsFall",
+		"lowlandsSpring",
+		"lowlandsFall",
+		"badlandsParched",
+		"lowlandsCoastal",
+		"jungleTropical"
 	],
 	"MapRequiredTags": {
 		"items": [],
@@ -37,7 +44,7 @@
 	},
 	"FuelingStation": false,
 	"JumpDistance": 9,
-	"ownerID": "NoFaction",
+	"ownerID": "ComStar",
 	"ShopRefreshRate": 0,
 	"ShopMaxInventory": 0,
 	"ShopMaxSpecials": 9,
@@ -123,13 +130,11 @@
 	"UseMaxContractOverride": false,
 	"MaxContractOverride": 0,
 	"SystemShopItems": [
-		"itemCollection_major_TaurianConcordat",
-		"itemCollection_shop_chemicalsProgression",
-		"itemCollection_shop_miningProgression"
+		"itemCollection_major_ComStar"
 	],
-	"factionShopOwnerID": "NoFaction",
+	"factionShopOwnerID": "ComStar",
 	"FactionShopItems": [
-		"itemCollection_faction_TaurianConcordat"
+		"itemCollection_faction_ComStar"
 	],
 	"BlackMarketShopItems": null,
 	"CoreSystemID": "starsystemdef_Pokhara",
@@ -138,9 +143,13 @@
 		"CAREER",
 		"NONE"
 	],
-	"DefaultDifficulty": 3,
+	"DefaultDifficulty": 6,
 	"DifficultyList": [],
 	"DifficultyModes": [],
-	"contractEmployerIDs": [],
-	"contractTargetIDs": []
+	"contractEmployerIDs": [
+		"ComStar"
+	],
+	"contractTargetIDs": [
+		"WordOfBlake"
+	]
 }
