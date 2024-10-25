@@ -123,6 +123,10 @@
 			"Location": "RightArm",
 			"Hardpoints": [
 				{
+					"WeaponMountID": "Missile",
+					"Omni": false
+				},
+				{
 					"WeaponMountID": "Energy",
 					"Omni": false
 				},
