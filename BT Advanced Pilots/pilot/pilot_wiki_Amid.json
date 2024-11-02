@@ -28,6 +28,7 @@
 	"Morale": 0,
 	"Voice": "m_pro04_brad",
 	"abilityDefNames": [
+		"AbilityDefAmidSpeed",
 		"AbilityDefT5A",
 		"TraitDefSprintIncrease10",
 		"TraitDefIndirectReduceOne",
@@ -39,7 +40,8 @@
 			"pilot_brave",
 			"pilot_reckless",
 			"pilot_mechwarrior",
-			"name_Amid"
+			"name_Amid",
+			"pilot_btateam"
 		],
 		"tagSetSourceFile": ""
 	},
