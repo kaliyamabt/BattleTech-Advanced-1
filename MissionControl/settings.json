@@ -208,7 +208,7 @@
 			{
 				"MapId": "mapGeneral_riftValley_vJung",
 				"ContractTypeName": "AmbushConvoy",
-				"IncreaseBoundarySizeByPercentage": 0.4
+				"IncreaseBoundarySizeByPercentage": 0.6
 			},
 			{
 				"MapId": "mapMultiPurp_metroGreen_uTech",
