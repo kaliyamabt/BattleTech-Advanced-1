@@ -6,9 +6,9 @@
 			}
 		],
 		"BonusDescriptions": [
-				"WpnRecoil: 2",
-				"WeaponAttachmentCompatible: Autocannon FCS"
-			]
+			"WpnRecoil: 2",
+			"WeaponAttachmentCompatible: Autocannon FCS"
+		]
 	},
 	"Category": "Ballistic",
 	"Type": "Autocannon",
@@ -23,7 +23,7 @@
 	"AmmoCategory": "AC10",
 	"StartingAmmoCapacity": 0,
 	"HeatGenerated": 9,
-	"Damage": 60,
+	"Damage": 65,
 	"OverheatedDamageMultiplier": 0,
 	"EvasiveDamageMultiplier": 0,
 	"EvasivePipsIgnored": 0,
@@ -37,10 +37,10 @@
 	"ShotsWhenFired": 1,
 	"ProjectilesPerShot": 1,
 	"AttackRecoil": 3,
-	"Instability": 30,
+	"Instability": 40,
 	"WeaponEffectID": "WeaponEffect-Weapon_AC10_Single",
 	"Description": {
-		"Cost": 140000,
+		"Cost": 150000,
 		"Rarity": 0,
 		"Purchasable": true,
 		"Manufacturer": "Western",

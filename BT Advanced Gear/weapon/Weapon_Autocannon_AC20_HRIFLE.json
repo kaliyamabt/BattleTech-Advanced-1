@@ -11,6 +11,7 @@
 		"BonusDescriptions": [
 			"WpnRecoil: 4",
 			"WpnAccuracy: -1",
+			"NoFireInMelee",
 			"IsRifle",
 			"WeaponAttachmentCompatible: Periphery FCS",
 			"WeaponAttachmentCompatible: Rifle Revolver"
@@ -28,8 +29,8 @@
 	],
 	"AmmoCategory": "RifleHeavy",
 	"StartingAmmoCapacity": 0,
-	"HeatGenerated": 15,
-	"Damage": 55,
+	"HeatGenerated": 18,
+	"Damage": 54,
 	"OverheatedDamageMultiplier": 0,
 	"EvasiveDamageMultiplier": 0,
 	"EvasivePipsIgnored": 0,

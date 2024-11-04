@@ -9,10 +9,10 @@
 			}
 		],
 		"BonusDescriptions": [
-				"NoFireInMelee",
-				"WpnRecoil: 1",
-				"WeaponAttachmentCompatible: Autocannon FCS"
-			]
+			"NoFireInMelee",
+			"WpnRecoil: 1",
+			"WeaponAttachmentCompatible: Autocannon FCS"
+		]
 	},
 	"Category": "Ballistic",
 	"Type": "Autocannon",
@@ -27,7 +27,7 @@
 	"AmmoCategory": "AC2",
 	"StartingAmmoCapacity": 0,
 	"HeatGenerated": 3,
-	"Damage": 9,
+	"Damage": 10,
 	"OverheatedDamageMultiplier": 0,
 	"EvasiveDamageMultiplier": 0,
 	"EvasivePipsIgnored": 0,
@@ -41,7 +41,7 @@
 	"ShotsWhenFired": 3,
 	"ProjectilesPerShot": 1,
 	"AttackRecoil": 1,
-	"Instability": 3,
+	"Instability": 6,
 	"ImprovedBallistic": true,
 	"FireDelayMultiplier": 0.2,
 	"WeaponEffectID": "WeaponEffect-Weapon_AC2",

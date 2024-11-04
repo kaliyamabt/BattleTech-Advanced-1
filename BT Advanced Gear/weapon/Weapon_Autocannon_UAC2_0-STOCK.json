@@ -9,12 +9,12 @@
 			}
 		],
 		"BonusDescriptions": [
-				"WpnRecoil: 1",
-				"WeaponJAMFlat: 5",
-				"NoFireInMelee",
-				"VariableBurstCount: 2",
-				"WeaponAttachmentCompatible: Autocannon FCS"
-			]
+			"WpnRecoil: 1",
+			"WeaponJAMFlat: 5",
+			"NoFireInMelee",
+			"VariableBurstCount: 2",
+			"WeaponAttachmentCompatible: Autocannon FCS"
+		]
 	},
 	"Category": "Ballistic",
 	"Type": "Autocannon",
