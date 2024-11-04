@@ -9,10 +9,11 @@
 			}
 		],
 		"BonusDescriptions": [
-				"WpnRecoil: 3",
-				"IsRifle",
-				"WeaponAttachmentCompatible: Periphery FCS",
-				"WeaponAttachmentCompatible: Rifle Revolver"
+			"WpnRecoil: 4",
+			"WpnAccuracy: -1",
+			"IsRifle",
+			"WeaponAttachmentCompatible: Periphery FCS",
+			"WeaponAttachmentCompatible: Rifle Revolver"
 		]
 	},
 	"Category": "Ballistic",
@@ -27,22 +28,22 @@
 	],
 	"AmmoCategory": "RifleHeavy",
 	"StartingAmmoCapacity": 0,
-	"HeatGenerated": 12,
-	"Damage": 60,
+	"HeatGenerated": 15,
+	"Damage": 55,
 	"OverheatedDamageMultiplier": 0,
 	"EvasiveDamageMultiplier": 0,
 	"EvasivePipsIgnored": 0,
 	"DamageVariance": 0,
 	"HeatDamage": 0,
-	"AccuracyModifier": 0,
+	"AccuracyModifier": 1,
 	"CriticalChanceMultiplier": 1,
 	"AOECapable": false,
 	"IndirectFireCapable": false,
-	"RefireModifier": 3,
+	"RefireModifier": 4,
 	"ShotsWhenFired": 1,
 	"ProjectilesPerShot": 1,
 	"AttackRecoil": 4,
-	"Instability": 40,
+	"Instability": 30,
 	"WeaponEffectID": "WeaponEffect-Weapon_AC20_Single",
 	"Description": {
 		"Cost": 150000,

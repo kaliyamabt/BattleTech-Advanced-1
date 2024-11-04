@@ -9,10 +9,11 @@
 			}
 		],
 		"BonusDescriptions": [
-				"WpnRecoil: 2",
-				"IsRifle",
-				"WeaponAttachmentCompatible: Periphery FCS",
-				"WeaponAttachmentCompatible: Rifle Revolver"
+			"WpnRecoil: 3",
+			"WpnAccuracy: -1",
+			"IsRifle",
+			"WeaponAttachmentCompatible: Periphery FCS",
+			"WeaponAttachmentCompatible: Rifle Revolver"
 		]
 	},
 	"Category": "Ballistic",
@@ -27,22 +28,22 @@
 	],
 	"AmmoCategory": "RifleMedium",
 	"StartingAmmoCapacity": 0,
-	"HeatGenerated": 6,
-	"Damage": 45,
+	"HeatGenerated": 10,
+	"Damage": 40,
 	"OverheatedDamageMultiplier": 0,
 	"EvasiveDamageMultiplier": 0,
 	"EvasivePipsIgnored": 0,
 	"DamageVariance": 0,
 	"HeatDamage": 0,
-	"AccuracyModifier": 0,
+	"AccuracyModifier": 1,
 	"CriticalChanceMultiplier": 1,
 	"AOECapable": false,
 	"IndirectFireCapable": false,
-	"RefireModifier": 2,
+	"RefireModifier": 3,
 	"ShotsWhenFired": 1,
 	"ProjectilesPerShot": 1,
 	"AttackRecoil": 3,
-	"Instability": 27,
+	"Instability": 20,
 	"WeaponEffectID": "WeaponEffect-Weapon_AC10_Single",
 	"Description": {
 		"Cost": 100000,
