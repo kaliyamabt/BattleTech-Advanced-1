@@ -6,9 +6,8 @@
 			"unit_lance_vanguard",
 			"unit_role_scout",
 			"unit_release",
-			"unit_rarity_4",
-			"Davion",
-			"DavionAssaultGuards",
+			"unit_rarity_1",
+			"unit_gladiator",
 			"unit_legal"
 		],
 		"tagSetSourceFile": ""

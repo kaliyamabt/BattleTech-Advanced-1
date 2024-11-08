@@ -333,7 +333,8 @@
 		"items": [
 			"ClanMech",
 			"OmniMech",
-			"MediumMech"
+			"MediumMech",
+			"HeroMech"
 		],
 		"tagSetSourceFile": ""
 	},
