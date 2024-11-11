@@ -171,7 +171,7 @@
 				"You're saying we fought you before? On {RCNT_SYSTEM}? No recollection, sorry. Are you friends of Wayne Waco's?",
 				"You guys made it off {RCNT_SYSTEM} alive? The office betting pool was sure you'd be leaving in body bags.",
 				"We survived Misery and Luthien. Whatever your little outfit's name is, you're going to suffer just like the Dragon and the Smoke Jaguar did.",
-				"Oh look, another speed bump. This one we've run over before, name of {COMPANY.CompanyName}. Let's see if they survive the ride this time.". ,
+				"Oh look, another speed bump. This one we've run over before, name of {COMPANY.CompanyName}. Let's see if they survive the ride this time.",
 				"What we did to Elson Nova Cat is going to look like a spa when we're through with you amateurs."
 			],
 			"BribeSuccessDialogue": [
